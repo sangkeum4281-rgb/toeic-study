@@ -5,6 +5,7 @@ import { LEVEL_LABEL, type Word } from '../data/words';
 import { useProgress } from '../contexts/ProgressContext';
 import { pickStudyWords, speak } from '../lib/db';
 import { fitPx, useContentWidth } from '../lib/fit';
+import { useSpeaking } from '../lib/speech';
 
 const SESSION = 20;
 
@@ -141,7 +142,7 @@ export default function Study() {
       <div className="flip-card h-80 cursor-pointer select-none" onClick={() => setFlipped((f) => !f)}>
         <div className={`flip-inner relative h-full ${flipped ? 'flipped' : ''}`}>
           <div className="flip-face absolute inset-0 card shadow-pop-lg grid place-items-center p-6">
-            <SpeakButton onClick={() => speak(w.word)} title="단어 발음 듣기" />
+            <SpeakButton text={w.word} title="단어 발음 듣기" />
             <div className="text-center">
               <div className="flex justify-center gap-1.5 mb-3">
                 <span className="chip bg-paper text-ink-mute">{w.pos}</span>
@@ -157,7 +158,7 @@ export default function Study() {
             </div>
           </div>
           <div className="flip-face flip-back absolute inset-0 card shadow-pop-lg bg-lilac-soft border-lilac/40 grid place-items-center p-8">
-            <SpeakButton onClick={() => speak(w.example || w.word)} title="예문 듣기" />
+            <SpeakButton text={w.example || w.word} title="예문 듣기" />
             <div className="text-center">
               <div className="text-sm text-ink-mute mb-1 whitespace-nowrap">{w.word}</div>
               <div className="font-display whitespace-nowrap leading-tight" style={{ fontSize: fitPx(w.meaning, cardWidth - 72, 36, 13) }}>{w.meaning}</div>
@@ -197,13 +198,16 @@ export default function Study() {
   );
 }
 
-/** 카드 오른쪽 위 소리 버튼. 누를 때 카드가 뒤집히지 않게 클릭 전파를 막음 */
-function SpeakButton({ onClick, title }: { onClick: () => void; title: string }) {
+/** 카드 오른쪽 위 소리 버튼. 읽는 동안만 색이 바뀜. 누를 때 카드가 뒤집히지 않게 클릭 전파를 막음 */
+function SpeakButton({ text, title }: { text: string; title: string }) {
+  const active = useSpeaking() === text;
   return (
     <button
-      onClick={(e) => { e.stopPropagation(); onClick(); }}
+      onClick={(e) => { e.stopPropagation(); speak(text); }}
       title={title}
-      className="absolute top-3 right-3 w-10 h-10 rounded-full grid place-items-center text-ink-mute hover:text-brand hover:bg-white/70 transition"
+      className={`absolute top-3 right-3 w-10 h-10 rounded-full grid place-items-center transition ${
+        active ? 'bg-brand text-white' : 'text-ink-mute hover:text-brand hover:bg-white/70'
+      }`}
     >
       <Volume2 size={20} />
     </button>

@@ -154,14 +154,7 @@ export function calcStreak(results: QuizResult[]) {
   return streak;
 }
 
-export function speak(text: string) {
-  if (!('speechSynthesis' in window)) return;
-  speechSynthesis.cancel();
-  const u = new SpeechSynthesisUtterance(text);
-  u.lang = 'en-US';
-  u.rate = 0.9;
-  speechSynthesis.speak(u);
-}
+export { speak } from './speech';
 
 export function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
