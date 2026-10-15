@@ -24,7 +24,7 @@
 
 - `src/data/basic.txt`: TOEIC Service List 1.2에서 너무 쉬운 단어(apple, pizza 등)를 뺀 것 + 직접 고른 핵심 단어
 - `src/data/advanced.txt`: Business Service List 1.2 중 TSL에 없는 단어에서 토익에 맞는 것만 고름 + 900점대 빈출 어휘 보충
-- 형식은 한 줄에 `단어|품사|뜻|예문`. 학습 기록은 단어 자체(소문자)를 id로 저장하므로 순서를 바꿔도 괜찮음. 단, **단어 철자를 고치면 그 단어 기록이 끊김**
+- 형식은 한 줄에 `단어|품사|뜻|예문|예문 해석`. 학습 기록은 단어 자체(소문자)를 id로 저장하므로 순서를 바꿔도 괜찮음. 단, **단어 철자를 고치면 그 단어 기록이 끊김**
 - 파일 순서가 곧 "학습하기"에 나오는 순서(빈도순)
 
 출처: TSL·BSL © Browne, C. & Culligan, B. (newgeneralservicelist.com), CC BY-SA 4.0.

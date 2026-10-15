@@ -1,965 +1,965 @@
-equity|n.|자기 자본, 주식; 공정|The firm raised capital by selling equity.
-sponsorship|n.|후원|The event is funded through corporate sponsorship.
-hedge|v.|(위험을) 회피하다|Companies hedge against currency risk.
-maturity|n.|(채권) 만기; 성숙|The bond reaches maturity in 2030.
-marginal|adj.|미미한, 주변부의|There was only a marginal increase in sales.
-variance|n.|차이, 변동|There is a variance between the budget and actual costs.
-depreciation|n.|감가상각; 가치 하락|Depreciation of equipment is recorded annually.
-entity|n.|독립체, 법인|Each branch operates as a separate entity.
-commodity|n.|상품, 원자재|Oil is a key commodity.
-monetary|adj.|통화의, 금전의|The prize has no monetary value.
-aggregate|adj.|총계의|Aggregate demand fell last quarter.
-valuation|n.|가치 평가|The company's valuation reached $2 billion.
-default|n.|채무 불이행; 기본값|The firm is at risk of default.
-subsidiary|n.|자회사|The firm sold its Asian subsidiary.
-allocation|n.|할당, 배분|The budget allocation for training was increased.
-volatility|n.|변동성|Market volatility worried investors.
-deviation|n.|일탈, 편차|Any deviation from the plan must be approved.
-receivable|adj.|미수의|Accounts receivable rose this quarter.
-creditor|n.|채권자|The company owes money to several creditors.
-surplus|n.|흑자, 잉여|The country has a trade surplus.
-disclosure|n.|공개, 폭로|Full disclosure of fees is required.
-leverage|v.|활용하다; n. 영향력|We can leverage our brand to enter new markets.
-lender|n.|대출 기관|The lender approved the loan.
-gross|adj.|총계의|Gross profit rose by 12%.
-liquidity|n.|유동성|The bank has enough liquidity.
-fraud|n.|사기|The bank detected credit card fraud.
-regulator|n.|규제 기관|Regulators approved the merger.
-trader|n.|거래인, 무역업자|Traders reacted quickly to the news.
-monopoly|n.|독점|The company has a monopoly on the market.
-breach|n.|위반, 침해|The data breach affected thousands of users.
-subsidy|n.|보조금|The government provides subsidies to small businesses.
-borrower|n.|대출자|Borrowers must provide proof of income.
-insurer|n.|보험사|The insurer paid for the damage.
-profitability|n.|수익성|We need to improve profitability.
-scenario|n.|시나리오, 상황|In the worst-case scenario, we lose the contract.
-regulatory|adj.|규제의|The product needs regulatory approval.
-optimal|adj.|최적의|We found the optimal location for the store.
-nominal|adj.|명목상의; 아주 적은|A nominal fee is charged for parking.
-infrastructure|n.|사회 기반 시설|The city is investing in infrastructure.
-disclose|v.|공개하다|The terms of the deal were not disclosed.
-offset|v.|상쇄하다|Higher prices offset the increased costs.
-conversion|n.|전환, 환산|The conversion to the new system took a week.
-stakeholder|n.|이해관계자|All stakeholders were invited to the meeting.
-taxpayer|n.|납세자|The project is funded by taxpayers.
-alliance|n.|제휴, 동맹|The airlines formed an alliance.
-debtor|n.|채무자|Debtors must repay within 60 days.
-liable|adj.|법적 책임이 있는|The company is liable for any damage.
-parameter|n.|한도, 변수|The project must stay within budget parameters.
-integration|n.|통합|The integration of the two systems is complete.
-interval|n.|간격|Buses run at 15-minute intervals.
-defer|v.|연기하다, 미루다|Payment can be deferred until next month.
-payoff|n.|보상, 성과|The payoff from the investment was huge.
-ethical|adj.|윤리적인|We follow ethical business practices.
-publicly|adv.|공개적으로|The company is publicly traded.
-governance|n.|지배 구조, 관리|Good corporate governance builds trust.
-marketer|n.|마케팅 담당자|Marketers target young consumers.
-benchmark|n.|기준, 벤치마크|The product set a new benchmark for quality.
-restructure|v.|구조 조정하다|The company will restructure its sales division.
-residual|adj.|남은, 잔여의|There is a residual balance on the account.
-execute|v.|실행하다|The plan was executed perfectly.
-deem|v.|여기다, 간주하다|The project was deemed a success.
-statistical|adj.|통계의|The report includes statistical analysis.
-allowance|n.|수당; 허용량|Employees receive a travel allowance.
-enforce|v.|시행하다, 집행하다|Security staff enforce the rules.
-emission|n.|배출(물)|The plant reduced carbon emissions.
-warrant|v.|정당화하다; n. 영장|The results warrant further study.
-diversify|v.|다각화하다|The firm diversified into healthcare.
-exploit|v.|활용하다; 착취하다|We should exploit this opportunity.
-sophisticated|adj.|정교한, 세련된|The software uses sophisticated technology.
-taxation|n.|과세|The new taxation rules affect small firms.
-technological|adj.|기술적인|Technological advances changed the industry.
-multinational|adj.|다국적의|She works for a multinational company.
-tariff|n.|관세|The government raised tariffs on imports.
-shrink|v.|줄어들다|The market is shrinking.
-consolidate|v.|통합하다, 강화하다|The company consolidated its two offices.
-taxable|adj.|과세 대상의|Bonuses are taxable income.
-disadvantage|n.|불리한 점|High prices put us at a disadvantage.
-subordinate|n.|부하 직원|She treats her subordinates with respect.
-inflow|n.|유입|There was a large inflow of investment.
-pledge|v.|약속하다, 서약하다|The company pledged to cut emissions.
-collateral|n.|담보물|The house was used as collateral.
-modest|adj.|적당한, 겸손한|Sales showed a modest increase.
-convertible|adj.|전환 가능한|The bonds are convertible into shares.
-thereby|adv.|그렇게 함으로써|We cut costs, thereby raising profits.
-ledger|n.|원장, 장부|All payments are entered in the ledger.
-summit|n.|정상 회담|The summit will be held in Geneva.
-repay|v.|갚다|The loan must be repaid in five years.
-multiply|v.|증가시키다; 곱하다|Our profits multiplied last year.
-consensus|n.|합의|The board reached a consensus.
-essentially|adv.|본질적으로|The two plans are essentially the same.
-undermine|v.|약화시키다|The scandal undermined trust in the brand.
-identical|adj.|동일한|The two products are almost identical.
-surge|n.|급증|There was a surge in online orders.
-predecessor|n.|전임자; 이전 모델|The new model is faster than its predecessor.
-deputy|n.|부(副)~, 대리|The deputy manager will attend the meeting.
-sole|adj.|유일한, 단독의|He is the sole owner of the business.
-outsource|v.|외주를 주다|We outsource our IT support.
-lawsuit|n.|소송|The customer filed a lawsuit.
-notably|adv.|특히, 현저히|Sales rose, notably in Asia.
-fluctuation|n.|변동|Price fluctuations are common in winter.
-discrimination|n.|차별|The company has a strict policy against discrimination.
-widespread|adj.|널리 퍼진|The product has widespread appeal.
-goodwill|n.|호의; 영업권|The free samples created goodwill.
-diversification|n.|다각화|Diversification reduces risk.
-likelihood|n.|가능성|There is a high likelihood of delays.
-orient|v.|~을 지향하게 하다|The company is oriented toward young customers.
-metric|n.|측정 기준|Sales growth is our key metric.
-insider|n.|내부자|Insiders say the deal is close.
-privatization|n.|민영화|The privatization of the railway was approved.
-remedy|n.|해결책|There is no quick remedy for the problem.
-accordance|n.|(in accordance with) ~에 따라|In accordance with the law, we must report this.
-vertical|adj.|수직의|Draw a vertical line.
-consultancy|n.|컨설팅 회사|She works for a management consultancy.
-classification|n.|분류|The classification of documents takes time.
-utilize|v.|활용하다|We should utilize all available resources.
-methodology|n.|방법론|The survey methodology was sound.
-upward|adj.|상승하는|Prices continue their upward trend.
-charter|v.|전세 내다; n. 헌장|We chartered a bus for the trip.
-vulnerable|adj.|취약한|Small firms are vulnerable to price changes.
-dominant|adj.|지배적인|The company is dominant in the market.
-lessee|n.|임차인|The lessee is responsible for repairs.
-sensitivity|n.|민감성|Handle the matter with sensitivity.
-rally|n.|(주가) 반등; 집회|Stocks staged a rally on Friday.
-intangible|adj.|무형의|Brand value is an intangible asset.
-successor|n.|후임자|The board named her successor.
-exempt|adj.|면제된|Small businesses are exempt from the tax.
-globalization|n.|세계화|Globalization opened new markets.
-accrue|v.|(이자 등이) 누적되다|Interest accrues on the unpaid balance.
-interim|adj.|임시의, 중간의|He was named interim CEO.
-payout|n.|지급금|Shareholders received a large payout.
-ambition|n.|야망|She has ambition to lead the company.
-systematic|adj.|체계적인|We need a systematic approach.
-prevail|v.|우세하다, 만연하다|Optimism prevailed at the meeting.
-virtual|adj.|가상의; 사실상의|The tour can be taken in virtual reality.
-observer|n.|관찰자|Industry observers expect growth.
-horizon|n.|수평선; 시야, 범위|Travel broadens your horizons.
-quantitative|adj.|양적인|We collected quantitative data.
-counterpart|n.|상대, 대응 관계자|The CEO met his Japanese counterpart.
-diminish|v.|줄어들다|Demand has diminished.
-collective|adj.|집단의|It was a collective effort.
-repayment|n.|상환|Loan repayments begin next month.
-offshore|adj.|해외의, 역외의|The company has offshore accounts.
-marketplace|n.|시장|The online marketplace is growing.
-comparable|adj.|비교할 만한|Our prices are comparable to theirs.
-municipal|adj.|시의, 지방 자치의|The municipal government approved the plan.
-barrel|n.|배럴, 통|Oil prices hit $90 a barrel.
-accelerate|v.|가속하다|We need to accelerate production.
-mandate|n.|권한, 명령|The board has a mandate to cut costs.
-donor|n.|기부자|Donors gave $1 million.
-tighten|v.|강화하다, 조이다|The bank tightened lending rules.
-amend|v.|수정하다, 개정하다|The contract was amended to include a bonus.
-squeeze|v.|압박하다, 짜내다|Rising costs squeezed profit margins.
-ultimate|adj.|궁극적인|Our ultimate goal is customer satisfaction.
-neutral|adj.|중립의|The mediator remained neutral.
-scrap|v.|폐기하다|The plan was scrapped due to costs.
-pipeline|n.|송유관; (in the pipeline) 진행 중|New products are in the pipeline.
-quota|n.|할당량|Each salesperson has a monthly quota.
-trustee|n.|이사, 수탁자|The board of trustees met yesterday.
-domain|n.|영역; (인터넷) 도메인|The company bought a new domain name.
-frontier|n.|경계, 최첨단|AI is a new frontier for business.
-seize|v.|붙잡다, 압수하다|We must seize this opportunity.
-beneficiary|n.|수혜자|She is the beneficiary of the policy.
-comparative|adj.|비교의|The report includes a comparative analysis.
-readily|adv.|손쉽게, 기꺼이|The parts are readily available.
-fraction|n.|일부, 소량|Only a fraction of applicants were hired.
-solely|adv.|오로지|The decision was based solely on cost.
-capitalization|n.|시가 총액; 자본화|The company's market capitalization doubled.
-pioneer|n.|선구자|She is a pioneer in green energy.
-diplomat|n.|외교관|The diplomat attended the dinner.
-endorse|v.|보증하다, 지지하다|The product is endorsed by a famous athlete.
-intent|n.|의도|The letter of intent was signed.
-lessor|n.|임대인|The lessor must maintain the building.
-affiliate|n.|계열사, 제휴사|The company has affiliates in 20 countries.
-statutory|adj.|법으로 정한|Employees get statutory holidays.
-exporter|n.|수출업자|Korea is a major exporter of cars.
-slump|n.|부진, 폭락|The industry is in a slump.
-lag|v.|뒤처지다|Sales lagged behind expectations.
-volatile|adj.|변동이 심한|The market is volatile.
-enforcement|n.|시행, 집행|Strict enforcement of the rules is needed.
-initiate|v.|시작하다, 착수하다|The company initiated a new program.
-obstacle|n.|장애물|Cost is the main obstacle.
-render|v.|제공하다; ~하게 만들다|Payment is due for services rendered.
-bundle|n.|묶음; v. 묶어 팔다|The software is bundled with the computer.
-issuance|n.|발행|The issuance of new shares was approved.
-capitalize|v.|(on) 이용하다; 자본화하다|We should capitalize on this trend.
-contractual|adj.|계약상의|We have a contractual obligation.
-differential|n.|차이, 격차|There is a price differential between the regions.
-amortization|n.|분할 상환; 상각|The loan has a 20-year amortization period.
-unfair|adj.|불공평한|The new rule is unfair to small firms.
-induce|v.|유도하다, 유발하다|Discounts induce customers to buy more.
-elite|adj.|엘리트의, 최정예의|The hotel serves an elite clientele.
-simultaneously|adv.|동시에|Two events were held simultaneously.
-broadly|adv.|대체로, 널리|We broadly agree with the proposal.
-demographic|adj.|인구 통계의; n. 계층|We are targeting a younger demographic.
-conglomerate|n.|대기업, 복합 기업|The conglomerate owns hotels and airlines.
-sustainable|adj.|지속 가능한|We aim for sustainable growth.
-credibility|n.|신뢰성|The scandal hurt the company's credibility.
-simulation|n.|모의실험|The simulation tested the new system.
-adoption|n.|채택|The adoption of the new policy was quick.
-standardize|v.|표준화하다|We standardized the forms.
-consolidation|n.|통합|Industry consolidation reduced competition.
-sensible|adj.|분별 있는, 합리적인|That is a sensible decision.
-headline|n.|헤드라인, 표제|The merger made headlines.
-deploy|v.|배치하다, 활용하다|The company deployed new software.
-macroeconomic|adj.|거시 경제의|Macroeconomic conditions are improving.
-concession|n.|양보; 영업권|The union won several concessions.
-contingent|adj.|~에 달린, 조건부의|The deal is contingent on approval.
-diverse|adj.|다양한|We have a diverse workforce.
-privately|adv.|개인적으로; 비공개로|The company is privately owned.
-repurchase|v.|재매입하다|The firm will repurchase its shares.
-denote|v.|나타내다, 의미하다|The red mark denotes urgent items.
-inequality|n.|불평등|Income inequality is rising.
-plunge|v.|급락하다|Share prices plunged after the report.
-intensive|adj.|집중적인|The course is two weeks of intensive training.
-nonetheless|adv.|그럼에도 불구하고|It was expensive; nonetheless, we bought it.
-horizontal|adj.|수평의|Draw a horizontal line.
-legally|adv.|법적으로|The contract is legally binding.
-installment|n.|할부금; 1회분|You can pay in monthly installments.
-empirical|adj.|경험적인, 실증적인|The study is based on empirical data.
-revive|v.|되살리다|The plan aims to revive the economy.
-inevitable|adj.|불가피한|Some delays are inevitable.
-array|n.|다수, 배열|The store offers a wide array of products.
-treasury|n.|재무부; 금고|Treasury bonds are a safe investment.
-intermediary|n.|중개자|The agent acts as an intermediary.
-boast|v.|자랑하다; 보유하다|The hotel boasts a rooftop pool.
-discourage|v.|단념시키다|High fees discourage new customers.
-hierarchy|n.|계층, 위계|The company has a flat hierarchy.
-widen|v.|넓히다|The road will be widened.
-transformation|n.|변화, 변신|The company underwent a digital transformation.
-qualitative|adj.|질적인|We used qualitative research methods.
-curb|v.|억제하다|The plan aims to curb spending.
-robust|adj.|탄탄한, 튼튼한|The economy shows robust growth.
-brokerage|n.|중개업; 중개 수수료|She works at a brokerage firm.
-tolerance|n.|관용; 허용 오차|The machine has a low tolerance for error.
-devise|v.|고안하다|We devised a new strategy.
-speculation|n.|추측; 투기|There is speculation about a merger.
-incremental|adj.|점진적인|We saw incremental improvements.
-assert|v.|주장하다|He asserted that the plan would work.
-underwrite|v.|(보험을) 인수하다; 보증하다|The bank will underwrite the share issue.
-differentiate|v.|차별화하다|We differentiate our product with quality.
-correlate|v.|연관성이 있다|Sales correlate with advertising spending.
-compel|v.|강요하다|The law compels firms to report earnings.
-agriculture|n.|농업|The region depends on agriculture.
-slowdown|n.|둔화|The economic slowdown hurt exports.
-adverse|adj.|불리한, 부정적인|The storm had an adverse effect on sales.
-virtue|n.|미덕; 장점|Patience is a virtue.
-bureaucracy|n.|관료주의, 관료 체제|Too much bureaucracy slows decisions.
-threshold|n.|기준점, 문턱|Orders above the threshold get free shipping.
-wholesale|adj.|도매의|We buy goods at wholesale prices.
-legitimate|adj.|정당한, 합법적인|That is a legitimate concern.
-privacy|n.|사생활, 개인 정보|We respect our customers' privacy.
-behavioral|adj.|행동의|The study looks at behavioral patterns.
-tangible|adj.|유형의, 실질적인|The program produced tangible results.
-discharge|v.|해고하다; 방출하다; 퇴원시키다|The patient was discharged yesterday.
-explicit|adj.|명백한|The instructions were explicit.
-breakdown|n.|고장; 내역|Please send a breakdown of the costs.
-span|n.|기간, 범위|The project has a time span of two years.
-incumbent|adj.|현직의; n. 현직자|The incumbent manager will retire.
-outflow|n.|유출|There was a large outflow of capital.
-albeit|conj.|비록 ~이지만|Sales rose, albeit slowly.
-tricky|adj.|까다로운|The question was tricky.
-spokesman|n.|대변인|A company spokesman confirmed the news.
-contingency|n.|비상사태, 만일의 사태|We have a contingency plan.
-judicial|adj.|사법의|The case is under judicial review.
-certainty|n.|확실성|There is no certainty of success.
-mainstream|adj.|주류의|The product is now mainstream.
-rebuild|v.|재건하다|The company worked hard to rebuild its reputation.
-integrity|n.|진실성, 청렴|We value honesty and integrity.
-proposition|n.|제안, 사업 계획|It is an attractive business proposition.
-litigation|n.|소송|The dispute led to litigation.
-amid|prep.|~ 가운데|Stocks fell amid fears of recession.
-straightforward|adj.|간단한, 솔직한|The process is straightforward.
-handful|n.|한 줌, 소수|Only a handful of people attended.
-unchanged|adj.|변하지 않은|Interest rates remained unchanged.
-bidder|n.|입찰자|The contract went to the highest bidder.
-respective|adj.|각각의|They returned to their respective offices.
-deliverable|n.|결과물, 납품물|The project has three key deliverables.
-depict|v.|묘사하다|The painting depicts a harbor scene.
-odds|n.|가능성, 확률|The odds of success are good.
-allegation|n.|혐의, 주장|The company denied the allegations.
-redemption|n.|상환; 교환|Points can be used for redemption of gifts.
-downward|adj.|하향의|Prices are on a downward trend.
-grid|n.|격자; 전력망|The power grid failed.
-depreciate|v.|가치가 떨어지다|Cars depreciate quickly.
-interface|n.|접점; 인터페이스|The software has a simple interface.
-digit|n.|(숫자의) 자리|Enter the last four digits of your card.
-hybrid|adj.|혼합의|Many staff work in a hybrid model.
-provoke|v.|유발하다|The price rise provoked complaints.
-dilemma|n.|딜레마|The company faces a dilemma.
-cease|v.|중단하다|The factory ceased operations.
-distress|n.|고통, 곤경|The company is in financial distress.
-withhold|v.|보류하다, 원천징수하다|Employers withhold tax from your salary.
-legacy|n.|유산|The founder left a lasting legacy.
-thrive|v.|번창하다|Small businesses thrive in this area.
-autonomy|n.|자율성|Employees have autonomy over their schedules.
-accountability|n.|책임|Managers must ensure accountability.
-incorporation|n.|법인 설립; 통합|The firm's incorporation was in 2010.
-batch|n.|한 회분, 묶음|The first batch of products was shipped.
-essence|n.|본질|Time is of the essence.
-unveil|v.|공개하다|The company unveiled its new car.
-intrinsic|adj.|본질적인|The design has intrinsic value.
-formerly|adv.|이전에|The building was formerly a bank.
-optimization|n.|최적화|We focus on process optimization.
-spectrum|n.|범위, 스펙트럼|The store serves a wide spectrum of customers.
-magnitude|n.|규모, 중요성|We underestimated the magnitude of the problem.
-validity|n.|타당성, 유효성|The validity of the ticket is one year.
-interact|v.|상호 작용하다|Staff interact with customers daily.
-intervene|v.|개입하다|The manager intervened in the dispute.
-halt|v.|중단시키다|Production was halted for repairs.
-niche|n.|틈새시장|The firm found a niche in organic foods.
-motive|n.|동기|What was the motive behind the decision?
-whereby|adv.|그에 의하여|We set up a system whereby staff can vote.
-wholly|adv.|완전히|The company is wholly owned by the family.
-supposedly|adv.|아마, 소문에 의하면|The product is supposedly the best.
-crude|adj.|가공하지 않은|Crude oil prices rose.
-commissioner|n.|위원, 국장|The commissioner announced new rules.
-sufficiently|adv.|충분히|The room is sufficiently large.
-protocol|n.|규약, 절차|Follow the safety protocol.
-constrain|v.|제약하다|We are constrained by a tight budget.
-predictable|adj.|예측 가능한|Sales are predictable in summer.
-liquidation|n.|청산|The company went into liquidation.
-impairment|n.|손상; 장애|The asset had an impairment loss.
-harvest|n.|수확|The harvest was good this year.
-objection|n.|이의, 반대|There were no objections to the plan.
-accrual|n.|발생, 누적|Vacation accrual starts after three months.
-confront|v.|직면하다|We must confront the issue.
-passive|adj.|수동적인|He took a passive role in the meeting.
-conditional|adj.|조건부의|The offer is conditional on a background check.
-scrutiny|n.|정밀 조사|The deal is under close scrutiny.
-inherent|adj.|내재된|There are risks inherent in investing.
-explicitly|adv.|명백히|The contract explicitly states the terms.
-payback|n.|투자금 회수|The payback period is three years.
-sacrifice|v.|희생하다|We won't sacrifice quality for speed.
-feasible|adj.|실현 가능한|The plan is technically feasible.
-conviction|n.|확신; 유죄 판결|She spoke with conviction.
-continuously|adv.|계속해서|The system is continuously monitored.
-tier|n.|단계, 층|We offer three pricing tiers.
-transparency|n.|투명성|We value transparency in reporting.
-inadequate|adj.|부적절한, 불충분한|The parking space is inadequate.
-levy|v.|(세금을) 부과하다|A tax is levied on imports.
-freely|adv.|자유롭게|Customers can freely choose their plans.
-reliance|n.|의존|Our reliance on one supplier is risky.
-covenant|n.|계약, 약관|The loan has strict covenants.
-materially|adv.|실질적으로, 상당히|The changes did not materially affect profits.
-procurement|n.|조달, 구매|She works in procurement.
-deter|v.|단념시키다|High prices deter buyers.
-operative|adj.|효력 있는|The new rules become operative in May.
-endure|v.|견디다|The company endured a difficult year.
-distort|v.|왜곡하다|The figures were distorted.
-triple|v.|세 배가 되다|Sales tripled in two years.
-textile|n.|직물, 섬유|The textile industry employs many workers.
-manipulate|v.|조작하다|The data was manipulated.
-refine|v.|정제하다, 개선하다|We refined the design.
-implicit|adj.|암묵적인|There was an implicit agreement.
-deflation|n.|디플레이션|Deflation hurt the economy.
-antitrust|adj.|독점 금지의|The merger faces antitrust review.
-practitioner|n.|전문직 종사자|She is a medical practitioner.
-prosperity|n.|번영|The city enjoyed years of prosperity.
-align|v.|맞추다, 정렬하다|Our goals are aligned with the company's.
-reinvest|v.|재투자하다|Profits are reinvested in the business.
-concede|v.|인정하다; 양보하다|The CEO conceded that mistakes were made.
-controversy|n.|논란|The ad caused controversy.
-fierce|adj.|치열한|Competition in the market is fierce.
-veto|v.|거부하다|The board vetoed the proposal.
-instant|adj.|즉각적인|The product was an instant success.
-handset|n.|휴대전화기, 수화기|The new handset sold well.
-sentiment|n.|정서, 심리|Consumer sentiment improved.
-parity|n.|동등, 평가|The two currencies reached parity.
-centralize|v.|중앙 집중화하다|Purchasing was centralized in Seoul.
-lucrative|adj.|수익성 좋은|The deal was very lucrative.
-stabilize|v.|안정시키다|Prices have stabilized.
-variability|n.|변동성|There is variability in demand.
-strive|v.|노력하다|We strive to exceed expectations.
-enact|v.|(법을) 제정하다|The law was enacted last year.
-controller|n.|재무 관리자|The controller reviewed the budget.
-shield|v.|보호하다|Insurance shields you from loss.
-pact|n.|협정|The two companies signed a pact.
-discretion|n.|재량; 신중함|Bonuses are paid at the manager's discretion.
-dictate|v.|지시하다; 받아쓰게 하다|Market conditions dictate our prices.
-purely|adv.|순전히|The decision was purely financial.
-substitution|n.|대체|No substitutions are allowed on the menu.
-pursuit|n.|추구|The pursuit of quality is our goal.
-minimal|adj.|최소의|The damage was minimal.
-endowment|n.|기부금|The university has a large endowment.
-disability|n.|장애|The building is accessible for people with disabilities.
-governmental|adj.|정부의|The project needs governmental approval.
-competence|n.|능력, 역량|She showed great competence.
-slash|v.|대폭 삭감하다|The store slashed prices by 50%.
-logistics|n.|물류; 세부 계획|He manages logistics for the event.
-scarce|adj.|부족한|Skilled workers are scarce.
-restraint|n.|억제, 자제|The budget requires restraint.
-follower|n.|추종자; 팔로워|The brand has a million followers online.
-crunch|n.|위기, 부족|There is a cash crunch at the end of the month.
-receiver|n.|수화기; 수신자|He picked up the receiver.
-overlap|v.|겹치다|The two meetings overlap.
-lump|n.|덩어리; (lump sum) 일시불|She received a lump sum payment.
-momentum|n.|추진력|The project gained momentum.
-probe|n.|조사|The probe found no wrongdoing.
-reconcile|v.|조정하다, 일치시키다|Please reconcile the accounts.
-indirectly|adv.|간접적으로|The change affects us indirectly.
-namely|adv.|즉|We have one problem, namely cost.
-decent|adj.|괜찮은, 적절한|He earns a decent salary.
-appetite|n.|욕구, 식욕|Investors have little appetite for risk.
-unpopular|adj.|인기 없는|The decision was unpopular.
-confine|v.|국한하다|The problem is confined to one region.
-quantify|v.|수량화하다|It is hard to quantify the benefits.
-persist|v.|지속되다|If the problem persists, call us.
-gauge|v.|측정하다, 판단하다|The survey gauged customer satisfaction.
-skeptical|adj.|회의적인|Investors are skeptical.
-legislative|adj.|입법의|There were legislative changes.
-independently|adv.|독립적으로|Each team works independently.
-negligence|n.|과실, 태만|The accident was caused by negligence.
-determinant|n.|결정 요인|Price is the main determinant of sales.
-redeem|v.|(상품권 등을) 교환하다|Redeem your points for gifts.
-tribunal|n.|재판소|The case went to a tribunal.
-chunk|n.|상당 부분, 덩어리|Rent takes a big chunk of our budget.
-proprietary|adj.|독점의, 소유권이 있는|The software is proprietary.
-intermediate|adj.|중급의|The course is for intermediate learners.
-steep|adj.|가파른; (가격이) 터무니없는|Prices are steep at that store.
-safeguard|v.|보호하다|We safeguard customer data.
-loom|v.|다가오다|A deadline is looming.
-deductible|adj.|공제 가능한|The expenses are tax-deductible.
-conceptual|adj.|개념의|The plan is still at the conceptual stage.
-optimism|n.|낙관주의|There is optimism about the economy.
-painful|adj.|고통스러운|The cuts were painful.
-abolish|v.|폐지하다|The fee was abolished.
-predetermine|v.|미리 결정하다|Prices are predetermined.
-inherit|v.|물려받다|She inherited the family business.
-analytical|adj.|분석적인|The job requires analytical skills.
-stall|v.|지연되다, 멈추다|Talks have stalled.
-lure|v.|유혹하다|Discounts lure shoppers.
-contemplate|v.|고려하다|The company is contemplating a merger.
-socially|adv.|사회적으로|The firm is socially responsible.
-liquidate|v.|청산하다|The company was liquidated.
-outperform|v.|능가하다|The stock outperformed the market.
-optimize|v.|최적화하다|We optimized the website for mobile.
-broadband|n.|초고속 인터넷|All rooms have broadband access.
-equality|n.|평등|We support gender equality.
-entail|v.|수반하다|The job entails a lot of travel.
-attributable|adj.|~의 탓인|The rise is attributable to strong demand.
-revolutionary|adj.|혁명적인|The device is revolutionary.
-carmaker|n.|자동차 제조사|The carmaker recalled 10,000 vehicles.
-discretionary|adj.|재량에 따른|Discretionary spending fell.
-reconciliation|n.|조정, 화해|Bank reconciliation is done monthly.
-directive|n.|지침, 지시|The directive came from headquarters.
-mutually|adv.|서로|We reached a mutually beneficial agreement.
-viable|adj.|실행 가능한|The plan is not financially viable.
-refusal|n.|거절|His refusal surprised us.
-geographic|adj.|지리적인|We expanded our geographic reach.
-consortium|n.|컨소시엄, 협회|A consortium of banks funded the project.
-speculative|adj.|추측의; 투기적인|The report is speculative.
-historically|adv.|역사적으로|Historically, sales are slow in January.
-amortize|v.|분할 상환하다|The loan is amortized over 10 years.
-exploration|n.|탐사, 탐구|Oil exploration continues offshore.
-deliberately|adv.|고의로, 신중히|He deliberately left out some details.
-mill|n.|공장, 제분소|The paper mill closed.
-subjective|adj.|주관적인|Taste is subjective.
-builder|n.|건축업자|The builder finished the house on time.
-peaceful|adj.|평화로운|The hotel is in a peaceful area.
-importantly|adv.|중요하게|More importantly, costs fell.
-backward|adj.|뒤쪽의; 낙후된|Take a step backward.
-overwhelm|v.|압도하다|We were overwhelmed with orders.
-consistency|n.|일관성|Consistency in quality is key.
-unprecedented|adj.|전례 없는|Demand reached unprecedented levels.
-declaration|n.|선언; 신고|Fill out the customs declaration.
-retention|n.|유지, 보유|Employee retention is a priority.
-harsh|adj.|가혹한|The winter was harsh.
-contend|v.|주장하다; 다투다|Critics contend the plan is too costly.
-jointly|adv.|공동으로|The project is jointly funded.
-exclusion|n.|제외|The policy has some exclusions.
-viewer|n.|시청자|The ad reached millions of viewers.
-spur|v.|자극하다, 촉진하다|Low rates spurred investment.
-prospectus|n.|투자 설명서; 안내서|Read the prospectus before investing.
-conscious|adj.|의식하는|Consumers are conscious of price.
-buffer|n.|완충제, 완충 장치|Savings act as a buffer.
-formulate|v.|만들어 내다, 공식화하다|We formulated a new plan.
-browser|n.|(웹) 브라우저|Update your browser.
-cyclical|adj.|주기적인|The industry is cyclical.
-exaggerate|v.|과장하다|The ad exaggerated the benefits.
-cartel|n.|카르텔, 담합|The cartel controlled prices.
-triumph|n.|승리, 대성공|The launch was a triumph.
-rationale|n.|이유, 근거|What is the rationale for the change?
-processor|n.|처리 장치|The computer has a fast processor.
-divert|v.|우회시키다; 전용하다|Traffic was diverted.
-delegation|n.|대표단; 위임|A trade delegation visited Seoul.
-arguably|adv.|거의 틀림없이|It is arguably the best hotel in town.
-distinctive|adj.|독특한|The brand has a distinctive logo.
-inflationary|adj.|인플레이션의|There are inflationary pressures.
-positively|adv.|긍정적으로|Customers responded positively.
-liberalization|n.|자유화|Trade liberalization boosted exports.
-buyout|n.|(기업) 매수|The management buyout was successful.
-separation|n.|분리|There is a clear separation of duties.
-dissolve|v.|해산하다; 녹다|The partnership was dissolved.
-remarkably|adv.|놀랍게도|Sales were remarkably strong.
-spark|v.|촉발하다|The news sparked a sell-off.
-migration|n.|이주; (데이터) 이전|The data migration took a weekend.
-dip|n.|하락|There was a dip in sales.
-slogan|n.|구호, 슬로건|The slogan is easy to remember.
-competitiveness|n.|경쟁력|We must improve our competitiveness.
-inclusion|n.|포함|The inclusion of tax raised the price.
-copper|n.|구리|Copper prices rose.
-justification|n.|정당화, 이유|There is no justification for the delay.
-outright|adv.|완전히, 즉시|The company bought the building outright.
-stance|n.|입장, 태도|The firm changed its stance on remote work.
-fringe|adj.|부가적인; (fringe benefit) 부가 혜택|Fringe benefits include a car.
-bitter|adj.|쓴; 격렬한|There was a bitter dispute.
-hostility|n.|적대감|There was hostility between the teams.
-enlargement|n.|확장|The enlargement of the store is planned.
-hub|n.|중심지|The city is a transport hub.
-trim|v.|다듬다, 삭감하다|We trimmed the budget.
-lesser|adj.|덜한|To a lesser extent, prices rose too.
-forthcoming|adj.|다가오는; 기꺼이 알려주는|Details will be announced in the forthcoming report.
-artificial|adj.|인공의|The company uses artificial intelligence.
-trait|n.|특성|Patience is a useful trait.
-portray|v.|묘사하다|The ad portrays a happy family.
-echo|v.|되풀이하다, 공감하다|Many staff echoed her concerns.
-haul|v.|운반하다|Trucks haul goods across the country.
-financially|adv.|재정적으로|The company is financially stable.
-maximization|n.|극대화|Profit maximization is the goal.
-competency|n.|역량|The job requires core competencies.
-dissolution|n.|해산, 해체|The dissolution of the partnership was agreed.
-distortion|n.|왜곡|The figures contain distortions.
-continually|adv.|계속해서|We continually improve our products.
-coordination|n.|조정, 협조|The event needs careful coordination.
-awkward|adj.|어색한, 곤란한|It was an awkward situation.
-slack|adj.|부진한, 느슨한|Business is slack in winter.
-drift|v.|표류하다, 떠돌다|Prices drifted lower.
-vaccine|n.|백신|The vaccine is free for staff.
-emergence|n.|출현|The emergence of online shopping changed retail.
-interference|n.|간섭, 방해|The signal had interference.
-indifference|n.|무관심|Customer indifference hurt sales.
-encompass|v.|포함하다, 아우르다|The plan encompasses all departments.
-proportional|adj.|비례하는|Pay is proportional to hours worked.
-uncover|v.|밝혀내다|The audit uncovered errors.
-petty|adj.|사소한; (petty cash) 소액 현금|Use petty cash for small purchases.
-convergence|n.|수렴, 융합|There is a convergence of technologies.
-worsen|v.|악화되다|The situation worsened.
-rejection|n.|거절|We received a letter of rejection.
-reorganization|n.|재편성|The reorganization affected all staff.
-mitigate|v.|완화하다|We took steps to mitigate the risk.
-successive|adj.|연속적인|Profits rose for five successive years.
-blend|n.|혼합|The coffee is a blend of beans.
-simplicity|n.|단순함|The design is known for its simplicity.
-static|adj.|정적인, 변화 없는|Sales have been static.
-deregulation|n.|규제 철폐|Deregulation opened the market.
-computerize|v.|전산화하다|All records are computerized.
-succession|n.|계승; 연속|The board discussed succession planning.
-royalty|n.|인세, 사용료|The author receives royalties.
-spectacular|adj.|장관인|The view is spectacular.
-flourish|v.|번창하다|The business flourished.
-complement|v.|보완하다|The wine complements the meal.
-oral|adj.|구두의|Give an oral presentation.
-setup|n.|설치, 구성|The setup takes ten minutes.
-notable|adj.|주목할 만한|There were notable improvements.
-numerical|adj.|숫자의|Enter the numerical code.
-policymaker|n.|정책 입안자|Policymakers met to discuss rates.
-technically|adv.|기술적으로; 엄밀히 말하면|Technically, the store is closed.
-utilization|n.|이용, 활용|Capacity utilization rose.
-tumble|v.|폭락하다|Shares tumbled 10%.
-baseline|n.|기준선|We set a baseline for comparison.
-template|n.|견본, 템플릿|Use this template for the report.
-instability|n.|불안정|Political instability hurt investment.
-denominate|v.|(화폐 단위로) 표시하다|The bonds are denominated in dollars.
-shortfall|n.|부족액|There is a budget shortfall.
-originate|v.|비롯되다|The idea originated in our team.
-bureaucratic|adj.|관료적인|The process is too bureaucratic.
-prevention|n.|예방|Fire prevention is everyone's job.
-redundancy|n.|정리 해고; 중복|The company announced 200 redundancies.
-dual|adj.|이중의|The device has a dual function.
-brick|n.|벽돌|The building is made of brick.
-internally|adv.|내부적으로|The position was filled internally.
-erode|v.|약화시키다, 침식하다|Inflation erodes savings.
-refinance|v.|재융자하다|They refinanced their mortgage.
-empower|v.|권한을 주다|We empower staff to make decisions.
-oversight|n.|감독; 실수|The error was an oversight.
-transparent|adj.|투명한|The pricing is transparent.
-dominance|n.|우위, 지배|The firm's dominance is fading.
-segmentation|n.|세분화|Market segmentation helps targeting.
-hugely|adv.|엄청나게|The event was hugely popular.
-arbitrary|adj.|임의의|The decision seemed arbitrary.
-seemingly|adv.|겉보기에|The task is seemingly simple.
-wholesaler|n.|도매업자|We buy from a wholesaler.
-renewable|adj.|재생 가능한; 갱신 가능한|The contract is renewable.
-bilateral|adj.|쌍방의|The countries signed a bilateral agreement.
-cotton|n.|면|The shirt is 100% cotton.
-intensity|n.|강도|The intensity of competition increased.
-routinely|adv.|일상적으로|Equipment is routinely checked.
-displace|v.|대체하다, 쫓아내다|Robots may displace workers.
-immune|adj.|면역의, 영향 받지 않는|No company is immune to the recession.
-mobility|n.|이동성|The job offers career mobility.
-dilute|v.|희석하다|New shares will dilute ownership.
-precedent|n.|선례|The ruling set a precedent.
-elaborate|adj.|정교한; v. 자세히 설명하다|Could you elaborate on that point?
-reprint|v.|재판하다|The book was reprinted.
-idle|adj.|가동되지 않는|The machines sat idle.
-allegedly|adv.|주장된 바에 의하면|The money was allegedly stolen.
-annualize|v.|연율로 환산하다|The annualized return was 8%.
-turmoil|n.|혼란|The market is in turmoil.
-reinforcement|n.|강화; 증원|Reinforcements were sent to help.
-wary|adj.|경계하는|Customers are wary of price increases.
-credible|adj.|믿을 수 있는|We need credible data.
-capita|n.|(per capita) 1인당|Income per capita rose.
-underestimate|v.|과소평가하다|We underestimated the cost.
-tolerate|v.|용인하다|We do not tolerate harassment.
-downside|n.|불리한 면|The downside is the high cost.
-fragile|adj.|깨지기 쉬운|Handle fragile items with care.
-subtle|adj.|미묘한|There are subtle differences.
-replicate|v.|복제하다, 재현하다|We hope to replicate this success.
-breakthrough|n.|돌파구, 획기적 발견|The team made a breakthrough.
-marketable|adj.|시장성 있는|The product is highly marketable.
-conjunction|n.|(in conjunction with) ~와 함께|The event is held in conjunction with the expo.
-overhaul|v.|정비하다, 점검하다|The system was overhauled.
-sensor|n.|감지기|The door has a motion sensor.
-doubtful|adj.|의심스러운|Success is doubtful.
-grasp|v.|이해하다; 움켜쥐다|She quickly grasped the concept.
-injection|n.|주입, 투입|The company needs a cash injection.
-bracket|n.|계층, 범위|He is in a higher tax bracket.
-hurdle|n.|장애물|We cleared the final hurdle.
-coincide|v.|동시에 일어나다|The sale coincides with the holiday.
-commentator|n.|해설자, 논평가|Commentators expect growth.
-premier|adj.|최고의|It is the premier hotel in town.
-incline|v.|~하는 경향이 있다|I'm inclined to agree.
-averse|adj.|싫어하는|Investors are risk-averse.
-enlarge|v.|확대하다|We enlarged the photo.
-fairness|n.|공정성|Fairness is important in hiring.
-dependency|n.|의존|We must reduce dependency on imports.
-prepayment|n.|선불|Prepayment is required.
-perpetual|adj.|끊임없는, 영구적인|The office is in perpetual chaos.
-ration|v.|배급하다|Supplies were rationed.
-inability|n.|무능, ~할 수 없음|His inability to meet deadlines is a problem.
-discriminate|v.|차별하다; 구별하다|Employers cannot discriminate based on age.
-analytic|adj.|분석적인|We use analytic tools.
-proliferation|n.|확산|The proliferation of smartphones changed shopping.
-autonomous|adj.|자율적인|The company tests autonomous vehicles.
-prone|adj.|~하기 쉬운|The area is prone to flooding.
-inefficiency|n.|비효율|We must eliminate inefficiency.
-downgrade|v.|등급을 내리다|The agency downgraded the bank.
-openly|adv.|공개적으로|The staff spoke openly about the issue.
-elastic|adj.|탄력적인|Demand for luxury goods is elastic.
-oust|v.|축출하다|The CEO was ousted by the board.
-entrant|n.|신규 참가자|New entrants face high costs.
-underwriter|n.|(보험) 인수자|The underwriter approved the policy.
-newcomer|n.|신입, 새로 온 사람|Newcomers are welcome.
-prolong|v.|연장하다|The talks were prolonged.
-salvage|v.|구조하다, 회수하다|We salvaged some of the data.
-pursuant|adj.|(pursuant to) ~에 따라|Pursuant to the contract, payment is due now.
-appropriately|adv.|적절하게|Please dress appropriately.
-accusation|n.|비난, 고발|He denied the accusation.
-entrepreneurial|adj.|기업가적인|She has an entrepreneurial spirit.
-devaluation|n.|평가 절하|The currency devaluation raised import costs.
-outlay|n.|지출, 경비|The initial outlay was high.
-simulate|v.|모의 실험하다|The program simulates real conditions.
-precious|adj.|귀중한|Time is precious.
-regain|v.|되찾다|The firm regained market share.
-differentiation|n.|차별화|Product differentiation is key.
-restrictive|adj.|제한적인|The rules are too restrictive.
-deed|n.|증서; 행위|Sign the property deed.
-competent|adj.|유능한|She is a competent manager.
-occasional|adj.|가끔의|There are occasional delays.
-globe|n.|세계, 지구|We have customers around the globe.
-isolation|n.|고립|Working from home can lead to isolation.
-overstate|v.|과장하다|The report overstated profits.
-partition|n.|칸막이|A partition separates the desks.
-hypothetical|adj.|가정의|Let's consider a hypothetical case.
-deprive|v.|빼앗다|The strike deprived us of supplies.
-investigator|n.|조사관|An investigator examined the accident.
-tactical|adj.|전술의|It was a tactical decision.
-psychology|n.|심리(학)|Consumer psychology affects pricing.
-reap|v.|거두다|We reaped the benefits of the investment.
-disposable|adj.|일회용의; 처분 가능한|Use disposable gloves.
-arbitration|n.|중재|The dispute went to arbitration.
-boycott|n.|불매 운동|Consumers organized a boycott.
-discrete|adj.|별개의|The project has three discrete phases.
-gloomy|adj.|우울한, 비관적인|The forecast is gloomy.
-unpredictable|adj.|예측할 수 없는|The weather is unpredictable.
-accumulation|n.|축적|The accumulation of debt is a concern.
-disastrous|adj.|처참한|The launch was disastrous.
-prototype|n.|시제품|The prototype was tested last week.
-defensive|adj.|방어적인|He became defensive when questioned.
-drain|v.|소모시키다; 배수하다|The project drained our resources.
-frustration|n.|좌절, 불만|Customers expressed frustration.
-undervalue|v.|과소평가하다|The shares are undervalued.
-diligence|n.|근면; (due diligence) 실사|We completed due diligence on the deal.
-outweigh|v.|~보다 크다|The benefits outweigh the costs.
-undoubtedly|adv.|의심할 여지 없이|It is undoubtedly the best option.
-composite|adj.|합성의|The deck is made of composite material.
-eventual|adj.|궁극적인|The eventual cost was double.
-vague|adj.|모호한|The instructions were vague.
-correspondent|n.|특파원|A correspondent reported from Tokyo.
-synthetic|adj.|합성의|The jacket is made of synthetic fabric.
-outbreak|n.|발생, 발발|An outbreak of flu closed the office.
-deficiency|n.|결핍, 결함|The audit found deficiencies.
-imbalance|n.|불균형|There is a trade imbalance.
-bolster|v.|강화하다|The campaign bolstered sales.
-constructive|adj.|건설적인|Thank you for your constructive feedback.
-commence|v.|시작하다|The meeting will commence at 9 A.M.
-skeptic|n.|회의론자|Skeptics doubt the plan will work.
-bounce|v.|되돌아오다; 반등하다|The e-mail bounced back.
-endorsement|n.|지지, 보증|The product got a celebrity endorsement.
-unwilling|adj.|꺼리는|They were unwilling to compromise.
-cheaply|adv.|싸게|The goods were made cheaply.
-enrich|v.|풍부하게 하다|The course will enrich your skills.
-collectively|adv.|집합적으로|The team collectively decided.
-decree|n.|법령|The government issued a decree.
-enhancement|n.|향상|The update includes security enhancements.
-decentralize|v.|분산시키다|The company decentralized decision-making.
-pensioner|n.|연금 수급자|Pensioners get a discount.
-presume|v.|추정하다|I presume you have read the report.
-prudent|adj.|신중한|It is prudent to save money.
-census|n.|인구 조사|The census is taken every ten years.
-vow|v.|맹세하다|The CEO vowed to cut costs.
-ineffective|adj.|효과 없는|The campaign was ineffective.
-adequately|adv.|충분히, 적절히|Staff were not adequately trained.
-testimony|n.|증언|The witness gave testimony.
-manipulation|n.|조작|Price manipulation is illegal.
-cooperative|adj.|협조적인; n. 협동조합|The staff were very cooperative.
-rigid|adj.|엄격한, 융통성 없는|The rules are too rigid.
-tenure|n.|재임 기간|During his tenure, sales doubled.
-milestone|n.|중요한 단계, 이정표|The project reached a milestone.
-optimum|adj.|최적의|The optimum temperature is 20°C.
-subsection|n.|세부 항목|See subsection 3.2.
-formulation|n.|공식화; 제조법|The new formulation is safer.
-exert|v.|(힘을) 행사하다|The union exerted pressure on management.
-expectancy|n.|기대(치)|Life expectancy has increased.
-syndicate|n.|연합, 신디케이트|A syndicate of banks provided the loan.
-unfavorable|adj.|불리한|Weather conditions were unfavorable.
-proprietorship|n.|소유권; (sole proprietorship) 개인 사업|He runs a sole proprietorship.
-policyholder|n.|보험 계약자|Policyholders will receive a refund.
-sustainability|n.|지속 가능성|We focus on sustainability.
-supervisory|adj.|감독의|She holds a supervisory position.
-sheer|adj.|순전한|The sheer size of the project is impressive.
-realization|n.|깨달음; 실현|The realization of our goals took years.
-reinvestment|n.|재투자|Reinvestment of profits drives growth.
-pending|adj.|미결의, 계류 중인|The decision is pending approval.
-scatter|v.|흩어지다|Offices are scattered around the city.
-annum|n.|(per annum) 연간|The salary is $50,000 per annum.
-restrain|v.|억제하다|We must restrain spending.
-configuration|n.|구성, 설정|Check the network configuration.
-reportedly|adv.|전하는 바에 의하면|The CEO is reportedly leaving.
-negotiator|n.|협상가|She is a skilled negotiator.
-embody|v.|구현하다|The product embodies our values.
-deployment|n.|배치, 배포|The software deployment went smoothly.
-detection|n.|탐지|Early detection prevents damage.
-intelligent|adj.|지능적인, 총명한|The system uses intelligent sensors.
-conservation|n.|보존|Energy conservation saves money.
-slim|adj.|희박한; 날씬한|Chances of success are slim.
-synergy|n.|시너지|The merger will create synergies.
-disguise|v.|숨기다, 위장하다|The figures disguised the losses.
-selective|adj.|선별적인|The company is selective in hiring.
-assertion|n.|주장|His assertion was not supported by data.
-fraudulent|adj.|사기의|The charges were fraudulent.
-constituent|n.|구성 요소; 유권자|Each constituent part was tested.
-fiduciary|adj.|신탁의, 수탁자의|Directors have a fiduciary duty.
-speculate|v.|추측하다; 투기하다|Analysts speculate about a merger.
-citizenship|n.|시민권|She applied for citizenship.
-rebound|v.|반등하다|Sales rebounded in spring.
-scorecard|n.|평가표|We use a balanced scorecard.
-contributor|n.|기여자, 기고자|She is a regular contributor to the magazine.
-negotiable|adj.|협상 가능한|The salary is negotiable.
-reconstruction|n.|재건|The reconstruction of the bridge is underway.
-restate|v.|다시 말하다|Let me restate the question.
-rightly|adv.|당연히, 정당하게|Customers are rightly upset.
-converge|v.|모이다, 수렴하다|Thousands converged on the city for the expo.
-incorrect|adj.|부정확한|The address was incorrect.
-compulsory|adj.|의무적인|Training is compulsory for all staff.
-dismantle|v.|해체하다|The old machines were dismantled.
-precision|n.|정밀성|The parts are made with precision.
-duly|adv.|적절히, 정식으로|Your request has been duly noted.
-imminent|adj.|임박한|A decision is imminent.
-sympathy|n.|동정, 공감|We have sympathy for their situation.
-forecaster|n.|예측가, 기상 예보관|Forecasters predict rain.
-conceal|v.|숨기다|He concealed the losses.
-unrelated|adj.|무관한|The two issues are unrelated.
-clarity|n.|명확성|The report lacks clarity.
-rigorous|adj.|엄격한, 철저한|All products undergo rigorous testing.
-maneuver|v.|조종하다|The truck maneuvered into the dock.
-prosperous|adj.|번영하는|It is a prosperous region.
-statistically|adv.|통계적으로|The difference is statistically significant.
-specialization|n.|전문화|Specialization improves efficiency.
-globally|adv.|세계적으로|The brand is known globally.
-pronounce|v.|발음하다; 선언하다|How do you pronounce his name?
-unify|v.|통합하다|The new logo unifies the brands.
-dismissal|n.|해고|He appealed his dismissal.
-empowerment|n.|권한 부여|Employee empowerment improves morale.
-revival|n.|부활, 회복|There is a revival in demand.
-swiftly|adv.|신속하게|The problem was swiftly resolved.
-void|adj.|무효의|The contract is void.
-instinct|n.|본능, 직감|Trust your instincts.
-deliberate|adj.|고의의, 신중한|It was a deliberate decision.
-approximation|n.|근사치|The figure is only an approximation.
-unsecured|adj.|무담보의|It is an unsecured loan.
-quotation|n.|견적(서); 인용|Please send us a quotation.
-mold|n.|틀; 곰팡이|The parts are made in a mold.
-impair|v.|손상시키다|The injury impaired his ability to work.
-testify|v.|증언하다|She testified in court.
-persistent|adj.|끈질긴, 지속적인|There is a persistent problem with the printer.
-catastrophe|n.|재앙|The flood was a catastrophe.
-endless|adj.|끝없는|There was an endless line of customers.
-revaluation|n.|재평가|The revaluation of assets increased equity.
-worthy|adj.|~할 가치가 있는|The proposal is worthy of consideration.
-resale|n.|재판매|The car has good resale value.
-progressive|adj.|진보적인; 점진적인|The company has progressive policies.
-corrective|adj.|바로잡는|Corrective action was taken.
-speculator|n.|투기꾼|Speculators drove up prices.
-inconsistent|adj.|일관성 없는|The results were inconsistent.
-plainly|adv.|분명히|The instructions are plainly written.
-equate|v.|동일시하다|Don't equate price with quality.
-unexpectedly|adv.|뜻밖에|Sales rose unexpectedly.
-timber|n.|목재|The house is made of timber.
-credential|n.|자격 증명|Check the applicant's credentials.
-randomly|adv.|무작위로|Winners will be chosen randomly.
-underpin|v.|뒷받침하다|Strong demand underpins growth.
-heir|n.|상속인|He is the heir to the company.
-genuinely|adv.|진정으로|We are genuinely sorry.
-severely|adv.|심하게|The building was severely damaged.
-grim|adj.|암울한|The outlook is grim.
-physically|adv.|신체적으로|The job is physically demanding.
-disposition|n.|성향; 처분|She has a cheerful disposition.
-misunderstand|v.|오해하다|Please don't misunderstand my question.
-outgoing|adj.|외향적인; 떠나는|The outgoing CEO gave a speech.
-worksheet|n.|작업표|Complete the worksheet.
-intercept|v.|가로채다|The package was intercepted.
-dent|n.|움푹 들어간 곳; 타격|The costs made a dent in our budget.
-absorption|n.|흡수|The absorption of the smaller firm took a year.
-importer|n.|수입업자|We are the largest importer of coffee.
-continuity|n.|연속성|Business continuity planning is essential.
-dismal|adj.|형편없는|Sales were dismal.
-magnetic|adj.|자석의|Swipe the magnetic strip.
-generalize|v.|일반화하다|It's hard to generalize.
-confrontation|n.|대립|We want to avoid confrontation.
-demise|n.|종말, 소멸|The store's demise surprised no one.
-reversal|n.|반전|There was a reversal of the trend.
-tide|n.|조류, 흐름|The tide turned in our favor.
-saver|n.|저축하는 사람; 절약 장치|Savers earn little interest now.
-intensify|v.|강화하다|Competition intensified.
-reluctance|n.|꺼림|There is reluctance to spend.
-aviation|n.|항공|She works in aviation.
-defy|v.|거역하다; 무시하다|The stock defied the market trend.
-confer|v.|상의하다; 수여하다|I need to confer with my team.
-surveillance|n.|감시|The store has surveillance cameras.
-decimal|n.|소수|Round to two decimal places.
-stipulate|v.|(계약서에) 규정하다|The contract stipulates a 30-day notice period.
-unanimous|adj.|만장일치의|The board reached a unanimous decision.
-commensurate|adj.|상응하는|Salary will be commensurate with experience.
-impending|adj.|임박한|Staff were informed of the impending merger.
-abundant|adj.|풍부한|The region has abundant natural resources.
-adept|adj.|능숙한|She is adept at handling difficult clients.
-adjourn|v.|휴회하다|The meeting was adjourned until Monday.
-advocate|v.|옹호하다; n. 지지자|He advocates flexible working hours.
-allegiance|n.|충성|Customers show strong allegiance to the brand.
-amass|v.|모으다, 축적하다|She amassed a fortune in real estate.
-anticipate|v.|예상하다|We anticipate strong demand this winter.
-apprise|v.|알리다|Please keep me apprised of any changes.
-ascertain|v.|확인하다|We are trying to ascertain the cause of the error.
-assess|v.|평가하다|Experts will assess the damage.
-attribute|v.|~의 덕분으로 보다|She attributes her success to hard work.
-circumvent|v.|피해 가다, 우회하다|They tried to circumvent the rules.
-coherent|adj.|일관성 있는|We need a coherent marketing strategy.
-commend|v.|칭찬하다|The manager commended the team for its effort.
-comprehensive|adj.|포괄적인|The guide provides comprehensive information.
-concise|adj.|간결한|Keep your summary concise.
-concur|v.|동의하다|I concur with your assessment.
-conducive|adj.|도움이 되는|The quiet office is conducive to work.
-culminate|v.|절정에 이르다|The festival culminates in a fireworks show.
-curtail|v.|축소하다, 단축하다|The company curtailed its travel budget.
-delinquent|adj.|연체된|Delinquent accounts will be charged a fee.
-detrimental|adj.|해로운|Stress is detrimental to productivity.
-discern|v.|알아차리다, 분별하다|It is hard to discern any pattern.
-disseminate|v.|퍼뜨리다, 보급하다|The report will be disseminated to all staff.
-earmark|v.|(자금을) 배정하다|The funds are earmarked for research.
-eloquent|adj.|유창한, 설득력 있는|She gave an eloquent speech.
-embark|v.|착수하다; 승선하다|The company embarked on a major expansion.
-endeavor|n.|노력, 시도|We wish you success in your future endeavors.
-enumerate|v.|열거하다|The report enumerates the main risks.
-exacerbate|v.|악화시키다|The delay exacerbated the problem.
-exemplary|adj.|모범적인|She received an award for exemplary service.
-expedient|adj.|편리한, 방편적인|It was expedient to hire a contractor.
-forfeit|v.|몰수당하다, 상실하다|Late cancellations forfeit the deposit.
-garner|v.|얻다, 모으다|The product garnered positive reviews.
-hamper|v.|방해하다|Bad weather hampered the delivery.
-impeccable|adj.|흠잡을 데 없는|The hotel's service was impeccable.
-inadvertently|adv.|무심코, 부주의로|The file was inadvertently deleted.
-incentive|n.|장려책, 인센티브|Sales staff receive incentives for meeting targets.
-indispensable|adj.|없어서는 안 될|She is an indispensable member of the team.
-inquisitive|adj.|호기심 많은|Inquisitive employees often find new ideas.
-intact|adj.|손상되지 않은|The package arrived intact.
-itemize|v.|항목별로 적다|Please itemize your expenses.
-jeopardize|v.|위태롭게 하다|The delay could jeopardize the deal.
-lenient|adj.|관대한|The new return policy is more lenient.
-meticulous|adj.|꼼꼼한|She keeps meticulous records.
-mediate|v.|중재하다|A third party will mediate the dispute.
-negligible|adj.|무시할 수 있는, 미미한|The cost difference is negligible.
-notwithstanding|prep.|~에도 불구하고|Notwithstanding the delays, the project was a success.
-obsolete|adj.|더 이상 쓰이지 않는, 구식의|The old software is now obsolete.
-onerous|adj.|부담스러운|The new rules are onerous for small firms.
-patronage|n.|애용, 후원|Thank you for your continued patronage.
-pertinent|adj.|관련 있는|Please include all pertinent information.
-plummet|v.|급락하다|Profits plummeted last quarter.
-preclude|v.|불가능하게 하다, 막다|The schedule precludes a second meeting.
-prerequisite|n.|전제 조건|A degree is a prerequisite for the job.
-procure|v.|조달하다|We procured supplies from overseas.
-proficient|adj.|능숙한|Applicants must be proficient in English.
-prohibitive|adj.|(가격이) 엄청나게 비싼|The cost of the repair was prohibitive.
-proximity|n.|근접|The hotel's proximity to the airport is convenient.
-punctuality|n.|시간 엄수|Punctuality is important in this job.
-ramification|n.|(예상 밖의) 결과, 영향|Consider the ramifications of the decision.
-rectify|v.|바로잡다|We will rectify the error immediately.
-redundant|adj.|불필요한, 중복되는; 해고된|Several positions became redundant.
-relinquish|v.|포기하다, 양도하다|He relinquished control of the company.
-remittance|n.|송금(액)|Please send your remittance by Friday.
-reputable|adj.|평판이 좋은|Buy only from reputable dealers.
-rescind|v.|철회하다, 취소하다|The company rescinded the job offer.
-retain|v.|유지하다, 보유하다|We want to retain our best employees.
-scrutinize|v.|면밀히 조사하다|Auditors scrutinized the accounts.
-solicit|v.|요청하다, 간청하다|We are soliciting feedback from customers.
-stringent|adj.|엄격한|The factory follows stringent safety standards.
-substantiate|v.|입증하다|Can you substantiate your claim?
-succinct|adj.|간결한|Her report was clear and succinct.
-supersede|v.|대체하다|The new policy supersedes the old one.
-tentative|adj.|잠정적인|The schedule is tentative and may change.
-vigilant|adj.|경계하는|Staff must remain vigilant about security.
-waiver|n.|권리 포기 각서; 면제|Participants must sign a waiver.
-yield|v.|산출하다; n. 수익|The investment yielded a 10% return.
-adversely|adv.|불리하게|Sales were adversely affected by the weather.
-alleviate|v.|완화하다|The new road will alleviate congestion.
-amenable|adj.|순응하는, 잘 받아들이는|The client is amenable to the changes.
-appraise|v.|평가하다, 감정하다|The house was appraised at $400,000.
-arbitrate|v.|중재하다|An expert was hired to arbitrate the dispute.
-attainable|adj.|달성 가능한|Set attainable goals for your team.
-augment|v.|늘리다, 증가시키다|He took a second job to augment his income.
-commemorate|v.|기념하다|The event commemorates the company's founding.
-complementary|adj.|상호 보완적인|The two products are complementary.
-comprise|v.|구성하다|The committee comprises five members.
-consign|v.|위탁하다, 맡기다|The goods were consigned to a dealer.
-constraint|n.|제약|We are working under budget constraints.
-deplete|v.|고갈시키다|Supplies were quickly depleted.
-dwindle|v.|줄어들다|Our savings dwindled over time.
-elicit|v.|(반응을) 이끌어 내다|The survey elicited many responses.
-embargo|n.|수출입 금지|The government lifted the trade embargo.
-entitle|v.|자격을 주다|Members are entitled to free parking.
-exorbitant|adj.|터무니없이 비싼|The hotel charges exorbitant prices.
-fortify|v.|강화하다|The company fortified its market position.
-impose|v.|부과하다|The city imposed a new tax.
-inception|n.|시작, 개시|The firm has grown since its inception.
-influx|n.|유입|The festival brings an influx of tourists.
-inaugurate|v.|개관하다; 취임시키다|The mayor inaugurated the new library.
-lapse|v.|(권리 등이) 소멸하다; n. 실수|Your membership will lapse if not renewed.
-negligent|adj.|태만한, 부주의한|The landlord was negligent in repairs.
-novice|n.|초보자|The course is suitable for novices.
-obligatory|adj.|의무적인|Attendance is obligatory for all staff.
-perishable|adj.|부패하기 쉬운|Perishable goods must be refrigerated.
-pertain|v.|관련되다|The rules pertain to all employees.
-procrastinate|v.|미루다|Don't procrastinate on the report.
-quarantine|n.|격리|The shipment was held in quarantine.
-reciprocal|adj.|상호의|The firms have a reciprocal agreement.
-remuneration|n.|보수|The position offers attractive remuneration.
-replenish|v.|다시 채우다|Please replenish the supplies.
-revoke|v.|취소하다, 철회하다|His license was revoked.
-sanction|n.|제재; 승인|The plan received official sanction.
-stagnant|adj.|정체된|Wages have been stagnant for years.
-subsequent|adj.|그 후의|Subsequent orders will get a discount.
-surpass|v.|능가하다|Sales surpassed our expectations.
-susceptible|adj.|영향을 받기 쉬운|The plants are susceptible to frost.
-turnaround|n.|호전, 회생|The new CEO led a remarkable turnaround.
-utmost|adj.|최대한의|The matter is of the utmost importance.
+equity|n.|자기 자본, 주식; 공정|The firm raised capital by selling equity.|그 회사는 지분을 팔아 자본을 마련했어요.
+sponsorship|n.|후원|The event is funded through corporate sponsorship.|그 행사는 기업 후원으로 운영돼요.
+hedge|v.|(위험을) 회피하다|Companies hedge against currency risk.|기업들은 환율 위험을 회피해요.
+maturity|n.|(채권) 만기; 성숙|The bond reaches maturity in 2030.|그 채권은 2030년에 만기가 돼요.
+marginal|adj.|미미한, 주변부의|There was only a marginal increase in sales.|매출은 아주 조금 늘었을 뿐이에요.
+variance|n.|차이, 변동|There is a variance between the budget and actual costs.|예산과 실제 비용 사이에 차이가 있어요.
+depreciation|n.|감가상각; 가치 하락|Depreciation of equipment is recorded annually.|장비의 감가상각은 매년 기록해요.
+entity|n.|독립체, 법인|Each branch operates as a separate entity.|각 지점은 별도 법인으로 운영돼요.
+commodity|n.|상품, 원자재|Oil is a key commodity.|석유는 핵심 원자재예요.
+monetary|adj.|통화의, 금전의|The prize has no monetary value.|그 상품은 금전적 가치가 없어요.
+aggregate|adj.|총계의|Aggregate demand fell last quarter.|지난 분기 총수요가 줄었어요.
+valuation|n.|가치 평가|The company's valuation reached $2 billion.|그 회사의 가치 평가액이 20억 달러에 달했어요.
+default|n.|채무 불이행; 기본값|The firm is at risk of default.|그 회사는 채무 불이행 위험이 있어요.
+subsidiary|n.|자회사|The firm sold its Asian subsidiary.|그 회사는 아시아 자회사를 팔았어요.
+allocation|n.|할당, 배분|The budget allocation for training was increased.|교육 예산 배정이 늘었어요.
+volatility|n.|변동성|Market volatility worried investors.|시장 변동성 때문에 투자자들이 걱정했어요.
+deviation|n.|일탈, 편차|Any deviation from the plan must be approved.|계획에서 벗어나려면 승인을 받아야 해요.
+receivable|adj.|미수의|Accounts receivable rose this quarter.|이번 분기에 매출 채권이 늘었어요.
+creditor|n.|채권자|The company owes money to several creditors.|그 회사는 여러 채권자에게 빚이 있어요.
+surplus|n.|흑자, 잉여|The country has a trade surplus.|그 나라는 무역 흑자예요.
+disclosure|n.|공개, 폭로|Full disclosure of fees is required.|수수료를 모두 공개해야 해요.
+leverage|v.|활용하다; n. 영향력|We can leverage our brand to enter new markets.|우리 브랜드를 활용해 새 시장에 진출할 수 있어요.
+lender|n.|대출 기관|The lender approved the loan.|대출 기관이 대출을 승인했어요.
+gross|adj.|총계의|Gross profit rose by 12%.|매출 총이익이 12% 늘었어요.
+liquidity|n.|유동성|The bank has enough liquidity.|그 은행은 유동성이 충분해요.
+fraud|n.|사기|The bank detected credit card fraud.|은행이 신용카드 사기를 적발했어요.
+regulator|n.|규제 기관|Regulators approved the merger.|규제 당국이 합병을 승인했어요.
+trader|n.|거래인, 무역업자|Traders reacted quickly to the news.|트레이더들이 그 소식에 빠르게 반응했어요.
+monopoly|n.|독점|The company has a monopoly on the market.|그 회사는 시장을 독점하고 있어요.
+breach|n.|위반, 침해|The data breach affected thousands of users.|데이터 유출로 수천 명의 사용자가 피해를 입었어요.
+subsidy|n.|보조금|The government provides subsidies to small businesses.|정부는 소기업에 보조금을 지원해요.
+borrower|n.|대출자|Borrowers must provide proof of income.|대출자는 소득 증빙을 제출해야 해요.
+insurer|n.|보험사|The insurer paid for the damage.|보험사가 피해를 보상했어요.
+profitability|n.|수익성|We need to improve profitability.|수익성을 높여야 해요.
+scenario|n.|시나리오, 상황|In the worst-case scenario, we lose the contract.|최악의 경우에는 계약을 잃게 돼요.
+regulatory|adj.|규제의|The product needs regulatory approval.|그 제품은 규제 당국의 승인이 필요해요.
+optimal|adj.|최적의|We found the optimal location for the store.|매장을 내기에 최적의 위치를 찾았어요.
+nominal|adj.|명목상의; 아주 적은|A nominal fee is charged for parking.|주차에는 소액의 요금이 부과돼요.
+infrastructure|n.|사회 기반 시설|The city is investing in infrastructure.|시는 사회 기반 시설에 투자하고 있어요.
+disclose|v.|공개하다|The terms of the deal were not disclosed.|거래 조건은 공개되지 않았어요.
+offset|v.|상쇄하다|Higher prices offset the increased costs.|가격을 올려 늘어난 비용을 상쇄했어요.
+conversion|n.|전환, 환산|The conversion to the new system took a week.|새 시스템으로 전환하는 데 일주일이 걸렸어요.
+stakeholder|n.|이해관계자|All stakeholders were invited to the meeting.|모든 이해관계자가 회의에 초대됐어요.
+taxpayer|n.|납세자|The project is funded by taxpayers.|그 사업은 세금으로 운영돼요.
+alliance|n.|제휴, 동맹|The airlines formed an alliance.|항공사들이 동맹을 맺었어요.
+debtor|n.|채무자|Debtors must repay within 60 days.|채무자는 60일 이내에 갚아야 해요.
+liable|adj.|법적 책임이 있는|The company is liable for any damage.|모든 손해에 대한 책임은 회사에 있어요.
+parameter|n.|한도, 변수|The project must stay within budget parameters.|그 프로젝트는 예산 범위 안에서 진행해야 해요.
+integration|n.|통합|The integration of the two systems is complete.|두 시스템의 통합이 완료됐어요.
+interval|n.|간격|Buses run at 15-minute intervals.|버스는 15분 간격으로 다녀요.
+defer|v.|연기하다, 미루다|Payment can be deferred until next month.|결제는 다음 달로 미룰 수 있어요.
+payoff|n.|보상, 성과|The payoff from the investment was huge.|그 투자의 성과는 엄청났어요.
+ethical|adj.|윤리적인|We follow ethical business practices.|우리는 윤리적인 사업 관행을 따라요.
+publicly|adv.|공개적으로|The company is publicly traded.|그 회사는 상장돼 있어요.
+governance|n.|지배 구조, 관리|Good corporate governance builds trust.|좋은 기업 지배 구조는 신뢰를 쌓아요.
+marketer|n.|마케팅 담당자|Marketers target young consumers.|마케터들은 젊은 소비자를 겨냥해요.
+benchmark|n.|기준, 벤치마크|The product set a new benchmark for quality.|그 제품은 품질의 새 기준을 세웠어요.
+restructure|v.|구조 조정하다|The company will restructure its sales division.|그 회사는 영업 부문을 구조 조정할 거예요.
+residual|adj.|남은, 잔여의|There is a residual balance on the account.|계좌에 잔액이 남아 있어요.
+execute|v.|실행하다|The plan was executed perfectly.|그 계획은 완벽하게 실행됐어요.
+deem|v.|여기다, 간주하다|The project was deemed a success.|그 프로젝트는 성공으로 평가받았어요.
+statistical|adj.|통계의|The report includes statistical analysis.|보고서에는 통계 분석이 들어 있어요.
+allowance|n.|수당; 허용량|Employees receive a travel allowance.|직원들은 출장 수당을 받아요.
+enforce|v.|시행하다, 집행하다|Security staff enforce the rules.|보안 요원들이 규칙을 집행해요.
+emission|n.|배출(물)|The plant reduced carbon emissions.|그 공장은 탄소 배출을 줄였어요.
+warrant|v.|정당화하다; n. 영장|The results warrant further study.|이 결과는 추가 연구가 필요함을 보여 줘요.
+diversify|v.|다각화하다|The firm diversified into healthcare.|그 회사는 의료 분야로 사업을 다각화했어요.
+exploit|v.|활용하다; 착취하다|We should exploit this opportunity.|이 기회를 활용해야 해요.
+sophisticated|adj.|정교한, 세련된|The software uses sophisticated technology.|그 소프트웨어는 정교한 기술을 써요.
+taxation|n.|과세|The new taxation rules affect small firms.|새 과세 규정은 소기업에 영향을 줘요.
+technological|adj.|기술적인|Technological advances changed the industry.|기술 발전이 업계를 바꿨어요.
+multinational|adj.|다국적의|She works for a multinational company.|그녀는 다국적 기업에서 일해요.
+tariff|n.|관세|The government raised tariffs on imports.|정부가 수입품 관세를 올렸어요.
+shrink|v.|줄어들다|The market is shrinking.|시장이 줄어들고 있어요.
+consolidate|v.|통합하다, 강화하다|The company consolidated its two offices.|그 회사는 두 사무실을 통합했어요.
+taxable|adj.|과세 대상의|Bonuses are taxable income.|보너스는 과세 대상 소득이에요.
+disadvantage|n.|불리한 점|High prices put us at a disadvantage.|높은 가격 때문에 우리가 불리해요.
+subordinate|n.|부하 직원|She treats her subordinates with respect.|그녀는 부하 직원들을 존중해요.
+inflow|n.|유입|There was a large inflow of investment.|대규모 투자가 유입됐어요.
+pledge|v.|약속하다, 서약하다|The company pledged to cut emissions.|그 회사는 배출량을 줄이겠다고 약속했어요.
+collateral|n.|담보물|The house was used as collateral.|그 집이 담보로 쓰였어요.
+modest|adj.|적당한, 겸손한|Sales showed a modest increase.|매출이 소폭 늘었어요.
+convertible|adj.|전환 가능한|The bonds are convertible into shares.|그 채권은 주식으로 전환할 수 있어요.
+thereby|adv.|그렇게 함으로써|We cut costs, thereby raising profits.|비용을 줄여서 이익을 늘렸어요.
+ledger|n.|원장, 장부|All payments are entered in the ledger.|모든 결제는 장부에 기록돼요.
+summit|n.|정상 회담|The summit will be held in Geneva.|정상 회담은 제네바에서 열릴 거예요.
+repay|v.|갚다|The loan must be repaid in five years.|대출은 5년 안에 갚아야 해요.
+multiply|v.|증가시키다; 곱하다|Our profits multiplied last year.|작년에 이익이 몇 배로 늘었어요.
+consensus|n.|합의|The board reached a consensus.|이사회가 합의에 도달했어요.
+essentially|adv.|본질적으로|The two plans are essentially the same.|두 계획은 본질적으로 같아요.
+undermine|v.|약화시키다|The scandal undermined trust in the brand.|그 스캔들로 브랜드에 대한 신뢰가 떨어졌어요.
+identical|adj.|동일한|The two products are almost identical.|두 제품은 거의 똑같아요.
+surge|n.|급증|There was a surge in online orders.|온라인 주문이 급증했어요.
+predecessor|n.|전임자; 이전 모델|The new model is faster than its predecessor.|새 모델은 이전 모델보다 빨라요.
+deputy|n.|부(副)~, 대리|The deputy manager will attend the meeting.|부매니저가 회의에 참석할 거예요.
+sole|adj.|유일한, 단독의|He is the sole owner of the business.|그는 그 사업의 단독 소유주예요.
+outsource|v.|외주를 주다|We outsource our IT support.|IT 지원은 외주를 줘요.
+lawsuit|n.|소송|The customer filed a lawsuit.|그 고객은 소송을 제기했어요.
+notably|adv.|특히, 현저히|Sales rose, notably in Asia.|매출이 올랐는데, 특히 아시아에서 많이 올랐어요.
+fluctuation|n.|변동|Price fluctuations are common in winter.|겨울에는 가격 변동이 흔해요.
+discrimination|n.|차별|The company has a strict policy against discrimination.|그 회사는 차별에 대해 엄격한 정책을 갖고 있어요.
+widespread|adj.|널리 퍼진|The product has widespread appeal.|그 제품은 폭넓은 인기를 얻고 있어요.
+goodwill|n.|호의; 영업권|The free samples created goodwill.|무료 샘플 덕분에 호감을 얻었어요.
+diversification|n.|다각화|Diversification reduces risk.|다각화는 위험을 줄여요.
+likelihood|n.|가능성|There is a high likelihood of delays.|지연될 가능성이 커요.
+orient|v.|~을 지향하게 하다|The company is oriented toward young customers.|그 회사는 젊은 고객을 지향해요.
+metric|n.|측정 기준|Sales growth is our key metric.|매출 성장이 우리의 핵심 지표예요.
+insider|n.|내부자|Insiders say the deal is close.|내부자들은 거래가 거의 성사됐다고 말해요.
+privatization|n.|민영화|The privatization of the railway was approved.|철도 민영화가 승인됐어요.
+remedy|n.|해결책|There is no quick remedy for the problem.|그 문제에는 빠른 해결책이 없어요.
+accordance|n.|(in accordance with) ~에 따라|In accordance with the law, we must report this.|법에 따라 이를 신고해야 해요.
+vertical|adj.|수직의|Draw a vertical line.|세로선을 그으세요.
+consultancy|n.|컨설팅 회사|She works for a management consultancy.|그녀는 경영 컨설팅 회사에서 일해요.
+classification|n.|분류|The classification of documents takes time.|문서 분류에는 시간이 걸려요.
+utilize|v.|활용하다|We should utilize all available resources.|활용할 수 있는 자원은 모두 활용해야 해요.
+methodology|n.|방법론|The survey methodology was sound.|설문 조사 방법은 타당했어요.
+upward|adj.|상승하는|Prices continue their upward trend.|가격이 계속 오르는 추세예요.
+charter|v.|전세 내다; n. 헌장|We chartered a bus for the trip.|여행을 위해 버스를 전세 냈어요.
+vulnerable|adj.|취약한|Small firms are vulnerable to price changes.|소기업은 가격 변화에 취약해요.
+dominant|adj.|지배적인|The company is dominant in the market.|그 회사는 시장에서 우위를 차지하고 있어요.
+lessee|n.|임차인|The lessee is responsible for repairs.|수리 책임은 임차인에게 있어요.
+sensitivity|n.|민감성|Handle the matter with sensitivity.|그 문제는 신중하게 다루세요.
+rally|n.|(주가) 반등; 집회|Stocks staged a rally on Friday.|금요일에 주가가 반등했어요.
+intangible|adj.|무형의|Brand value is an intangible asset.|브랜드 가치는 무형 자산이에요.
+successor|n.|후임자|The board named her successor.|이사회가 그녀의 후임자를 지명했어요.
+exempt|adj.|면제된|Small businesses are exempt from the tax.|소기업은 그 세금이 면제돼요.
+globalization|n.|세계화|Globalization opened new markets.|세계화로 새로운 시장이 열렸어요.
+accrue|v.|(이자 등이) 누적되다|Interest accrues on the unpaid balance.|미납 잔액에는 이자가 붙어요.
+interim|adj.|임시의, 중간의|He was named interim CEO.|그는 임시 CEO로 임명됐어요.
+payout|n.|지급금|Shareholders received a large payout.|주주들이 많은 배당금을 받았어요.
+ambition|n.|야망|She has ambition to lead the company.|그녀는 회사를 이끌고 싶은 야망이 있어요.
+systematic|adj.|체계적인|We need a systematic approach.|체계적인 접근이 필요해요.
+prevail|v.|우세하다, 만연하다|Optimism prevailed at the meeting.|회의에서는 낙관론이 우세했어요.
+virtual|adj.|가상의; 사실상의|The tour can be taken in virtual reality.|그 투어는 가상 현실로도 할 수 있어요.
+observer|n.|관찰자|Industry observers expect growth.|업계 관계자들은 성장을 예상해요.
+horizon|n.|수평선; 시야, 범위|Travel broadens your horizons.|여행은 시야를 넓혀 줘요.
+quantitative|adj.|양적인|We collected quantitative data.|양적 데이터를 수집했어요.
+counterpart|n.|상대, 대응 관계자|The CEO met his Japanese counterpart.|CEO가 일본 측 상대를 만났어요.
+diminish|v.|줄어들다|Demand has diminished.|수요가 줄었어요.
+collective|adj.|집단의|It was a collective effort.|모두가 함께 노력한 결과였어요.
+repayment|n.|상환|Loan repayments begin next month.|대출 상환은 다음 달에 시작돼요.
+offshore|adj.|해외의, 역외의|The company has offshore accounts.|그 회사는 해외 계좌를 갖고 있어요.
+marketplace|n.|시장|The online marketplace is growing.|온라인 시장이 성장하고 있어요.
+comparable|adj.|비교할 만한|Our prices are comparable to theirs.|저희 가격은 그들과 비슷해요.
+municipal|adj.|시의, 지방 자치의|The municipal government approved the plan.|시 정부가 그 계획을 승인했어요.
+barrel|n.|배럴, 통|Oil prices hit $90 a barrel.|유가가 배럴당 90달러를 찍었어요.
+accelerate|v.|가속하다|We need to accelerate production.|생산을 서둘러야 해요.
+mandate|n.|권한, 명령|The board has a mandate to cut costs.|이사회는 비용을 줄일 권한이 있어요.
+donor|n.|기부자|Donors gave $1 million.|기부자들이 100만 달러를 냈어요.
+tighten|v.|강화하다, 조이다|The bank tightened lending rules.|은행이 대출 규정을 강화했어요.
+amend|v.|수정하다, 개정하다|The contract was amended to include a bonus.|보너스를 넣도록 계약이 수정됐어요.
+squeeze|v.|압박하다, 짜내다|Rising costs squeezed profit margins.|비용이 올라 이익률이 줄었어요.
+ultimate|adj.|궁극적인|Our ultimate goal is customer satisfaction.|우리의 궁극적인 목표는 고객 만족이에요.
+neutral|adj.|중립의|The mediator remained neutral.|중재자는 중립을 지켰어요.
+scrap|v.|폐기하다|The plan was scrapped due to costs.|비용 때문에 계획이 폐기됐어요.
+pipeline|n.|송유관; (in the pipeline) 진행 중|New products are in the pipeline.|신제품이 준비되고 있어요.
+quota|n.|할당량|Each salesperson has a monthly quota.|판매원마다 월간 할당량이 있어요.
+trustee|n.|이사, 수탁자|The board of trustees met yesterday.|이사회가 어제 모였어요.
+domain|n.|영역; (인터넷) 도메인|The company bought a new domain name.|그 회사는 새 도메인 이름을 샀어요.
+frontier|n.|경계, 최첨단|AI is a new frontier for business.|AI는 비즈니스의 새로운 개척지예요.
+seize|v.|붙잡다, 압수하다|We must seize this opportunity.|이 기회를 잡아야 해요.
+beneficiary|n.|수혜자|She is the beneficiary of the policy.|그녀가 그 보험의 수혜자예요.
+comparative|adj.|비교의|The report includes a comparative analysis.|보고서에는 비교 분석이 들어 있어요.
+readily|adv.|손쉽게, 기꺼이|The parts are readily available.|부품은 쉽게 구할 수 있어요.
+fraction|n.|일부, 소량|Only a fraction of applicants were hired.|지원자 중 극히 일부만 채용됐어요.
+solely|adv.|오로지|The decision was based solely on cost.|그 결정은 오로지 비용만 보고 내렸어요.
+capitalization|n.|시가 총액; 자본화|The company's market capitalization doubled.|그 회사의 시가 총액이 두 배가 됐어요.
+pioneer|n.|선구자|She is a pioneer in green energy.|그녀는 친환경 에너지 분야의 선구자예요.
+diplomat|n.|외교관|The diplomat attended the dinner.|외교관이 만찬에 참석했어요.
+endorse|v.|보증하다, 지지하다|The product is endorsed by a famous athlete.|그 제품은 유명 운동선수가 광고해요.
+intent|n.|의도|The letter of intent was signed.|의향서에 서명했어요.
+lessor|n.|임대인|The lessor must maintain the building.|임대인은 건물을 관리해야 해요.
+affiliate|n.|계열사, 제휴사|The company has affiliates in 20 countries.|그 회사는 20개국에 계열사가 있어요.
+statutory|adj.|법으로 정한|Employees get statutory holidays.|직원들은 법정 공휴일에 쉬어요.
+exporter|n.|수출업자|Korea is a major exporter of cars.|한국은 주요 자동차 수출국이에요.
+slump|n.|부진, 폭락|The industry is in a slump.|그 업계는 침체기예요.
+lag|v.|뒤처지다|Sales lagged behind expectations.|매출이 기대에 못 미쳤어요.
+volatile|adj.|변동이 심한|The market is volatile.|시장 변동이 심해요.
+enforcement|n.|시행, 집행|Strict enforcement of the rules is needed.|규칙을 엄격하게 시행해야 해요.
+initiate|v.|시작하다, 착수하다|The company initiated a new program.|그 회사는 새 프로그램을 시작했어요.
+obstacle|n.|장애물|Cost is the main obstacle.|비용이 가장 큰 걸림돌이에요.
+render|v.|제공하다; ~하게 만들다|Payment is due for services rendered.|제공된 서비스에 대한 결제 기한이 됐어요.
+bundle|n.|묶음; v. 묶어 팔다|The software is bundled with the computer.|그 소프트웨어는 컴퓨터에 함께 제공돼요.
+issuance|n.|발행|The issuance of new shares was approved.|신주 발행이 승인됐어요.
+capitalize|v.|(on) 이용하다; 자본화하다|We should capitalize on this trend.|이 추세를 잘 이용해야 해요.
+contractual|adj.|계약상의|We have a contractual obligation.|우리에게는 계약상 의무가 있어요.
+differential|n.|차이, 격차|There is a price differential between the regions.|지역마다 가격 차이가 있어요.
+amortization|n.|분할 상환; 상각|The loan has a 20-year amortization period.|그 대출은 20년에 걸쳐 분할 상환해요.
+unfair|adj.|불공평한|The new rule is unfair to small firms.|새 규정은 소기업에 불공평해요.
+induce|v.|유도하다, 유발하다|Discounts induce customers to buy more.|할인은 고객이 더 많이 사게 만들어요.
+elite|adj.|엘리트의, 최정예의|The hotel serves an elite clientele.|그 호텔은 상류층 고객을 상대해요.
+simultaneously|adv.|동시에|Two events were held simultaneously.|두 행사가 동시에 열렸어요.
+broadly|adv.|대체로, 널리|We broadly agree with the proposal.|우리는 그 제안에 대체로 동의해요.
+demographic|adj.|인구 통계의; n. 계층|We are targeting a younger demographic.|더 젊은 층을 겨냥하고 있어요.
+conglomerate|n.|대기업, 복합 기업|The conglomerate owns hotels and airlines.|그 대기업은 호텔과 항공사를 소유하고 있어요.
+sustainable|adj.|지속 가능한|We aim for sustainable growth.|우리는 지속 가능한 성장을 목표로 해요.
+credibility|n.|신뢰성|The scandal hurt the company's credibility.|그 스캔들로 회사의 신뢰도가 떨어졌어요.
+simulation|n.|모의실험|The simulation tested the new system.|모의실험으로 새 시스템을 시험했어요.
+adoption|n.|채택|The adoption of the new policy was quick.|새 정책은 빠르게 도입됐어요.
+standardize|v.|표준화하다|We standardized the forms.|양식을 표준화했어요.
+consolidation|n.|통합|Industry consolidation reduced competition.|업계 통합으로 경쟁이 줄었어요.
+sensible|adj.|분별 있는, 합리적인|That is a sensible decision.|현명한 결정이에요.
+headline|n.|헤드라인, 표제|The merger made headlines.|그 합병은 대서특필됐어요.
+deploy|v.|배치하다, 활용하다|The company deployed new software.|그 회사는 새 소프트웨어를 도입했어요.
+macroeconomic|adj.|거시 경제의|Macroeconomic conditions are improving.|거시 경제 여건이 나아지고 있어요.
+concession|n.|양보; 영업권|The union won several concessions.|노조가 몇 가지 양보를 얻어 냈어요.
+contingent|adj.|~에 달린, 조건부의|The deal is contingent on approval.|그 거래는 승인을 받아야 성사돼요.
+diverse|adj.|다양한|We have a diverse workforce.|우리 직원들은 다양해요.
+privately|adv.|개인적으로; 비공개로|The company is privately owned.|그 회사는 개인 소유예요.
+repurchase|v.|재매입하다|The firm will repurchase its shares.|그 회사는 자사주를 다시 사들일 거예요.
+denote|v.|나타내다, 의미하다|The red mark denotes urgent items.|빨간 표시는 긴급한 항목을 뜻해요.
+inequality|n.|불평등|Income inequality is rising.|소득 불평등이 커지고 있어요.
+plunge|v.|급락하다|Share prices plunged after the report.|보고서가 나온 뒤 주가가 폭락했어요.
+intensive|adj.|집중적인|The course is two weeks of intensive training.|그 과정은 2주간의 집중 교육이에요.
+nonetheless|adv.|그럼에도 불구하고|It was expensive; nonetheless, we bought it.|비쌌지만 그래도 샀어요.
+horizontal|adj.|수평의|Draw a horizontal line.|가로선을 그으세요.
+legally|adv.|법적으로|The contract is legally binding.|그 계약은 법적 구속력이 있어요.
+installment|n.|할부금; 1회분|You can pay in monthly installments.|월 할부로 낼 수 있어요.
+empirical|adj.|경험적인, 실증적인|The study is based on empirical data.|그 연구는 실증 데이터를 바탕으로 해요.
+revive|v.|되살리다|The plan aims to revive the economy.|그 계획은 경제를 되살리는 게 목표예요.
+inevitable|adj.|불가피한|Some delays are inevitable.|어느 정도의 지연은 불가피해요.
+array|n.|다수, 배열|The store offers a wide array of products.|그 가게는 다양한 상품을 팔아요.
+treasury|n.|재무부; 금고|Treasury bonds are a safe investment.|국채는 안전한 투자예요.
+intermediary|n.|중개자|The agent acts as an intermediary.|대리인이 중개자 역할을 해요.
+boast|v.|자랑하다; 보유하다|The hotel boasts a rooftop pool.|그 호텔에는 옥상 수영장이 있어요.
+discourage|v.|단념시키다|High fees discourage new customers.|높은 수수료 때문에 신규 고객이 망설여요.
+hierarchy|n.|계층, 위계|The company has a flat hierarchy.|그 회사는 수평적인 조직 구조예요.
+widen|v.|넓히다|The road will be widened.|그 도로는 확장될 거예요.
+transformation|n.|변화, 변신|The company underwent a digital transformation.|그 회사는 디지털 전환을 거쳤어요.
+qualitative|adj.|질적인|We used qualitative research methods.|질적 연구 방법을 썼어요.
+curb|v.|억제하다|The plan aims to curb spending.|그 계획은 지출을 억제하는 게 목표예요.
+robust|adj.|탄탄한, 튼튼한|The economy shows robust growth.|경제가 탄탄하게 성장하고 있어요.
+brokerage|n.|중개업; 중개 수수료|She works at a brokerage firm.|그녀는 증권 중개 회사에서 일해요.
+tolerance|n.|관용; 허용 오차|The machine has a low tolerance for error.|그 기계는 허용 오차가 작아요.
+devise|v.|고안하다|We devised a new strategy.|새 전략을 고안했어요.
+speculation|n.|추측; 투기|There is speculation about a merger.|합병에 대한 추측이 돌고 있어요.
+incremental|adj.|점진적인|We saw incremental improvements.|점진적인 개선이 있었어요.
+assert|v.|주장하다|He asserted that the plan would work.|그는 그 계획이 성공할 거라고 주장했어요.
+underwrite|v.|(보험을) 인수하다; 보증하다|The bank will underwrite the share issue.|그 은행이 주식 발행을 인수할 거예요.
+differentiate|v.|차별화하다|We differentiate our product with quality.|우리는 품질로 제품을 차별화해요.
+correlate|v.|연관성이 있다|Sales correlate with advertising spending.|매출은 광고비 지출과 연관이 있어요.
+compel|v.|강요하다|The law compels firms to report earnings.|법에 따라 기업은 실적을 보고해야 해요.
+agriculture|n.|농업|The region depends on agriculture.|그 지역은 농업에 의존해요.
+slowdown|n.|둔화|The economic slowdown hurt exports.|경기 둔화로 수출이 타격을 입었어요.
+adverse|adj.|불리한, 부정적인|The storm had an adverse effect on sales.|폭풍이 매출에 악영향을 줬어요.
+virtue|n.|미덕; 장점|Patience is a virtue.|인내는 미덕이에요.
+bureaucracy|n.|관료주의, 관료 체제|Too much bureaucracy slows decisions.|관료주의가 지나치면 결정이 늦어져요.
+threshold|n.|기준점, 문턱|Orders above the threshold get free shipping.|기준 금액 이상 주문하면 무료 배송이에요.
+wholesale|adj.|도매의|We buy goods at wholesale prices.|우리는 도매가로 물건을 사요.
+legitimate|adj.|정당한, 합법적인|That is a legitimate concern.|정당한 우려예요.
+privacy|n.|사생활, 개인 정보|We respect our customers' privacy.|저희는 고객의 개인 정보를 존중해요.
+behavioral|adj.|행동의|The study looks at behavioral patterns.|그 연구는 행동 패턴을 살펴봐요.
+tangible|adj.|유형의, 실질적인|The program produced tangible results.|그 프로그램은 실질적인 성과를 냈어요.
+discharge|v.|해고하다; 방출하다; 퇴원시키다|The patient was discharged yesterday.|그 환자는 어제 퇴원했어요.
+explicit|adj.|명백한|The instructions were explicit.|지시 사항이 명확했어요.
+breakdown|n.|고장; 내역|Please send a breakdown of the costs.|비용 내역을 보내 주세요.
+span|n.|기간, 범위|The project has a time span of two years.|그 프로젝트는 기간이 2년이에요.
+incumbent|adj.|현직의; n. 현직자|The incumbent manager will retire.|현 관리자가 은퇴할 거예요.
+outflow|n.|유출|There was a large outflow of capital.|대규모 자본이 유출됐어요.
+albeit|conj.|비록 ~이지만|Sales rose, albeit slowly.|매출이 오르긴 했지만 느리게 올랐어요.
+tricky|adj.|까다로운|The question was tricky.|문제가 까다로웠어요.
+spokesman|n.|대변인|A company spokesman confirmed the news.|회사 대변인이 그 소식을 확인했어요.
+contingency|n.|비상사태, 만일의 사태|We have a contingency plan.|비상 계획이 있어요.
+judicial|adj.|사법의|The case is under judicial review.|그 사건은 사법 심사 중이에요.
+certainty|n.|확실성|There is no certainty of success.|성공한다는 보장은 없어요.
+mainstream|adj.|주류의|The product is now mainstream.|그 제품은 이제 대중화됐어요.
+rebuild|v.|재건하다|The company worked hard to rebuild its reputation.|그 회사는 평판을 되찾으려고 열심히 노력했어요.
+integrity|n.|진실성, 청렴|We value honesty and integrity.|우리는 정직과 청렴을 중요하게 여겨요.
+proposition|n.|제안, 사업 계획|It is an attractive business proposition.|매력적인 사업 제안이에요.
+litigation|n.|소송|The dispute led to litigation.|분쟁이 소송으로 번졌어요.
+amid|prep.|~ 가운데|Stocks fell amid fears of recession.|경기 침체 우려 속에 주가가 떨어졌어요.
+straightforward|adj.|간단한, 솔직한|The process is straightforward.|절차가 간단해요.
+handful|n.|한 줌, 소수|Only a handful of people attended.|몇 명만 참석했어요.
+unchanged|adj.|변하지 않은|Interest rates remained unchanged.|금리는 그대로였어요.
+bidder|n.|입찰자|The contract went to the highest bidder.|계약은 최고가 입찰자에게 돌아갔어요.
+respective|adj.|각각의|They returned to their respective offices.|그들은 각자의 사무실로 돌아갔어요.
+deliverable|n.|결과물, 납품물|The project has three key deliverables.|그 프로젝트에는 핵심 결과물이 세 가지 있어요.
+depict|v.|묘사하다|The painting depicts a harbor scene.|그 그림은 항구 풍경을 묘사해요.
+odds|n.|가능성, 확률|The odds of success are good.|성공할 가능성이 높아요.
+allegation|n.|혐의, 주장|The company denied the allegations.|그 회사는 혐의를 부인했어요.
+redemption|n.|상환; 교환|Points can be used for redemption of gifts.|포인트는 사은품으로 교환할 수 있어요.
+downward|adj.|하향의|Prices are on a downward trend.|가격이 하락세예요.
+grid|n.|격자; 전력망|The power grid failed.|전력망이 고장 났어요.
+depreciate|v.|가치가 떨어지다|Cars depreciate quickly.|자동차는 가치가 빨리 떨어져요.
+interface|n.|접점; 인터페이스|The software has a simple interface.|그 소프트웨어는 화면 구성이 단순해요.
+digit|n.|(숫자의) 자리|Enter the last four digits of your card.|카드 번호 마지막 네 자리를 입력하세요.
+hybrid|adj.|혼합의|Many staff work in a hybrid model.|많은 직원이 하이브리드 방식으로 일해요.
+provoke|v.|유발하다|The price rise provoked complaints.|가격 인상으로 불만이 터져 나왔어요.
+dilemma|n.|딜레마|The company faces a dilemma.|그 회사는 딜레마에 빠졌어요.
+cease|v.|중단하다|The factory ceased operations.|그 공장은 가동을 중단했어요.
+distress|n.|고통, 곤경|The company is in financial distress.|그 회사는 재정난에 빠져 있어요.
+withhold|v.|보류하다, 원천징수하다|Employers withhold tax from your salary.|고용주는 급여에서 세금을 원천징수해요.
+legacy|n.|유산|The founder left a lasting legacy.|창립자는 오래 남을 유산을 남겼어요.
+thrive|v.|번창하다|Small businesses thrive in this area.|이 지역에서는 소기업이 번창해요.
+autonomy|n.|자율성|Employees have autonomy over their schedules.|직원들은 자기 일정을 자율적으로 정해요.
+accountability|n.|책임|Managers must ensure accountability.|관리자는 책임 소재를 분명히 해야 해요.
+incorporation|n.|법인 설립; 통합|The firm's incorporation was in 2010.|그 회사는 2010년에 법인을 설립했어요.
+batch|n.|한 회분, 묶음|The first batch of products was shipped.|첫 번째 제품 물량이 출하됐어요.
+essence|n.|본질|Time is of the essence.|시간이 가장 중요해요.
+unveil|v.|공개하다|The company unveiled its new car.|그 회사는 신차를 공개했어요.
+intrinsic|adj.|본질적인|The design has intrinsic value.|그 디자인은 본질적인 가치가 있어요.
+formerly|adv.|이전에|The building was formerly a bank.|그 건물은 예전에 은행이었어요.
+optimization|n.|최적화|We focus on process optimization.|우리는 공정 최적화에 집중해요.
+spectrum|n.|범위, 스펙트럼|The store serves a wide spectrum of customers.|그 가게는 폭넓은 고객층을 상대해요.
+magnitude|n.|규모, 중요성|We underestimated the magnitude of the problem.|문제의 규모를 과소평가했어요.
+validity|n.|타당성, 유효성|The validity of the ticket is one year.|그 티켓의 유효 기간은 1년이에요.
+interact|v.|상호 작용하다|Staff interact with customers daily.|직원들은 매일 고객과 소통해요.
+intervene|v.|개입하다|The manager intervened in the dispute.|매니저가 분쟁에 개입했어요.
+halt|v.|중단시키다|Production was halted for repairs.|수리를 위해 생산이 중단됐어요.
+niche|n.|틈새시장|The firm found a niche in organic foods.|그 회사는 유기농 식품에서 틈새시장을 찾았어요.
+motive|n.|동기|What was the motive behind the decision?|그 결정의 동기는 뭐였나요?
+whereby|adv.|그에 의하여|We set up a system whereby staff can vote.|직원들이 투표할 수 있는 제도를 만들었어요.
+wholly|adv.|완전히|The company is wholly owned by the family.|그 회사는 가족이 전부 소유하고 있어요.
+supposedly|adv.|아마, 소문에 의하면|The product is supposedly the best.|그 제품이 최고라고들 해요.
+crude|adj.|가공하지 않은|Crude oil prices rose.|원유 가격이 올랐어요.
+commissioner|n.|위원, 국장|The commissioner announced new rules.|위원이 새 규칙을 발표했어요.
+sufficiently|adv.|충분히|The room is sufficiently large.|그 방은 충분히 넓어요.
+protocol|n.|규약, 절차|Follow the safety protocol.|안전 수칙을 따르세요.
+constrain|v.|제약하다|We are constrained by a tight budget.|빠듯한 예산 때문에 제약이 있어요.
+predictable|adj.|예측 가능한|Sales are predictable in summer.|여름에는 매출을 예측할 수 있어요.
+liquidation|n.|청산|The company went into liquidation.|그 회사는 청산 절차에 들어갔어요.
+impairment|n.|손상; 장애|The asset had an impairment loss.|그 자산에서 손상 차손이 났어요.
+harvest|n.|수확|The harvest was good this year.|올해는 수확이 좋았어요.
+objection|n.|이의, 반대|There were no objections to the plan.|그 계획에 반대 의견은 없었어요.
+accrual|n.|발생, 누적|Vacation accrual starts after three months.|휴가 일수는 3개월 후부터 쌓여요.
+confront|v.|직면하다|We must confront the issue.|그 문제에 정면으로 맞서야 해요.
+passive|adj.|수동적인|He took a passive role in the meeting.|그는 회의에서 소극적인 역할을 했어요.
+conditional|adj.|조건부의|The offer is conditional on a background check.|그 제안은 신원 조회를 조건으로 해요.
+scrutiny|n.|정밀 조사|The deal is under close scrutiny.|그 거래는 면밀한 조사를 받고 있어요.
+inherent|adj.|내재된|There are risks inherent in investing.|투자에는 본질적인 위험이 있어요.
+explicitly|adv.|명백히|The contract explicitly states the terms.|계약서에 조건이 명시돼 있어요.
+payback|n.|투자금 회수|The payback period is three years.|투자금 회수 기간은 3년이에요.
+sacrifice|v.|희생하다|We won't sacrifice quality for speed.|속도를 위해 품질을 희생하지는 않을 거예요.
+feasible|adj.|실현 가능한|The plan is technically feasible.|그 계획은 기술적으로 실현 가능해요.
+conviction|n.|확신; 유죄 판결|She spoke with conviction.|그녀는 확신을 갖고 말했어요.
+continuously|adv.|계속해서|The system is continuously monitored.|시스템은 계속 모니터링돼요.
+tier|n.|단계, 층|We offer three pricing tiers.|요금제는 세 단계예요.
+transparency|n.|투명성|We value transparency in reporting.|우리는 보고의 투명성을 중요하게 여겨요.
+inadequate|adj.|부적절한, 불충분한|The parking space is inadequate.|주차 공간이 부족해요.
+levy|v.|(세금을) 부과하다|A tax is levied on imports.|수입품에는 세금이 부과돼요.
+freely|adv.|자유롭게|Customers can freely choose their plans.|고객은 요금제를 자유롭게 고를 수 있어요.
+reliance|n.|의존|Our reliance on one supplier is risky.|공급업체 한 곳에만 의존하는 건 위험해요.
+covenant|n.|계약, 약관|The loan has strict covenants.|그 대출에는 엄격한 약관이 있어요.
+materially|adv.|실질적으로, 상당히|The changes did not materially affect profits.|변경 사항은 이익에 큰 영향을 주지 않았어요.
+procurement|n.|조달, 구매|She works in procurement.|그녀는 구매 부서에서 일해요.
+deter|v.|단념시키다|High prices deter buyers.|높은 가격은 구매자를 망설이게 해요.
+operative|adj.|효력 있는|The new rules become operative in May.|새 규칙은 5월부터 효력이 생겨요.
+endure|v.|견디다|The company endured a difficult year.|그 회사는 힘든 한 해를 견뎌 냈어요.
+distort|v.|왜곡하다|The figures were distorted.|수치가 왜곡됐어요.
+triple|v.|세 배가 되다|Sales tripled in two years.|2년 만에 매출이 세 배가 됐어요.
+textile|n.|직물, 섬유|The textile industry employs many workers.|섬유 산업은 많은 근로자를 고용해요.
+manipulate|v.|조작하다|The data was manipulated.|데이터가 조작됐어요.
+refine|v.|정제하다, 개선하다|We refined the design.|디자인을 다듬었어요.
+implicit|adj.|암묵적인|There was an implicit agreement.|암묵적인 합의가 있었어요.
+deflation|n.|디플레이션|Deflation hurt the economy.|디플레이션이 경제에 타격을 줬어요.
+antitrust|adj.|독점 금지의|The merger faces antitrust review.|그 합병은 독점 금지 심사를 받고 있어요.
+practitioner|n.|전문직 종사자|She is a medical practitioner.|그녀는 의료 종사자예요.
+prosperity|n.|번영|The city enjoyed years of prosperity.|그 도시는 오랫동안 번영을 누렸어요.
+align|v.|맞추다, 정렬하다|Our goals are aligned with the company's.|우리의 목표는 회사의 목표와 일치해요.
+reinvest|v.|재투자하다|Profits are reinvested in the business.|이익은 사업에 재투자돼요.
+concede|v.|인정하다; 양보하다|The CEO conceded that mistakes were made.|CEO는 실수가 있었다고 인정했어요.
+controversy|n.|논란|The ad caused controversy.|그 광고는 논란을 일으켰어요.
+fierce|adj.|치열한|Competition in the market is fierce.|그 시장은 경쟁이 치열해요.
+veto|v.|거부하다|The board vetoed the proposal.|이사회가 그 제안을 거부했어요.
+instant|adj.|즉각적인|The product was an instant success.|그 제품은 즉시 성공을 거뒀어요.
+handset|n.|휴대전화기, 수화기|The new handset sold well.|새 휴대전화가 잘 팔렸어요.
+sentiment|n.|정서, 심리|Consumer sentiment improved.|소비 심리가 나아졌어요.
+parity|n.|동등, 평가|The two currencies reached parity.|두 통화의 가치가 같아졌어요.
+centralize|v.|중앙 집중화하다|Purchasing was centralized in Seoul.|구매 업무가 서울로 일원화됐어요.
+lucrative|adj.|수익성 좋은|The deal was very lucrative.|그 거래는 수익성이 아주 좋았어요.
+stabilize|v.|안정시키다|Prices have stabilized.|가격이 안정됐어요.
+variability|n.|변동성|There is variability in demand.|수요에 변동이 있어요.
+strive|v.|노력하다|We strive to exceed expectations.|기대 이상의 결과를 내려고 노력해요.
+enact|v.|(법을) 제정하다|The law was enacted last year.|그 법은 작년에 제정됐어요.
+controller|n.|재무 관리자|The controller reviewed the budget.|재무 관리자가 예산을 검토했어요.
+shield|v.|보호하다|Insurance shields you from loss.|보험은 손실로부터 보호해 줘요.
+pact|n.|협정|The two companies signed a pact.|두 회사가 협정을 맺었어요.
+discretion|n.|재량; 신중함|Bonuses are paid at the manager's discretion.|보너스는 매니저 재량으로 지급돼요.
+dictate|v.|지시하다; 받아쓰게 하다|Market conditions dictate our prices.|시장 상황에 따라 가격이 정해져요.
+purely|adv.|순전히|The decision was purely financial.|그 결정은 순전히 재정적인 이유였어요.
+substitution|n.|대체|No substitutions are allowed on the menu.|메뉴 변경은 안 돼요.
+pursuit|n.|추구|The pursuit of quality is our goal.|품질 추구가 우리의 목표예요.
+minimal|adj.|최소의|The damage was minimal.|피해는 미미했어요.
+endowment|n.|기부금|The university has a large endowment.|그 대학은 기부금이 많아요.
+disability|n.|장애|The building is accessible for people with disabilities.|그 건물은 장애인도 이용할 수 있어요.
+governmental|adj.|정부의|The project needs governmental approval.|그 사업은 정부 승인이 필요해요.
+competence|n.|능력, 역량|She showed great competence.|그녀는 뛰어난 역량을 보여 줬어요.
+slash|v.|대폭 삭감하다|The store slashed prices by 50%.|그 가게는 가격을 50% 인하했어요.
+logistics|n.|물류; 세부 계획|He manages logistics for the event.|그는 행사의 세부 운영을 맡고 있어요.
+scarce|adj.|부족한|Skilled workers are scarce.|숙련된 인력이 부족해요.
+restraint|n.|억제, 자제|The budget requires restraint.|그 예산은 지출을 아껴야 해요.
+follower|n.|추종자; 팔로워|The brand has a million followers online.|그 브랜드는 온라인 팔로워가 100만 명이에요.
+crunch|n.|위기, 부족|There is a cash crunch at the end of the month.|월말에는 현금이 부족해요.
+receiver|n.|수화기; 수신자|He picked up the receiver.|그는 수화기를 들었어요.
+overlap|v.|겹치다|The two meetings overlap.|두 회의 시간이 겹쳐요.
+lump|n.|덩어리; (lump sum) 일시불|She received a lump sum payment.|그녀는 일시불로 돈을 받았어요.
+momentum|n.|추진력|The project gained momentum.|그 프로젝트에 탄력이 붙었어요.
+probe|n.|조사|The probe found no wrongdoing.|조사 결과 아무 잘못도 없었어요.
+reconcile|v.|조정하다, 일치시키다|Please reconcile the accounts.|장부를 맞춰 주세요.
+indirectly|adv.|간접적으로|The change affects us indirectly.|그 변화는 우리에게 간접적으로 영향을 줘요.
+namely|adv.|즉|We have one problem, namely cost.|문제가 하나 있는데, 바로 비용이에요.
+decent|adj.|괜찮은, 적절한|He earns a decent salary.|그는 괜찮은 급여를 받아요.
+appetite|n.|욕구, 식욕|Investors have little appetite for risk.|투자자들은 위험을 감수할 생각이 거의 없어요.
+unpopular|adj.|인기 없는|The decision was unpopular.|그 결정은 인기가 없었어요.
+confine|v.|국한하다|The problem is confined to one region.|그 문제는 한 지역에만 국한돼요.
+quantify|v.|수량화하다|It is hard to quantify the benefits.|그 이점을 수치로 나타내기는 어려워요.
+persist|v.|지속되다|If the problem persists, call us.|문제가 계속되면 연락 주세요.
+gauge|v.|측정하다, 판단하다|The survey gauged customer satisfaction.|설문 조사로 고객 만족도를 측정했어요.
+skeptical|adj.|회의적인|Investors are skeptical.|투자자들은 회의적이에요.
+legislative|adj.|입법의|There were legislative changes.|입법상의 변화가 있었어요.
+independently|adv.|독립적으로|Each team works independently.|팀마다 독립적으로 일해요.
+negligence|n.|과실, 태만|The accident was caused by negligence.|그 사고는 과실로 일어났어요.
+determinant|n.|결정 요인|Price is the main determinant of sales.|가격은 매출을 결정하는 주요 요인이에요.
+redeem|v.|(상품권 등을) 교환하다|Redeem your points for gifts.|포인트를 사은품으로 교환하세요.
+tribunal|n.|재판소|The case went to a tribunal.|그 사건은 재판소로 넘어갔어요.
+chunk|n.|상당 부분, 덩어리|Rent takes a big chunk of our budget.|임대료가 예산의 큰 부분을 차지해요.
+proprietary|adj.|독점의, 소유권이 있는|The software is proprietary.|그 소프트웨어는 독점 소유예요.
+intermediate|adj.|중급의|The course is for intermediate learners.|그 강좌는 중급 학습자용이에요.
+steep|adj.|가파른; (가격이) 터무니없는|Prices are steep at that store.|그 가게는 가격이 터무니없이 비싸요.
+safeguard|v.|보호하다|We safeguard customer data.|저희는 고객 데이터를 보호해요.
+loom|v.|다가오다|A deadline is looming.|마감이 다가오고 있어요.
+deductible|adj.|공제 가능한|The expenses are tax-deductible.|그 비용은 세금 공제가 돼요.
+conceptual|adj.|개념의|The plan is still at the conceptual stage.|그 계획은 아직 구상 단계예요.
+optimism|n.|낙관주의|There is optimism about the economy.|경제에 대한 낙관론이 있어요.
+painful|adj.|고통스러운|The cuts were painful.|삭감이 뼈아팠어요.
+abolish|v.|폐지하다|The fee was abolished.|그 수수료는 폐지됐어요.
+predetermine|v.|미리 결정하다|Prices are predetermined.|가격은 미리 정해져 있어요.
+inherit|v.|물려받다|She inherited the family business.|그녀는 가업을 물려받았어요.
+analytical|adj.|분석적인|The job requires analytical skills.|그 일에는 분석력이 필요해요.
+stall|v.|지연되다, 멈추다|Talks have stalled.|협상이 교착 상태에 빠졌어요.
+lure|v.|유혹하다|Discounts lure shoppers.|할인은 쇼핑객을 끌어들여요.
+contemplate|v.|고려하다|The company is contemplating a merger.|그 회사는 합병을 고려하고 있어요.
+socially|adv.|사회적으로|The firm is socially responsible.|그 회사는 사회적 책임을 다해요.
+liquidate|v.|청산하다|The company was liquidated.|그 회사는 청산됐어요.
+outperform|v.|능가하다|The stock outperformed the market.|그 주식은 시장 평균보다 좋은 성과를 냈어요.
+optimize|v.|최적화하다|We optimized the website for mobile.|웹사이트를 모바일에 맞게 최적화했어요.
+broadband|n.|초고속 인터넷|All rooms have broadband access.|모든 객실에서 초고속 인터넷을 쓸 수 있어요.
+equality|n.|평등|We support gender equality.|우리는 성평등을 지지해요.
+entail|v.|수반하다|The job entails a lot of travel.|그 일은 출장이 많아요.
+attributable|adj.|~의 탓인|The rise is attributable to strong demand.|그 증가는 강한 수요 덕분이에요.
+revolutionary|adj.|혁명적인|The device is revolutionary.|그 기기는 혁신적이에요.
+carmaker|n.|자동차 제조사|The carmaker recalled 10,000 vehicles.|그 자동차 회사는 차량 1만 대를 리콜했어요.
+discretionary|adj.|재량에 따른|Discretionary spending fell.|재량 지출이 줄었어요.
+reconciliation|n.|조정, 화해|Bank reconciliation is done monthly.|은행 잔액 대조는 매달 해요.
+directive|n.|지침, 지시|The directive came from headquarters.|그 지침은 본사에서 내려왔어요.
+mutually|adv.|서로|We reached a mutually beneficial agreement.|서로에게 이로운 합의에 도달했어요.
+viable|adj.|실행 가능한|The plan is not financially viable.|그 계획은 재정적으로 실행할 수 없어요.
+refusal|n.|거절|His refusal surprised us.|그의 거절에 우리는 놀랐어요.
+geographic|adj.|지리적인|We expanded our geographic reach.|지리적 범위를 넓혔어요.
+consortium|n.|컨소시엄, 협회|A consortium of banks funded the project.|은행 컨소시엄이 그 사업에 자금을 댔어요.
+speculative|adj.|추측의; 투기적인|The report is speculative.|그 보고서는 추측에 근거해요.
+historically|adv.|역사적으로|Historically, sales are slow in January.|역사적으로 1월에는 매출이 부진해요.
+amortize|v.|분할 상환하다|The loan is amortized over 10 years.|그 대출은 10년에 걸쳐 분할 상환해요.
+exploration|n.|탐사, 탐구|Oil exploration continues offshore.|해상 석유 탐사가 계속되고 있어요.
+deliberately|adv.|고의로, 신중히|He deliberately left out some details.|그는 일부러 세부 내용을 뺐어요.
+mill|n.|공장, 제분소|The paper mill closed.|그 제지 공장은 문을 닫았어요.
+subjective|adj.|주관적인|Taste is subjective.|취향은 주관적이에요.
+builder|n.|건축업자|The builder finished the house on time.|건축업자가 집을 제때 완공했어요.
+peaceful|adj.|평화로운|The hotel is in a peaceful area.|그 호텔은 평화로운 지역에 있어요.
+importantly|adv.|중요하게|More importantly, costs fell.|더 중요한 건 비용이 줄었다는 거예요.
+backward|adj.|뒤쪽의; 낙후된|Take a step backward.|한 걸음 뒤로 물러서세요.
+overwhelm|v.|압도하다|We were overwhelmed with orders.|주문이 감당하기 힘들 만큼 몰렸어요.
+consistency|n.|일관성|Consistency in quality is key.|품질의 일관성이 핵심이에요.
+unprecedented|adj.|전례 없는|Demand reached unprecedented levels.|수요가 전례 없는 수준에 이르렀어요.
+declaration|n.|선언; 신고|Fill out the customs declaration.|세관 신고서를 작성하세요.
+retention|n.|유지, 보유|Employee retention is a priority.|직원 유지가 최우선 과제예요.
+harsh|adj.|가혹한|The winter was harsh.|겨울이 혹독했어요.
+contend|v.|주장하다; 다투다|Critics contend the plan is too costly.|비평가들은 그 계획이 너무 비싸다고 주장해요.
+jointly|adv.|공동으로|The project is jointly funded.|그 사업은 공동으로 자금을 대요.
+exclusion|n.|제외|The policy has some exclusions.|그 보험에는 보장 제외 항목이 있어요.
+viewer|n.|시청자|The ad reached millions of viewers.|그 광고는 수백만 명의 시청자에게 닿았어요.
+spur|v.|자극하다, 촉진하다|Low rates spurred investment.|낮은 금리가 투자를 촉진했어요.
+prospectus|n.|투자 설명서; 안내서|Read the prospectus before investing.|투자하기 전에 투자 설명서를 읽으세요.
+conscious|adj.|의식하는|Consumers are conscious of price.|소비자들은 가격에 민감해요.
+buffer|n.|완충제, 완충 장치|Savings act as a buffer.|저축은 완충 장치 역할을 해요.
+formulate|v.|만들어 내다, 공식화하다|We formulated a new plan.|새 계획을 세웠어요.
+browser|n.|(웹) 브라우저|Update your browser.|브라우저를 업데이트하세요.
+cyclical|adj.|주기적인|The industry is cyclical.|그 업계는 경기를 타요.
+exaggerate|v.|과장하다|The ad exaggerated the benefits.|그 광고는 효과를 과장했어요.
+cartel|n.|카르텔, 담합|The cartel controlled prices.|카르텔이 가격을 통제했어요.
+triumph|n.|승리, 대성공|The launch was a triumph.|출시가 대성공이었어요.
+rationale|n.|이유, 근거|What is the rationale for the change?|그렇게 바꾼 이유가 뭐예요?
+processor|n.|처리 장치|The computer has a fast processor.|그 컴퓨터는 처리 속도가 빨라요.
+divert|v.|우회시키다; 전용하다|Traffic was diverted.|차량이 우회됐어요.
+delegation|n.|대표단; 위임|A trade delegation visited Seoul.|무역 대표단이 서울을 방문했어요.
+arguably|adv.|거의 틀림없이|It is arguably the best hotel in town.|거기가 아마 시내에서 제일 좋은 호텔일 거예요.
+distinctive|adj.|독특한|The brand has a distinctive logo.|그 브랜드는 로고가 독특해요.
+inflationary|adj.|인플레이션의|There are inflationary pressures.|물가 상승 압력이 있어요.
+positively|adv.|긍정적으로|Customers responded positively.|고객들이 긍정적으로 반응했어요.
+liberalization|n.|자유화|Trade liberalization boosted exports.|무역 자유화로 수출이 늘었어요.
+buyout|n.|(기업) 매수|The management buyout was successful.|경영진의 회사 인수는 성공적이었어요.
+separation|n.|분리|There is a clear separation of duties.|업무 분담이 명확하게 나뉘어 있어요.
+dissolve|v.|해산하다; 녹다|The partnership was dissolved.|동업 관계가 해산됐어요.
+remarkably|adv.|놀랍게도|Sales were remarkably strong.|매출이 놀라울 정도로 좋았어요.
+spark|v.|촉발하다|The news sparked a sell-off.|그 소식이 매도세를 촉발했어요.
+migration|n.|이주; (데이터) 이전|The data migration took a weekend.|데이터 이전에 주말이 꼬박 걸렸어요.
+dip|n.|하락|There was a dip in sales.|매출이 잠시 떨어졌어요.
+slogan|n.|구호, 슬로건|The slogan is easy to remember.|그 슬로건은 외우기 쉬워요.
+competitiveness|n.|경쟁력|We must improve our competitiveness.|경쟁력을 키워야 해요.
+inclusion|n.|포함|The inclusion of tax raised the price.|세금이 포함되면서 가격이 올랐어요.
+copper|n.|구리|Copper prices rose.|구리 가격이 올랐어요.
+justification|n.|정당화, 이유|There is no justification for the delay.|지연될 이유가 전혀 없어요.
+outright|adv.|완전히, 즉시|The company bought the building outright.|그 회사는 건물을 일시불로 샀어요.
+stance|n.|입장, 태도|The firm changed its stance on remote work.|그 회사는 재택근무에 대한 입장을 바꿨어요.
+fringe|adj.|부가적인; (fringe benefit) 부가 혜택|Fringe benefits include a car.|부가 혜택으로 차량이 제공돼요.
+bitter|adj.|쓴; 격렬한|There was a bitter dispute.|격렬한 분쟁이 있었어요.
+hostility|n.|적대감|There was hostility between the teams.|두 팀 사이에 적대감이 있었어요.
+enlargement|n.|확장|The enlargement of the store is planned.|매장 확장이 계획돼 있어요.
+hub|n.|중심지|The city is a transport hub.|그 도시는 교통의 중심지예요.
+trim|v.|다듬다, 삭감하다|We trimmed the budget.|예산을 줄였어요.
+lesser|adj.|덜한|To a lesser extent, prices rose too.|정도는 덜하지만 가격도 올랐어요.
+forthcoming|adj.|다가오는; 기꺼이 알려주는|Details will be announced in the forthcoming report.|자세한 내용은 곧 나올 보고서에서 발표될 거예요.
+artificial|adj.|인공의|The company uses artificial intelligence.|그 회사는 인공지능을 써요.
+trait|n.|특성|Patience is a useful trait.|인내심은 유용한 특성이에요.
+portray|v.|묘사하다|The ad portrays a happy family.|그 광고는 행복한 가족을 그려요.
+echo|v.|되풀이하다, 공감하다|Many staff echoed her concerns.|많은 직원이 그녀의 우려에 공감했어요.
+haul|v.|운반하다|Trucks haul goods across the country.|트럭이 전국으로 물건을 실어 날라요.
+financially|adv.|재정적으로|The company is financially stable.|그 회사는 재정적으로 안정돼 있어요.
+maximization|n.|극대화|Profit maximization is the goal.|이익 극대화가 목표예요.
+competency|n.|역량|The job requires core competencies.|그 일에는 핵심 역량이 필요해요.
+dissolution|n.|해산, 해체|The dissolution of the partnership was agreed.|동업 관계 해산에 합의했어요.
+distortion|n.|왜곡|The figures contain distortions.|수치에 왜곡된 부분이 있어요.
+continually|adv.|계속해서|We continually improve our products.|우리는 제품을 계속 개선해요.
+coordination|n.|조정, 협조|The event needs careful coordination.|그 행사는 세심한 조율이 필요해요.
+awkward|adj.|어색한, 곤란한|It was an awkward situation.|어색한 상황이었어요.
+slack|adj.|부진한, 느슨한|Business is slack in winter.|겨울에는 장사가 한산해요.
+drift|v.|표류하다, 떠돌다|Prices drifted lower.|가격이 조금씩 내려갔어요.
+vaccine|n.|백신|The vaccine is free for staff.|직원은 백신을 무료로 맞을 수 있어요.
+emergence|n.|출현|The emergence of online shopping changed retail.|온라인 쇼핑의 등장이 소매업을 바꿨어요.
+interference|n.|간섭, 방해|The signal had interference.|신호에 잡음이 있었어요.
+indifference|n.|무관심|Customer indifference hurt sales.|고객의 무관심이 매출에 타격을 줬어요.
+encompass|v.|포함하다, 아우르다|The plan encompasses all departments.|그 계획은 모든 부서를 아울러요.
+proportional|adj.|비례하는|Pay is proportional to hours worked.|급여는 근무 시간에 비례해요.
+uncover|v.|밝혀내다|The audit uncovered errors.|감사에서 오류가 드러났어요.
+petty|adj.|사소한; (petty cash) 소액 현금|Use petty cash for small purchases.|소액 구매에는 소액 현금을 쓰세요.
+convergence|n.|수렴, 융합|There is a convergence of technologies.|기술들이 하나로 융합되고 있어요.
+worsen|v.|악화되다|The situation worsened.|상황이 악화됐어요.
+rejection|n.|거절|We received a letter of rejection.|불합격 통지서를 받았어요.
+reorganization|n.|재편성|The reorganization affected all staff.|조직 개편이 전 직원에게 영향을 줬어요.
+mitigate|v.|완화하다|We took steps to mitigate the risk.|위험을 줄이기 위한 조치를 취했어요.
+successive|adj.|연속적인|Profits rose for five successive years.|이익이 5년 연속 늘었어요.
+blend|n.|혼합|The coffee is a blend of beans.|그 커피는 원두를 섞은 블렌드예요.
+simplicity|n.|단순함|The design is known for its simplicity.|그 디자인은 단순함으로 유명해요.
+static|adj.|정적인, 변화 없는|Sales have been static.|매출이 정체돼 있어요.
+deregulation|n.|규제 철폐|Deregulation opened the market.|규제 철폐로 시장이 열렸어요.
+computerize|v.|전산화하다|All records are computerized.|모든 기록이 전산화돼 있어요.
+succession|n.|계승; 연속|The board discussed succession planning.|이사회가 후계 계획을 논의했어요.
+royalty|n.|인세, 사용료|The author receives royalties.|그 작가는 인세를 받아요.
+spectacular|adj.|장관인|The view is spectacular.|경치가 장관이에요.
+flourish|v.|번창하다|The business flourished.|사업이 번창했어요.
+complement|v.|보완하다|The wine complements the meal.|와인이 음식과 잘 어울려요.
+oral|adj.|구두의|Give an oral presentation.|구두로 발표하세요.
+setup|n.|설치, 구성|The setup takes ten minutes.|설치하는 데 10분이 걸려요.
+notable|adj.|주목할 만한|There were notable improvements.|눈에 띄는 개선이 있었어요.
+numerical|adj.|숫자의|Enter the numerical code.|숫자 코드를 입력하세요.
+policymaker|n.|정책 입안자|Policymakers met to discuss rates.|정책 입안자들이 금리를 논의하려고 모였어요.
+technically|adv.|기술적으로; 엄밀히 말하면|Technically, the store is closed.|엄밀히 말하면 가게는 문을 닫았어요.
+utilization|n.|이용, 활용|Capacity utilization rose.|설비 가동률이 올랐어요.
+tumble|v.|폭락하다|Shares tumbled 10%.|주가가 10% 폭락했어요.
+baseline|n.|기준선|We set a baseline for comparison.|비교 기준선을 정했어요.
+template|n.|견본, 템플릿|Use this template for the report.|보고서는 이 견본을 쓰세요.
+instability|n.|불안정|Political instability hurt investment.|정치적 불안정이 투자에 타격을 줬어요.
+denominate|v.|(화폐 단위로) 표시하다|The bonds are denominated in dollars.|그 채권은 달러로 표시돼요.
+shortfall|n.|부족액|There is a budget shortfall.|예산이 부족해요.
+originate|v.|비롯되다|The idea originated in our team.|그 아이디어는 우리 팀에서 나왔어요.
+bureaucratic|adj.|관료적인|The process is too bureaucratic.|절차가 너무 관료적이에요.
+prevention|n.|예방|Fire prevention is everyone's job.|화재 예방은 모두의 일이에요.
+redundancy|n.|정리 해고; 중복|The company announced 200 redundancies.|그 회사는 200명 정리 해고를 발표했어요.
+dual|adj.|이중의|The device has a dual function.|그 기기는 기능이 두 가지예요.
+brick|n.|벽돌|The building is made of brick.|그 건물은 벽돌로 지었어요.
+internally|adv.|내부적으로|The position was filled internally.|그 자리는 내부 인사로 채웠어요.
+erode|v.|약화시키다, 침식하다|Inflation erodes savings.|인플레이션은 저축의 가치를 깎아 먹어요.
+refinance|v.|재융자하다|They refinanced their mortgage.|그들은 주택 담보 대출을 재융자했어요.
+empower|v.|권한을 주다|We empower staff to make decisions.|우리는 직원에게 결정 권한을 줘요.
+oversight|n.|감독; 실수|The error was an oversight.|그 오류는 실수로 놓친 거였어요.
+transparent|adj.|투명한|The pricing is transparent.|가격이 투명해요.
+dominance|n.|우위, 지배|The firm's dominance is fading.|그 회사의 우위가 약해지고 있어요.
+segmentation|n.|세분화|Market segmentation helps targeting.|시장 세분화는 타깃 설정에 도움이 돼요.
+hugely|adv.|엄청나게|The event was hugely popular.|그 행사는 엄청난 인기를 끌었어요.
+arbitrary|adj.|임의의|The decision seemed arbitrary.|그 결정은 제멋대로인 것 같았어요.
+seemingly|adv.|겉보기에|The task is seemingly simple.|그 일은 겉보기엔 간단해요.
+wholesaler|n.|도매업자|We buy from a wholesaler.|우리는 도매업자에게서 사요.
+renewable|adj.|재생 가능한; 갱신 가능한|The contract is renewable.|그 계약은 갱신할 수 있어요.
+bilateral|adj.|쌍방의|The countries signed a bilateral agreement.|두 나라는 양자 협정을 맺었어요.
+cotton|n.|면|The shirt is 100% cotton.|그 셔츠는 면 100%예요.
+intensity|n.|강도|The intensity of competition increased.|경쟁이 더 치열해졌어요.
+routinely|adv.|일상적으로|Equipment is routinely checked.|장비는 정기적으로 점검해요.
+displace|v.|대체하다, 쫓아내다|Robots may displace workers.|로봇이 사람의 일자리를 대체할 수도 있어요.
+immune|adj.|면역의, 영향 받지 않는|No company is immune to the recession.|경기 침체에서 자유로운 회사는 없어요.
+mobility|n.|이동성|The job offers career mobility.|그 일자리는 경력을 쌓으며 옮겨 다닐 기회가 있어요.
+dilute|v.|희석하다|New shares will dilute ownership.|신주가 발행되면 지분이 희석돼요.
+precedent|n.|선례|The ruling set a precedent.|그 판결이 선례를 남겼어요.
+elaborate|adj.|정교한; v. 자세히 설명하다|Could you elaborate on that point?|그 점을 좀 더 자세히 설명해 주시겠어요?
+reprint|v.|재판하다|The book was reprinted.|그 책은 재판을 찍었어요.
+idle|adj.|가동되지 않는|The machines sat idle.|기계들이 놀고 있었어요.
+allegedly|adv.|주장된 바에 의하면|The money was allegedly stolen.|그 돈은 도난당한 것으로 알려졌어요.
+annualize|v.|연율로 환산하다|The annualized return was 8%.|연 환산 수익률은 8%였어요.
+turmoil|n.|혼란|The market is in turmoil.|시장이 혼란에 빠졌어요.
+reinforcement|n.|강화; 증원|Reinforcements were sent to help.|지원 인력이 추가로 파견됐어요.
+wary|adj.|경계하는|Customers are wary of price increases.|고객들은 가격 인상을 경계해요.
+credible|adj.|믿을 수 있는|We need credible data.|믿을 만한 데이터가 필요해요.
+capita|n.|(per capita) 1인당|Income per capita rose.|1인당 소득이 늘었어요.
+underestimate|v.|과소평가하다|We underestimated the cost.|비용을 과소평가했어요.
+tolerate|v.|용인하다|We do not tolerate harassment.|괴롭힘은 용납하지 않아요.
+downside|n.|불리한 면|The downside is the high cost.|단점은 비용이 많이 든다는 거예요.
+fragile|adj.|깨지기 쉬운|Handle fragile items with care.|깨지기 쉬운 물건은 조심해서 다루세요.
+subtle|adj.|미묘한|There are subtle differences.|미묘한 차이가 있어요.
+replicate|v.|복제하다, 재현하다|We hope to replicate this success.|이 성공을 다시 이어 가고 싶어요.
+breakthrough|n.|돌파구, 획기적 발견|The team made a breakthrough.|그 팀이 돌파구를 찾았어요.
+marketable|adj.|시장성 있는|The product is highly marketable.|그 제품은 시장성이 아주 높아요.
+conjunction|n.|(in conjunction with) ~와 함께|The event is held in conjunction with the expo.|그 행사는 박람회와 함께 열려요.
+overhaul|v.|정비하다, 점검하다|The system was overhauled.|시스템을 전면 정비했어요.
+sensor|n.|감지기|The door has a motion sensor.|그 문에는 동작 감지기가 있어요.
+doubtful|adj.|의심스러운|Success is doubtful.|성공은 장담하기 어려워요.
+grasp|v.|이해하다; 움켜쥐다|She quickly grasped the concept.|그녀는 그 개념을 빨리 이해했어요.
+injection|n.|주입, 투입|The company needs a cash injection.|그 회사는 자금 투입이 필요해요.
+bracket|n.|계층, 범위|He is in a higher tax bracket.|그는 더 높은 세율 구간에 있어요.
+hurdle|n.|장애물|We cleared the final hurdle.|마지막 고비를 넘었어요.
+coincide|v.|동시에 일어나다|The sale coincides with the holiday.|세일 기간이 연휴와 겹쳐요.
+commentator|n.|해설자, 논평가|Commentators expect growth.|논평가들은 성장을 예상해요.
+premier|adj.|최고의|It is the premier hotel in town.|그곳이 시내 최고의 호텔이에요.
+incline|v.|~하는 경향이 있다|I'm inclined to agree.|저도 동의하는 쪽이에요.
+averse|adj.|싫어하는|Investors are risk-averse.|투자자들은 위험을 싫어해요.
+enlarge|v.|확대하다|We enlarged the photo.|사진을 확대했어요.
+fairness|n.|공정성|Fairness is important in hiring.|채용에서는 공정성이 중요해요.
+dependency|n.|의존|We must reduce dependency on imports.|수입 의존도를 줄여야 해요.
+prepayment|n.|선불|Prepayment is required.|선불이 필요해요.
+perpetual|adj.|끊임없는, 영구적인|The office is in perpetual chaos.|그 사무실은 늘 정신없어요.
+ration|v.|배급하다|Supplies were rationed.|물자가 배급됐어요.
+inability|n.|무능, ~할 수 없음|His inability to meet deadlines is a problem.|그가 마감을 못 지키는 게 문제예요.
+discriminate|v.|차별하다; 구별하다|Employers cannot discriminate based on age.|고용주는 나이를 이유로 차별할 수 없어요.
+analytic|adj.|분석적인|We use analytic tools.|우리는 분석 도구를 써요.
+proliferation|n.|확산|The proliferation of smartphones changed shopping.|스마트폰의 확산이 쇼핑을 바꿨어요.
+autonomous|adj.|자율적인|The company tests autonomous vehicles.|그 회사는 자율 주행차를 시험하고 있어요.
+prone|adj.|~하기 쉬운|The area is prone to flooding.|그 지역은 홍수가 잘 나요.
+inefficiency|n.|비효율|We must eliminate inefficiency.|비효율을 없애야 해요.
+downgrade|v.|등급을 내리다|The agency downgraded the bank.|그 기관이 은행의 등급을 낮췄어요.
+openly|adv.|공개적으로|The staff spoke openly about the issue.|직원들은 그 문제에 대해 터놓고 이야기했어요.
+elastic|adj.|탄력적인|Demand for luxury goods is elastic.|명품 수요는 가격에 민감해요.
+oust|v.|축출하다|The CEO was ousted by the board.|CEO가 이사회에 의해 쫓겨났어요.
+entrant|n.|신규 참가자|New entrants face high costs.|신규 진입자는 높은 비용에 직면해요.
+underwriter|n.|(보험) 인수자|The underwriter approved the policy.|보험 인수 담당자가 보험을 승인했어요.
+newcomer|n.|신입, 새로 온 사람|Newcomers are welcome.|새로 온 분들 환영해요.
+prolong|v.|연장하다|The talks were prolonged.|협상이 길어졌어요.
+salvage|v.|구조하다, 회수하다|We salvaged some of the data.|데이터 일부를 복구했어요.
+pursuant|adj.|(pursuant to) ~에 따라|Pursuant to the contract, payment is due now.|계약에 따라 지금 결제해야 해요.
+appropriately|adv.|적절하게|Please dress appropriately.|상황에 맞게 옷을 입어 주세요.
+accusation|n.|비난, 고발|He denied the accusation.|그는 그 비난을 부인했어요.
+entrepreneurial|adj.|기업가적인|She has an entrepreneurial spirit.|그녀는 기업가 정신이 있어요.
+devaluation|n.|평가 절하|The currency devaluation raised import costs.|통화 가치 하락으로 수입 비용이 올랐어요.
+outlay|n.|지출, 경비|The initial outlay was high.|초기 지출이 컸어요.
+simulate|v.|모의 실험하다|The program simulates real conditions.|그 프로그램은 실제 상황을 모의로 재현해요.
+precious|adj.|귀중한|Time is precious.|시간은 소중해요.
+regain|v.|되찾다|The firm regained market share.|그 회사는 시장 점유율을 되찾았어요.
+differentiation|n.|차별화|Product differentiation is key.|제품 차별화가 핵심이에요.
+restrictive|adj.|제한적인|The rules are too restrictive.|규칙이 너무 제한적이에요.
+deed|n.|증서; 행위|Sign the property deed.|부동산 증서에 서명하세요.
+competent|adj.|유능한|She is a competent manager.|그녀는 유능한 관리자예요.
+occasional|adj.|가끔의|There are occasional delays.|가끔 지연될 때가 있어요.
+globe|n.|세계, 지구|We have customers around the globe.|우리는 전 세계에 고객이 있어요.
+isolation|n.|고립|Working from home can lead to isolation.|재택근무를 하면 고립될 수 있어요.
+overstate|v.|과장하다|The report overstated profits.|그 보고서는 이익을 부풀렸어요.
+partition|n.|칸막이|A partition separates the desks.|칸막이가 책상들을 나눠요.
+hypothetical|adj.|가정의|Let's consider a hypothetical case.|가상의 사례를 생각해 봐요.
+deprive|v.|빼앗다|The strike deprived us of supplies.|파업 때문에 물자를 받지 못했어요.
+investigator|n.|조사관|An investigator examined the accident.|조사관이 사고를 조사했어요.
+tactical|adj.|전술의|It was a tactical decision.|전술적인 결정이었어요.
+psychology|n.|심리(학)|Consumer psychology affects pricing.|소비자 심리는 가격 책정에 영향을 줘요.
+reap|v.|거두다|We reaped the benefits of the investment.|투자의 혜택을 누렸어요.
+disposable|adj.|일회용의; 처분 가능한|Use disposable gloves.|일회용 장갑을 쓰세요.
+arbitration|n.|중재|The dispute went to arbitration.|분쟁은 중재로 넘어갔어요.
+boycott|n.|불매 운동|Consumers organized a boycott.|소비자들이 불매 운동을 벌였어요.
+discrete|adj.|별개의|The project has three discrete phases.|그 프로젝트는 별개의 세 단계로 나뉘어요.
+gloomy|adj.|우울한, 비관적인|The forecast is gloomy.|전망이 어두워요.
+unpredictable|adj.|예측할 수 없는|The weather is unpredictable.|날씨를 예측할 수 없어요.
+accumulation|n.|축적|The accumulation of debt is a concern.|부채가 쌓이는 게 걱정이에요.
+disastrous|adj.|처참한|The launch was disastrous.|출시는 처참했어요.
+prototype|n.|시제품|The prototype was tested last week.|시제품은 지난주에 시험했어요.
+defensive|adj.|방어적인|He became defensive when questioned.|그는 질문을 받자 방어적으로 굴었어요.
+drain|v.|소모시키다; 배수하다|The project drained our resources.|그 프로젝트가 우리 자원을 다 써 버렸어요.
+frustration|n.|좌절, 불만|Customers expressed frustration.|고객들이 불만을 드러냈어요.
+undervalue|v.|과소평가하다|The shares are undervalued.|그 주식은 저평가돼 있어요.
+diligence|n.|근면; (due diligence) 실사|We completed due diligence on the deal.|그 거래에 대한 실사를 마쳤어요.
+outweigh|v.|~보다 크다|The benefits outweigh the costs.|이점이 비용보다 커요.
+undoubtedly|adv.|의심할 여지 없이|It is undoubtedly the best option.|그게 의심할 여지 없이 최선이에요.
+composite|adj.|합성의|The deck is made of composite material.|그 데크는 합성 소재로 만들었어요.
+eventual|adj.|궁극적인|The eventual cost was double.|최종 비용은 두 배였어요.
+vague|adj.|모호한|The instructions were vague.|지시가 모호했어요.
+correspondent|n.|특파원|A correspondent reported from Tokyo.|특파원이 도쿄에서 보도했어요.
+synthetic|adj.|합성의|The jacket is made of synthetic fabric.|그 재킷은 합성 섬유로 만들었어요.
+outbreak|n.|발생, 발발|An outbreak of flu closed the office.|독감이 퍼져서 사무실이 문을 닫았어요.
+deficiency|n.|결핍, 결함|The audit found deficiencies.|감사에서 미흡한 점이 발견됐어요.
+imbalance|n.|불균형|There is a trade imbalance.|무역 불균형이 있어요.
+bolster|v.|강화하다|The campaign bolstered sales.|그 캠페인으로 매출이 늘었어요.
+constructive|adj.|건설적인|Thank you for your constructive feedback.|건설적인 의견 감사합니다.
+commence|v.|시작하다|The meeting will commence at 9 A.M.|회의는 오전 9시에 시작할 거예요.
+skeptic|n.|회의론자|Skeptics doubt the plan will work.|회의론자들은 그 계획이 성공할지 의심해요.
+bounce|v.|되돌아오다; 반등하다|The e-mail bounced back.|이메일이 반송됐어요.
+endorsement|n.|지지, 보증|The product got a celebrity endorsement.|그 제품은 유명인의 추천을 받았어요.
+unwilling|adj.|꺼리는|They were unwilling to compromise.|그들은 타협할 생각이 없었어요.
+cheaply|adv.|싸게|The goods were made cheaply.|그 물건들은 싸구려로 만들어졌어요.
+enrich|v.|풍부하게 하다|The course will enrich your skills.|그 과정은 여러분의 실력을 키워 줄 거예요.
+collectively|adv.|집합적으로|The team collectively decided.|팀이 함께 결정했어요.
+decree|n.|법령|The government issued a decree.|정부가 법령을 공포했어요.
+enhancement|n.|향상|The update includes security enhancements.|이번 업데이트에는 보안 강화가 포함돼요.
+decentralize|v.|분산시키다|The company decentralized decision-making.|그 회사는 의사 결정을 분산했어요.
+pensioner|n.|연금 수급자|Pensioners get a discount.|연금 수급자는 할인을 받아요.
+presume|v.|추정하다|I presume you have read the report.|보고서는 읽으셨으리라 생각해요.
+prudent|adj.|신중한|It is prudent to save money.|돈을 모아 두는 게 현명해요.
+census|n.|인구 조사|The census is taken every ten years.|인구 조사는 10년마다 실시돼요.
+vow|v.|맹세하다|The CEO vowed to cut costs.|CEO는 비용을 줄이겠다고 다짐했어요.
+ineffective|adj.|효과 없는|The campaign was ineffective.|그 캠페인은 효과가 없었어요.
+adequately|adv.|충분히, 적절히|Staff were not adequately trained.|직원들이 교육을 충분히 받지 못했어요.
+testimony|n.|증언|The witness gave testimony.|증인이 증언했어요.
+manipulation|n.|조작|Price manipulation is illegal.|가격 조작은 불법이에요.
+cooperative|adj.|협조적인; n. 협동조합|The staff were very cooperative.|직원들이 아주 협조적이었어요.
+rigid|adj.|엄격한, 융통성 없는|The rules are too rigid.|규칙이 너무 엄격해요.
+tenure|n.|재임 기간|During his tenure, sales doubled.|그의 재임 기간 동안 매출이 두 배가 됐어요.
+milestone|n.|중요한 단계, 이정표|The project reached a milestone.|그 프로젝트가 중요한 단계에 도달했어요.
+optimum|adj.|최적의|The optimum temperature is 20°C.|최적 온도는 20도예요.
+subsection|n.|세부 항목|See subsection 3.2.|3.2항을 보세요.
+formulation|n.|공식화; 제조법|The new formulation is safer.|새 제조법이 더 안전해요.
+exert|v.|(힘을) 행사하다|The union exerted pressure on management.|노조가 경영진을 압박했어요.
+expectancy|n.|기대(치)|Life expectancy has increased.|기대 수명이 늘었어요.
+syndicate|n.|연합, 신디케이트|A syndicate of banks provided the loan.|은행 연합이 대출을 제공했어요.
+unfavorable|adj.|불리한|Weather conditions were unfavorable.|기상 여건이 좋지 않았어요.
+proprietorship|n.|소유권; (sole proprietorship) 개인 사업|He runs a sole proprietorship.|그는 개인 사업을 운영해요.
+policyholder|n.|보험 계약자|Policyholders will receive a refund.|보험 계약자들은 환급을 받게 될 거예요.
+sustainability|n.|지속 가능성|We focus on sustainability.|우리는 지속 가능성에 집중해요.
+supervisory|adj.|감독의|She holds a supervisory position.|그녀는 감독직을 맡고 있어요.
+sheer|adj.|순전한|The sheer size of the project is impressive.|그 프로젝트는 규모 자체가 인상적이에요.
+realization|n.|깨달음; 실현|The realization of our goals took years.|목표를 이루는 데 몇 년이 걸렸어요.
+reinvestment|n.|재투자|Reinvestment of profits drives growth.|이익을 재투자해야 성장해요.
+pending|adj.|미결의, 계류 중인|The decision is pending approval.|그 결정은 승인을 기다리고 있어요.
+scatter|v.|흩어지다|Offices are scattered around the city.|사무실이 도시 곳곳에 흩어져 있어요.
+annum|n.|(per annum) 연간|The salary is $50,000 per annum.|연봉은 5만 달러예요.
+restrain|v.|억제하다|We must restrain spending.|지출을 억제해야 해요.
+configuration|n.|구성, 설정|Check the network configuration.|네트워크 설정을 확인하세요.
+reportedly|adv.|전하는 바에 의하면|The CEO is reportedly leaving.|CEO가 떠난다는 소식이 있어요.
+negotiator|n.|협상가|She is a skilled negotiator.|그녀는 노련한 협상가예요.
+embody|v.|구현하다|The product embodies our values.|그 제품은 우리의 가치를 담고 있어요.
+deployment|n.|배치, 배포|The software deployment went smoothly.|소프트웨어 배포는 순조로웠어요.
+detection|n.|탐지|Early detection prevents damage.|빨리 발견하면 피해를 막을 수 있어요.
+intelligent|adj.|지능적인, 총명한|The system uses intelligent sensors.|그 시스템은 지능형 센서를 써요.
+conservation|n.|보존|Energy conservation saves money.|에너지를 아끼면 돈이 절약돼요.
+slim|adj.|희박한; 날씬한|Chances of success are slim.|성공할 가능성이 희박해요.
+synergy|n.|시너지|The merger will create synergies.|합병으로 시너지가 생길 거예요.
+disguise|v.|숨기다, 위장하다|The figures disguised the losses.|수치 때문에 손실이 가려졌어요.
+selective|adj.|선별적인|The company is selective in hiring.|그 회사는 사람을 까다롭게 뽑아요.
+assertion|n.|주장|His assertion was not supported by data.|그의 주장은 데이터로 뒷받침되지 않았어요.
+fraudulent|adj.|사기의|The charges were fraudulent.|그 청구는 사기였어요.
+constituent|n.|구성 요소; 유권자|Each constituent part was tested.|각 구성 부품을 시험했어요.
+fiduciary|adj.|신탁의, 수탁자의|Directors have a fiduciary duty.|이사는 수탁자로서의 의무가 있어요.
+speculate|v.|추측하다; 투기하다|Analysts speculate about a merger.|분석가들은 합병을 점치고 있어요.
+citizenship|n.|시민권|She applied for citizenship.|그녀는 시민권을 신청했어요.
+rebound|v.|반등하다|Sales rebounded in spring.|봄에 매출이 반등했어요.
+scorecard|n.|평가표|We use a balanced scorecard.|우리는 균형 성과표를 써요.
+contributor|n.|기여자, 기고자|She is a regular contributor to the magazine.|그녀는 그 잡지에 정기적으로 기고해요.
+negotiable|adj.|협상 가능한|The salary is negotiable.|급여는 협상할 수 있어요.
+reconstruction|n.|재건|The reconstruction of the bridge is underway.|다리 재건 공사가 진행 중이에요.
+restate|v.|다시 말하다|Let me restate the question.|질문을 다시 말씀드릴게요.
+rightly|adv.|당연히, 정당하게|Customers are rightly upset.|고객들이 화가 난 건 당연해요.
+converge|v.|모이다, 수렴하다|Thousands converged on the city for the expo.|박람회를 보려고 수천 명이 그 도시로 모였어요.
+incorrect|adj.|부정확한|The address was incorrect.|주소가 틀렸어요.
+compulsory|adj.|의무적인|Training is compulsory for all staff.|교육은 전 직원 의무예요.
+dismantle|v.|해체하다|The old machines were dismantled.|낡은 기계들을 해체했어요.
+precision|n.|정밀성|The parts are made with precision.|부품은 정밀하게 만들어요.
+duly|adv.|적절히, 정식으로|Your request has been duly noted.|요청하신 내용을 잘 확인했습니다.
+imminent|adj.|임박한|A decision is imminent.|곧 결정이 날 거예요.
+sympathy|n.|동정, 공감|We have sympathy for their situation.|그들의 처지에 공감해요.
+forecaster|n.|예측가, 기상 예보관|Forecasters predict rain.|기상 예보관들은 비를 예상해요.
+conceal|v.|숨기다|He concealed the losses.|그는 손실을 숨겼어요.
+unrelated|adj.|무관한|The two issues are unrelated.|두 문제는 서로 관계없어요.
+clarity|n.|명확성|The report lacks clarity.|그 보고서는 명확하지 않아요.
+rigorous|adj.|엄격한, 철저한|All products undergo rigorous testing.|모든 제품은 엄격한 테스트를 거쳐요.
+maneuver|v.|조종하다|The truck maneuvered into the dock.|트럭이 하역장으로 조심스럽게 들어갔어요.
+prosperous|adj.|번영하는|It is a prosperous region.|그곳은 부유한 지역이에요.
+statistically|adv.|통계적으로|The difference is statistically significant.|그 차이는 통계적으로 유의미해요.
+specialization|n.|전문화|Specialization improves efficiency.|전문화는 효율을 높여요.
+globally|adv.|세계적으로|The brand is known globally.|그 브랜드는 전 세계적으로 유명해요.
+pronounce|v.|발음하다; 선언하다|How do you pronounce his name?|그의 이름은 어떻게 발음해요?
+unify|v.|통합하다|The new logo unifies the brands.|새 로고가 브랜드들을 하나로 묶어요.
+dismissal|n.|해고|He appealed his dismissal.|그는 해고에 이의를 제기했어요.
+empowerment|n.|권한 부여|Employee empowerment improves morale.|직원에게 권한을 주면 사기가 올라가요.
+revival|n.|부활, 회복|There is a revival in demand.|수요가 다시 살아나고 있어요.
+swiftly|adv.|신속하게|The problem was swiftly resolved.|문제가 신속하게 해결됐어요.
+void|adj.|무효의|The contract is void.|그 계약은 무효예요.
+instinct|n.|본능, 직감|Trust your instincts.|직감을 믿으세요.
+deliberate|adj.|고의의, 신중한|It was a deliberate decision.|신중하게 내린 결정이었어요.
+approximation|n.|근사치|The figure is only an approximation.|그 수치는 근삿값일 뿐이에요.
+unsecured|adj.|무담보의|It is an unsecured loan.|무담보 대출이에요.
+quotation|n.|견적(서); 인용|Please send us a quotation.|견적서를 보내 주세요.
+mold|n.|틀; 곰팡이|The parts are made in a mold.|부품은 틀로 찍어 만들어요.
+impair|v.|손상시키다|The injury impaired his ability to work.|부상 때문에 그는 일하기가 어려워졌어요.
+testify|v.|증언하다|She testified in court.|그녀는 법정에서 증언했어요.
+persistent|adj.|끈질긴, 지속적인|There is a persistent problem with the printer.|프린터에 계속 문제가 있어요.
+catastrophe|n.|재앙|The flood was a catastrophe.|홍수는 재앙이었어요.
+endless|adj.|끝없는|There was an endless line of customers.|고객 줄이 끝없이 이어졌어요.
+revaluation|n.|재평가|The revaluation of assets increased equity.|자산 재평가로 자본이 늘었어요.
+worthy|adj.|~할 가치가 있는|The proposal is worthy of consideration.|그 제안은 검토해 볼 만해요.
+resale|n.|재판매|The car has good resale value.|그 차는 중고로 팔 때 값을 잘 받아요.
+progressive|adj.|진보적인; 점진적인|The company has progressive policies.|그 회사는 진보적인 정책을 펴요.
+corrective|adj.|바로잡는|Corrective action was taken.|시정 조치를 취했어요.
+speculator|n.|투기꾼|Speculators drove up prices.|투기꾼들이 가격을 끌어올렸어요.
+inconsistent|adj.|일관성 없는|The results were inconsistent.|결과가 일관되지 않았어요.
+plainly|adv.|분명히|The instructions are plainly written.|설명서가 알기 쉽게 쓰여 있어요.
+equate|v.|동일시하다|Don't equate price with quality.|가격이 곧 품질이라고 생각하지 마세요.
+unexpectedly|adv.|뜻밖에|Sales rose unexpectedly.|매출이 뜻밖에 올랐어요.
+timber|n.|목재|The house is made of timber.|그 집은 목재로 지었어요.
+credential|n.|자격 증명|Check the applicant's credentials.|지원자의 자격 증명을 확인하세요.
+randomly|adv.|무작위로|Winners will be chosen randomly.|당첨자는 무작위로 뽑아요.
+underpin|v.|뒷받침하다|Strong demand underpins growth.|강한 수요가 성장을 뒷받침해요.
+heir|n.|상속인|He is the heir to the company.|그가 회사의 상속자예요.
+genuinely|adv.|진정으로|We are genuinely sorry.|진심으로 죄송합니다.
+severely|adv.|심하게|The building was severely damaged.|그 건물은 심하게 손상됐어요.
+grim|adj.|암울한|The outlook is grim.|전망이 암울해요.
+physically|adv.|신체적으로|The job is physically demanding.|그 일은 체력적으로 힘들어요.
+disposition|n.|성향; 처분|She has a cheerful disposition.|그녀는 성격이 쾌활해요.
+misunderstand|v.|오해하다|Please don't misunderstand my question.|제 질문을 오해하지 마세요.
+outgoing|adj.|외향적인; 떠나는|The outgoing CEO gave a speech.|퇴임하는 CEO가 연설을 했어요.
+worksheet|n.|작업표|Complete the worksheet.|작업표를 작성하세요.
+intercept|v.|가로채다|The package was intercepted.|소포가 중간에 가로채졌어요.
+dent|n.|움푹 들어간 곳; 타격|The costs made a dent in our budget.|그 비용 때문에 예산에 타격이 있었어요.
+absorption|n.|흡수|The absorption of the smaller firm took a year.|작은 회사를 흡수하는 데 1년이 걸렸어요.
+importer|n.|수입업자|We are the largest importer of coffee.|저희는 최대 커피 수입업체예요.
+continuity|n.|연속성|Business continuity planning is essential.|사업 연속성 계획은 필수예요.
+dismal|adj.|형편없는|Sales were dismal.|매출이 형편없었어요.
+magnetic|adj.|자석의|Swipe the magnetic strip.|마그네틱 띠를 긁으세요.
+generalize|v.|일반화하다|It's hard to generalize.|일반화하기 어려워요.
+confrontation|n.|대립|We want to avoid confrontation.|대립은 피하고 싶어요.
+demise|n.|종말, 소멸|The store's demise surprised no one.|그 가게가 망한 건 아무도 놀라지 않았어요.
+reversal|n.|반전|There was a reversal of the trend.|추세가 반전됐어요.
+tide|n.|조류, 흐름|The tide turned in our favor.|흐름이 우리에게 유리하게 바뀌었어요.
+saver|n.|저축하는 사람; 절약 장치|Savers earn little interest now.|요즘 예금자들은 이자를 거의 못 받아요.
+intensify|v.|강화하다|Competition intensified.|경쟁이 심해졌어요.
+reluctance|n.|꺼림|There is reluctance to spend.|지출을 꺼리는 분위기예요.
+aviation|n.|항공|She works in aviation.|그녀는 항공 분야에서 일해요.
+defy|v.|거역하다; 무시하다|The stock defied the market trend.|그 주식은 시장 흐름과 반대로 움직였어요.
+confer|v.|상의하다; 수여하다|I need to confer with my team.|팀과 상의해야 해요.
+surveillance|n.|감시|The store has surveillance cameras.|그 가게에는 감시 카메라가 있어요.
+decimal|n.|소수|Round to two decimal places.|소수점 둘째 자리까지 반올림하세요.
+stipulate|v.|(계약서에) 규정하다|The contract stipulates a 30-day notice period.|계약서에는 30일 전 통보 기간이 규정돼 있어요.
+unanimous|adj.|만장일치의|The board reached a unanimous decision.|이사회가 만장일치로 결정했어요.
+commensurate|adj.|상응하는|Salary will be commensurate with experience.|급여는 경력에 상응해요.
+impending|adj.|임박한|Staff were informed of the impending merger.|직원들은 곧 있을 합병 소식을 들었어요.
+abundant|adj.|풍부한|The region has abundant natural resources.|그 지역은 천연자원이 풍부해요.
+adept|adj.|능숙한|She is adept at handling difficult clients.|그녀는 까다로운 고객을 다루는 데 능숙해요.
+adjourn|v.|휴회하다|The meeting was adjourned until Monday.|회의는 월요일까지 휴회했어요.
+advocate|v.|옹호하다; n. 지지자|He advocates flexible working hours.|그는 유연 근무제를 옹호해요.
+allegiance|n.|충성|Customers show strong allegiance to the brand.|고객들의 브랜드 충성도가 높아요.
+amass|v.|모으다, 축적하다|She amassed a fortune in real estate.|그녀는 부동산으로 큰돈을 모았어요.
+anticipate|v.|예상하다|We anticipate strong demand this winter.|이번 겨울에는 수요가 많을 거라고 예상해요.
+apprise|v.|알리다|Please keep me apprised of any changes.|변동 사항이 있으면 계속 알려 주세요.
+ascertain|v.|확인하다|We are trying to ascertain the cause of the error.|오류의 원인을 확인하려고 하고 있어요.
+assess|v.|평가하다|Experts will assess the damage.|전문가들이 피해를 평가할 거예요.
+attribute|v.|~의 덕분으로 보다|She attributes her success to hard work.|그녀는 성공의 비결을 노력이라고 봐요.
+circumvent|v.|피해 가다, 우회하다|They tried to circumvent the rules.|그들은 규칙을 피해 가려고 했어요.
+coherent|adj.|일관성 있는|We need a coherent marketing strategy.|일관성 있는 마케팅 전략이 필요해요.
+commend|v.|칭찬하다|The manager commended the team for its effort.|매니저가 팀의 노고를 칭찬했어요.
+comprehensive|adj.|포괄적인|The guide provides comprehensive information.|그 안내서는 포괄적인 정보를 제공해요.
+concise|adj.|간결한|Keep your summary concise.|요약은 간결하게 쓰세요.
+concur|v.|동의하다|I concur with your assessment.|평가하신 내용에 동의해요.
+conducive|adj.|도움이 되는|The quiet office is conducive to work.|조용한 사무실은 일하기에 좋아요.
+culminate|v.|절정에 이르다|The festival culminates in a fireworks show.|축제는 불꽃놀이로 절정을 이뤄요.
+curtail|v.|축소하다, 단축하다|The company curtailed its travel budget.|그 회사는 출장 예산을 줄였어요.
+delinquent|adj.|연체된|Delinquent accounts will be charged a fee.|연체 계좌에는 수수료가 부과돼요.
+detrimental|adj.|해로운|Stress is detrimental to productivity.|스트레스는 생산성에 해로워요.
+discern|v.|알아차리다, 분별하다|It is hard to discern any pattern.|어떤 패턴도 알아보기 어려워요.
+disseminate|v.|퍼뜨리다, 보급하다|The report will be disseminated to all staff.|보고서는 전 직원에게 배포될 거예요.
+earmark|v.|(자금을) 배정하다|The funds are earmarked for research.|그 자금은 연구용으로 배정돼 있어요.
+eloquent|adj.|유창한, 설득력 있는|She gave an eloquent speech.|그녀는 설득력 있는 연설을 했어요.
+embark|v.|착수하다; 승선하다|The company embarked on a major expansion.|그 회사는 대대적인 확장에 착수했어요.
+endeavor|n.|노력, 시도|We wish you success in your future endeavors.|앞으로 하시는 일 모두 잘되길 바랍니다.
+enumerate|v.|열거하다|The report enumerates the main risks.|보고서에는 주요 위험이 열거돼 있어요.
+exacerbate|v.|악화시키다|The delay exacerbated the problem.|지연으로 문제가 더 커졌어요.
+exemplary|adj.|모범적인|She received an award for exemplary service.|그녀는 모범적인 서비스로 상을 받았어요.
+expedient|adj.|편리한, 방편적인|It was expedient to hire a contractor.|시공업자를 쓰는 게 편리했어요.
+forfeit|v.|몰수당하다, 상실하다|Late cancellations forfeit the deposit.|늦게 취소하면 보증금을 돌려받지 못해요.
+garner|v.|얻다, 모으다|The product garnered positive reviews.|그 제품은 좋은 평가를 받았어요.
+hamper|v.|방해하다|Bad weather hampered the delivery.|궂은 날씨 때문에 배송이 늦어졌어요.
+impeccable|adj.|흠잡을 데 없는|The hotel's service was impeccable.|그 호텔의 서비스는 흠잡을 데가 없었어요.
+inadvertently|adv.|무심코, 부주의로|The file was inadvertently deleted.|파일이 실수로 삭제됐어요.
+incentive|n.|장려책, 인센티브|Sales staff receive incentives for meeting targets.|영업 직원은 목표를 달성하면 인센티브를 받아요.
+indispensable|adj.|없어서는 안 될|She is an indispensable member of the team.|그녀는 팀에 없어서는 안 될 사람이에요.
+inquisitive|adj.|호기심 많은|Inquisitive employees often find new ideas.|호기심 많은 직원이 새 아이디어를 잘 찾아요.
+intact|adj.|손상되지 않은|The package arrived intact.|소포가 멀쩡하게 도착했어요.
+itemize|v.|항목별로 적다|Please itemize your expenses.|경비를 항목별로 적어 주세요.
+jeopardize|v.|위태롭게 하다|The delay could jeopardize the deal.|지연되면 거래가 위태로워질 수 있어요.
+lenient|adj.|관대한|The new return policy is more lenient.|새 반품 정책은 더 관대해요.
+meticulous|adj.|꼼꼼한|She keeps meticulous records.|그녀는 기록을 꼼꼼하게 해요.
+mediate|v.|중재하다|A third party will mediate the dispute.|제3자가 분쟁을 중재할 거예요.
+negligible|adj.|무시할 수 있는, 미미한|The cost difference is negligible.|비용 차이는 무시할 정도예요.
+notwithstanding|prep.|~에도 불구하고|Notwithstanding the delays, the project was a success.|지연에도 불구하고 프로젝트는 성공했어요.
+obsolete|adj.|더 이상 쓰이지 않는, 구식의|The old software is now obsolete.|예전 소프트웨어는 이제 쓰이지 않아요.
+onerous|adj.|부담스러운|The new rules are onerous for small firms.|새 규정은 소기업에 부담스러워요.
+patronage|n.|애용, 후원|Thank you for your continued patronage.|변함없이 이용해 주셔서 감사합니다.
+pertinent|adj.|관련 있는|Please include all pertinent information.|관련 정보를 모두 넣어 주세요.
+plummet|v.|급락하다|Profits plummeted last quarter.|지난 분기에 이익이 급락했어요.
+preclude|v.|불가능하게 하다, 막다|The schedule precludes a second meeting.|일정상 두 번째 회의는 불가능해요.
+prerequisite|n.|전제 조건|A degree is a prerequisite for the job.|그 일을 하려면 학위가 필수예요.
+procure|v.|조달하다|We procured supplies from overseas.|해외에서 물자를 조달했어요.
+proficient|adj.|능숙한|Applicants must be proficient in English.|지원자는 영어에 능숙해야 해요.
+prohibitive|adj.|(가격이) 엄청나게 비싼|The cost of the repair was prohibitive.|수리비가 엄청나게 비쌌어요.
+proximity|n.|근접|The hotel's proximity to the airport is convenient.|그 호텔은 공항과 가까워서 편리해요.
+punctuality|n.|시간 엄수|Punctuality is important in this job.|이 일에서는 시간 엄수가 중요해요.
+ramification|n.|(예상 밖의) 결과, 영향|Consider the ramifications of the decision.|그 결정이 불러올 결과를 생각해 보세요.
+rectify|v.|바로잡다|We will rectify the error immediately.|오류를 즉시 바로잡겠습니다.
+redundant|adj.|불필요한, 중복되는; 해고된|Several positions became redundant.|몇몇 자리가 필요 없어졌어요.
+relinquish|v.|포기하다, 양도하다|He relinquished control of the company.|그는 회사 경영권을 내려놓았어요.
+remittance|n.|송금(액)|Please send your remittance by Friday.|금요일까지 송금해 주세요.
+reputable|adj.|평판이 좋은|Buy only from reputable dealers.|평판 좋은 판매점에서만 사세요.
+rescind|v.|철회하다, 취소하다|The company rescinded the job offer.|그 회사는 채용 제안을 철회했어요.
+retain|v.|유지하다, 보유하다|We want to retain our best employees.|우수한 직원들을 붙잡아 두고 싶어요.
+scrutinize|v.|면밀히 조사하다|Auditors scrutinized the accounts.|감사관들이 장부를 면밀히 조사했어요.
+solicit|v.|요청하다, 간청하다|We are soliciting feedback from customers.|고객 의견을 요청하고 있어요.
+stringent|adj.|엄격한|The factory follows stringent safety standards.|그 공장은 엄격한 안전 기준을 지켜요.
+substantiate|v.|입증하다|Can you substantiate your claim?|주장을 입증할 수 있나요?
+succinct|adj.|간결한|Her report was clear and succinct.|그녀의 보고서는 명확하고 간결했어요.
+supersede|v.|대체하다|The new policy supersedes the old one.|새 정책이 예전 정책을 대체해요.
+tentative|adj.|잠정적인|The schedule is tentative and may change.|일정은 잠정적이라 바뀔 수 있어요.
+vigilant|adj.|경계하는|Staff must remain vigilant about security.|직원들은 보안에 늘 경계를 늦추지 말아야 해요.
+waiver|n.|권리 포기 각서; 면제|Participants must sign a waiver.|참가자는 권리 포기 각서에 서명해야 해요.
+yield|v.|산출하다; n. 수익|The investment yielded a 10% return.|그 투자는 10%의 수익을 냈어요.
+adversely|adv.|불리하게|Sales were adversely affected by the weather.|날씨 때문에 매출에 악영향이 있었어요.
+alleviate|v.|완화하다|The new road will alleviate congestion.|새 도로가 교통 혼잡을 덜어 줄 거예요.
+amenable|adj.|순응하는, 잘 받아들이는|The client is amenable to the changes.|고객은 변경 사항을 받아들일 의향이 있어요.
+appraise|v.|평가하다, 감정하다|The house was appraised at $400,000.|그 집은 40만 달러로 감정됐어요.
+arbitrate|v.|중재하다|An expert was hired to arbitrate the dispute.|분쟁을 중재하려고 전문가를 고용했어요.
+attainable|adj.|달성 가능한|Set attainable goals for your team.|팀에 달성 가능한 목표를 세우세요.
+augment|v.|늘리다, 증가시키다|He took a second job to augment his income.|그는 수입을 늘리려고 부업을 했어요.
+commemorate|v.|기념하다|The event commemorates the company's founding.|그 행사는 회사 창립을 기념해요.
+complementary|adj.|상호 보완적인|The two products are complementary.|두 제품은 서로를 보완해요.
+comprise|v.|구성하다|The committee comprises five members.|위원회는 5명으로 구성돼요.
+consign|v.|위탁하다, 맡기다|The goods were consigned to a dealer.|상품을 판매상에게 위탁했어요.
+constraint|n.|제약|We are working under budget constraints.|예산 제약 속에서 일하고 있어요.
+deplete|v.|고갈시키다|Supplies were quickly depleted.|물자가 금방 바닥났어요.
+dwindle|v.|줄어들다|Our savings dwindled over time.|저축이 점점 줄었어요.
+elicit|v.|(반응을) 이끌어 내다|The survey elicited many responses.|그 설문 조사에 응답이 많이 들어왔어요.
+embargo|n.|수출입 금지|The government lifted the trade embargo.|정부가 무역 금지 조치를 해제했어요.
+entitle|v.|자격을 주다|Members are entitled to free parking.|회원은 무료로 주차할 수 있어요.
+exorbitant|adj.|터무니없이 비싼|The hotel charges exorbitant prices.|그 호텔은 터무니없이 비싸요.
+fortify|v.|강화하다|The company fortified its market position.|그 회사는 시장 입지를 다졌어요.
+impose|v.|부과하다|The city imposed a new tax.|시에서 새 세금을 부과했어요.
+inception|n.|시작, 개시|The firm has grown since its inception.|그 회사는 설립 이후 계속 성장했어요.
+influx|n.|유입|The festival brings an influx of tourists.|축제 때문에 관광객이 몰려와요.
+inaugurate|v.|개관하다; 취임시키다|The mayor inaugurated the new library.|시장이 새 도서관 개관식을 했어요.
+lapse|v.|(권리 등이) 소멸하다; n. 실수|Your membership will lapse if not renewed.|갱신하지 않으면 회원 자격이 소멸돼요.
+negligent|adj.|태만한, 부주의한|The landlord was negligent in repairs.|집주인은 수리를 소홀히 했어요.
+novice|n.|초보자|The course is suitable for novices.|그 강좌는 초보자에게 알맞아요.
+obligatory|adj.|의무적인|Attendance is obligatory for all staff.|전 직원은 반드시 참석해야 해요.
+perishable|adj.|부패하기 쉬운|Perishable goods must be refrigerated.|상하기 쉬운 식품은 냉장 보관해야 해요.
+pertain|v.|관련되다|The rules pertain to all employees.|그 규칙은 모든 직원에게 적용돼요.
+procrastinate|v.|미루다|Don't procrastinate on the report.|보고서를 미루지 마세요.
+quarantine|n.|격리|The shipment was held in quarantine.|화물이 검역소에 묶여 있었어요.
+reciprocal|adj.|상호의|The firms have a reciprocal agreement.|두 회사는 상호 협정을 맺고 있어요.
+remuneration|n.|보수|The position offers attractive remuneration.|그 자리는 보수가 좋아요.
+replenish|v.|다시 채우다|Please replenish the supplies.|비품을 채워 주세요.
+revoke|v.|취소하다, 철회하다|His license was revoked.|그의 면허가 취소됐어요.
+sanction|n.|제재; 승인|The plan received official sanction.|그 계획은 공식 승인을 받았어요.
+stagnant|adj.|정체된|Wages have been stagnant for years.|임금이 몇 년째 제자리예요.
+subsequent|adj.|그 후의|Subsequent orders will get a discount.|이후 주문부터는 할인을 받아요.
+surpass|v.|능가하다|Sales surpassed our expectations.|매출이 예상을 뛰어넘었어요.
+susceptible|adj.|영향을 받기 쉬운|The plants are susceptible to frost.|그 식물들은 서리에 약해요.
+turnaround|n.|호전, 회생|The new CEO led a remarkable turnaround.|새 CEO가 놀라운 회생을 이끌었어요.
+utmost|adj.|최대한의|The matter is of the utmost importance.|그 문제는 매우 중요해요.

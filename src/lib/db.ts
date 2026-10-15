@@ -80,7 +80,7 @@ interface CustomRow extends CustomInput {
   id: string;
 }
 
-const toWord = (r: CustomRow): Word => ({ ...r, id: customId(r.id), level: 'mine' });
+const toWord = (r: CustomRow): Word => ({ ...r, id: customId(r.id), exampleKo: '', level: 'mine' });
 const rowId = (id: string) => id.slice(2);
 
 export async function fetchCustomWords(): Promise<Word[]> {

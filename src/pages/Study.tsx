@@ -161,6 +161,7 @@ export default function Study() {
               {w.example && (
                 <div className="mt-6 bg-white/70 rounded-2xl px-4 py-3">
                   <p className="text-ink-soft italic leading-relaxed text-[14px] sm:text-base">“{w.example}”</p>
+                  {w.exampleKo && <p className="mt-1.5 text-ink-mute text-[13px] sm:text-sm leading-relaxed">{w.exampleKo}</p>}
                 </div>
               )}
             </div>

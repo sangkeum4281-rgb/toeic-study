@@ -10,6 +10,8 @@ export interface Word {
   pos: string;
   meaning: string;
   example: string;
+  /** 예문 해석 (내 단어는 없음) */
+  exampleKo: string;
   level: Level;
 }
 
@@ -18,8 +20,8 @@ function parse(raw: string, level: Level): Word[] {
     .split('\n')
     .filter((l) => l.trim())
     .map((line) => {
-      const [word, pos, meaning, example] = line.split('|');
-      return { id: word.toLowerCase(), word, pos, meaning, example, level };
+      const [word, pos, meaning, example, exampleKo = ''] = line.split('|');
+      return { id: word.toLowerCase(), word, pos, meaning, example, exampleKo, level };
     });
 }
 
