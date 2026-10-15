@@ -178,9 +178,22 @@ const weakness = (p?: Progress) => (p ? p.wrong * 2 - p.correct + (p.starred ? 2
  * 학습하기: 복습이 필요한 단어 몇 개 + 아직 안 본 단어를 빈도순으로.
  * 안 본 단어가 없으면 덜 외운 단어 순.
  */
-export function pickStudyWords<T extends { id: string }>(pool: T[], progress: ProgressMap, n: number): T[] {
+/**
+ * 난이도별로 한 줄씩 번갈아 섞음 (각 난이도 안에서는 빈도순 유지).
+ * '전체'로 공부할 때 기본 단어만 한참 나오다가 고급이 나오는 걸 막기 위함
+ */
+function interleaveByLevel<T extends { level?: string }>(list: T[]): T[] {
+  const groups = new Map<string, T[]>();
+  for (const w of list) groups.set(w.level ?? '', [...(groups.get(w.level ?? '') ?? []), w]);
+  const queues = [...groups.values()];
+  const out: T[] = [];
+  for (let i = 0; out.length < list.length; i++) for (const q of queues) if (i < q.length) out.push(q[i]);
+  return out;
+}
+
+export function pickStudyWords<T extends { id: string; level?: string }>(pool: T[], progress: ProgressMap, n: number): T[] {
   const review = shuffle(pool.filter((w) => needsReview(progress.get(w.id)))).slice(0, Math.floor(n / 4));
-  const fresh = pool.filter((w) => !progress.has(w.id));
+  const fresh = interleaveByLevel(pool.filter((w) => !progress.has(w.id)));
   const rest = pool
     .filter((w) => progress.has(w.id) && !review.includes(w) && !isMastered(progress.get(w.id)))
     .sort((a, b) => weakness(progress.get(b.id)) - weakness(progress.get(a.id)));
@@ -188,12 +201,12 @@ export function pickStudyWords<T extends { id: string }>(pool: T[], progress: Pr
 }
 
 /** 퀴즈: 이미 본 단어 중 약한 단어 위주, 부족하면 안 본 단어로 채움 */
-export function pickQuizWords<T extends { id: string }>(pool: T[], progress: ProgressMap, n: number): T[] {
+export function pickQuizWords<T extends { id: string; level?: string }>(pool: T[], progress: ProgressMap, n: number): T[] {
   const seen = shuffle(pool.filter((w) => progress.has(w.id))).sort(
     (a, b) => Number(isMastered(progress.get(a.id))) - Number(isMastered(progress.get(b.id))) ||
       weakness(progress.get(b.id)) - weakness(progress.get(a.id)),
   );
-  const fresh = pool.filter((w) => !progress.has(w.id));
+  const fresh = interleaveByLevel(pool.filter((w) => !progress.has(w.id)));
   const picked = [...seen.slice(0, Math.ceil(n * 0.7)), ...fresh.slice(0, n)];
   return shuffle([...picked, ...seen.slice(Math.ceil(n * 0.7))].slice(0, n));
 }
