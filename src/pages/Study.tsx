@@ -156,7 +156,7 @@ export default function Study() {
           </div>
           <div className="flip-face flip-back absolute inset-0 card shadow-pop-lg bg-lilac-soft border-lilac/40 grid place-items-center p-8">
             <div className="text-center">
-              <div className="text-sm text-ink-mute mb-1 whitespace-nowrap">{w.word} <span className="text-xs">{w.pos}</span></div>
+              <div className="text-sm text-ink-mute mb-1 whitespace-nowrap">{w.word}</div>
               <div className="font-display whitespace-nowrap leading-tight" style={{ fontSize: fitPx(w.meaning, cardWidth - 72, 36, 13) }}>{w.meaning}</div>
               {w.example && (
                 <div className="mt-6 bg-white/70 rounded-2xl px-4 py-3">
