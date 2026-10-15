@@ -32,7 +32,7 @@ export default function Home() {
 
   const message =
     streak >= 7 ? `${streak}일 연속! 진짜 대단해요`
-    : streak > 0 ? `${streak}일째 공부 중! 오늘도 화이팅`
+    : streak > 0 ? `${streak}일째 공부 중! 오늘도 화이팅!!`
     : todayCount > 0 ? '오늘도 왔네요! 한 판 더?'
     : '오늘의 단어 만나러 가볼까요?';
 
@@ -51,7 +51,6 @@ export default function Home() {
           <div className="w-12 h-12 shrink-0 rounded-2xl bg-white grid place-items-center text-brand group-hover:animate-wiggle"><BookOpen /></div>
           <div className="flex-1 min-w-0 sm:mt-3">
             <div className="font-display text-[24px] sm:text-3xl text-brand-dark whitespace-nowrap">학습하기</div>
-            <p className="text-ink-soft text-[13px] sm:text-sm whitespace-nowrap">카드 20장씩 넘기며 외우기</p>
           </div>
           <div className="mt-4 btn-primary w-fit py-2 text-[15px] hidden sm:inline-flex">시작하기 →</div>
           <ChevronRight className="sm:hidden text-brand shrink-0" />
@@ -60,7 +59,6 @@ export default function Home() {
           <div className="w-12 h-12 shrink-0 rounded-2xl bg-white grid place-items-center text-mint group-hover:animate-wiggle"><PenLine /></div>
           <div className="flex-1 min-w-0 sm:mt-3">
             <div className="font-display text-[24px] sm:text-3xl text-[#2a9d78] whitespace-nowrap">퀴즈 풀기</div>
-            <p className="text-ink-soft text-[13px] sm:text-sm whitespace-nowrap">약한 단어 위주로 10문제</p>
           </div>
           <div className="mt-4 btn py-2 text-[15px] bg-mint text-white hover:bg-[#46b893] hidden sm:inline-flex">도전하기 →</div>
           <ChevronRight className="sm:hidden text-mint shrink-0" />

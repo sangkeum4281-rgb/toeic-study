@@ -6,12 +6,12 @@ const LEVELS: LevelFilter[] = ['basic', 'advanced', 'mine', 'all'];
 export default function LevelPicker() {
   const { level, setLevel } = useProgress();
   return (
-    <div className="inline-flex bg-white border-2 border-paper-line rounded-full p-1 gap-1 shadow-pop">
+    <div className="flex w-full sm:inline-flex sm:w-auto bg-white border-2 border-paper-line rounded-full p-1 gap-1 shadow-pop">
       {LEVELS.map((l) => (
         <button
           key={l}
           onClick={() => setLevel(l)}
-          className={`px-3.5 py-1.5 rounded-full font-display text-[15px] whitespace-nowrap transition ${
+          className={`flex-1 sm:flex-none px-3.5 py-1.5 rounded-full font-display text-[15px] whitespace-nowrap transition ${
             level === l ? 'bg-sunny text-ink' : 'text-ink-mute hover:bg-sunny-soft'
           }`}
         >
