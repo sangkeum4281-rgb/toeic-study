@@ -122,6 +122,8 @@ export default function Quiz() {
     setPicked(value);
     const correct = mode === 'spell' ? normalize(value) === normalize(q.word.word) : value === q.answerId;
     setAnswers((a) => [...a, { wordId: q.word.id, correct }]);
+    // 끝까지 안 풀고 나가도 틀린 단어가 오답노트에 남도록 답할 때마다 바로 저장
+    record([{ wordId: q.word.id, correct }]).catch(console.error);
     if (mode !== 'ko2en') speak(q.word.word);
   }
 
@@ -135,7 +137,7 @@ export default function Quiz() {
     setDone(true);
     const score = answers.filter((a) => a.correct).length;
     try {
-      await Promise.all([record(answers), saveQuizResult(source, mode!, score, answers.length)]);
+      await saveQuizResult(source, mode!, score, answers.length);
     } catch (e) {
       console.error(e);
       alert('결과 저장에 실패했어요. 네트워크를 확인해주세요.');
