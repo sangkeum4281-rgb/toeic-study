@@ -1,6 +1,14 @@
 import { useState, type FormEvent } from 'react';
 import { supabase } from '../lib/supabase';
 
+function signUpError(message: string) {
+  if (/already registered|already exists/i.test(message)) return '이미 가입된 이메일이에요. 로그인해주세요.';
+  if (/password/i.test(message)) return '비밀번호가 너무 약해요. 6자 이상으로 해주세요.';
+  if (/invalid.*email|email.*invalid/i.test(message)) return '이메일 주소를 다시 확인해주세요.';
+  if (/rate limit|too many/i.test(message)) return '잠시 후 다시 시도해주세요. (요청이 너무 많아요)';
+  return message;
+}
+
 export default function Login() {
   const [mode, setMode] = useState<'login' | 'signup'>('login');
   const [email, setEmail] = useState('');
@@ -22,7 +30,9 @@ export default function Login() {
         password,
         options: { data: { nickname: nickname.trim() } },
       });
-      if (error) setMsg({ ok: false, text: error.message });
+      if (error) setMsg({ ok: false, text: signUpError(error.message) });
+      // 이메일 확인이 켜져 있으면 Supabase는 이미 가입된 이메일에도 에러 대신 identities가 빈 사용자를 돌려줌
+      else if (data.user && data.user.identities?.length === 0) setMsg({ ok: false, text: '이미 가입된 이메일이에요. 로그인해주세요.' });
       else if (!data.session) setMsg({ ok: true, text: '확인 메일을 보냈어요! 메일 속 링크를 누르고 로그인해주세요' });
     }
     setBusy(false);
