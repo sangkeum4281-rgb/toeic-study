@@ -177,9 +177,6 @@ export default function Study() {
 
       <div className="flex items-center justify-center gap-3 mt-4">
         <button className="btn-ghost px-4 py-2.5 rounded-full text-[15px]" onClick={() => speak(w.word)} title="단어 발음 듣기"><Volume2 size={18} /> 단어</button>
-        {w.example && (
-          <button className="btn-ghost px-4 py-2.5 rounded-full text-[15px]" onClick={() => speak(w.example)} title="예문 듣기"><Volume2 size={18} /> 예문</button>
-        )}
         <button className="btn-ghost p-3 rounded-full" onClick={() => toggleStar(w.id).catch(console.error)} title="오답노트에 담기">
           <Star className={starred ? 'fill-amber-400 text-amber-400' : ''} />
         </button>
