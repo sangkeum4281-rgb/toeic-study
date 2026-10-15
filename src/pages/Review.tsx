@@ -14,7 +14,6 @@ export default function Review() {
       <div className="flex items-end justify-between mb-5 gap-4">
         <div>
           <h1 className="font-display text-3xl whitespace-nowrap">오답노트</h1>
-          <p className="text-[13px] sm:text-sm text-ink-mute mt-1 whitespace-nowrap">두 번 맞히면 여기서 졸업해요</p>
         </div>
         {words.length > 0 && <Link to="/quiz?from=review" className="btn-primary shrink-0">오답 퀴즈</Link>}
       </div>
