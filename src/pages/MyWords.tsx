@@ -52,7 +52,7 @@ export default function MyWords() {
       setMsg({ ok: true, text: await fn() });
     } catch (e) {
       console.error(e);
-      setMsg({ ok: false, text: '저장하지 못했어요. 잠시 후 다시 시도해주세요.' });
+      setMsg({ ok: false, text: '저장하지 못했어요. 다시 시도해주세요' });
     }
     setBusy(false);
   }
@@ -65,27 +65,26 @@ export default function MyWords() {
         await editCustom(editing, item);
         setEditing(null);
         setForm(empty);
-        return `'${item.word}' 수정했어요.`;
+        return `'${item.word}' 수정했어요`;
       });
       return;
     }
     const { fresh, builtin, dup } = split([item]);
     if (builtin.length) {
       const b = builtin[0];
-      const where = `'${b.word}'(${b.meaning})는 이미 ${b.level === 'basic' ? '기본' : '고급'} 단어에 있어요.`;
       if (progress.get(b.id)?.starred) {
-        setMsg({ ok: true, text: `${where} 오답노트에도 담겨 있어요.` });
+        setMsg({ ok: true, text: '이미 있는 단어고, 오답노트에도 있어요' });
         return;
       }
       run(async () => {
         await toggleStar(b.id);
         setForm(empty);
-        return `${where} 대신 오답노트에 담아뒀어요.`;
+        return '이미 있는 단어라 오답노트에 담았어요';
       });
       return;
     }
     if (dup.length) {
-      setMsg({ ok: false, text: `'${item.word}'는 이미 내 단어에 있어요.` });
+      setMsg({ ok: false, text: '이미 내 단어에 있어요' });
       return;
     }
     run(async () => {
@@ -98,7 +97,7 @@ export default function MyWords() {
   function submitBulk() {
     const items = parseBulk(bulk);
     if (items.length === 0) {
-      setMsg({ ok: false, text: '한 줄에 하나씩 "단어 - 뜻" 형태로 적어주세요.' });
+      setMsg({ ok: false, text: '"단어 - 뜻" 형태로 적어주세요' });
       return;
     }
     const { fresh, builtin, dup } = split(items);
@@ -107,10 +106,10 @@ export default function MyWords() {
       await Promise.all(builtin.filter((b) => !progress.get(b.id)?.starred).map((b) => toggleStar(b.id)));
       setBulk('');
       setBulkOpen(false);
-      const parts = [`${added.length}개 추가했어요.`];
-      if (builtin.length) parts.push(`이미 단어장에 있는 ${builtin.length}개는 오답노트에 담았어요.`);
-      if (dup.length) parts.push(`중복 ${dup.length}개는 건너뛰었어요.`);
-      return parts.join(' ');
+      const parts = [`${added.length}개 추가`];
+      if (builtin.length) parts.push(`${builtin.length}개는 오답노트로`);
+      if (dup.length) parts.push(`중복 ${dup.length}개 제외`);
+      return parts.join(' · ');
     });
   }
 
@@ -126,7 +125,7 @@ export default function MyWords() {
     run(async () => {
       await removeCustom(w.id);
       if (editing === w.id) { setEditing(null); setForm(empty); }
-      return `'${w.word}' 지웠어요.`;
+      return `'${w.word}' 지웠어요`;
     });
   }
 
@@ -136,16 +135,16 @@ export default function MyWords() {
     <div className="max-w-2xl mx-auto">
       <div className="flex items-end justify-between mb-5 gap-4">
         <div>
-          <h1 className="font-display text-3xl">내 단어</h1>
-          <p className="text-sm text-ink-mute mt-1">직접 추가한 단어는 나만 보여요. 난이도에서 '내 단어'를 고르면 이것만 공부할 수 있어요.</p>
+          <h1 className="font-display text-3xl whitespace-nowrap">내 단어</h1>
+          <p className="text-sm text-ink-mute mt-1 whitespace-nowrap">추가한 단어는 나만 볼 수 있어요</p>
         </div>
       </div>
 
       <form onSubmit={submit} className="card p-5 space-y-3">
         <div className="flex items-center justify-between">
-          <h2 className="font-display text-xl">{editing ? '단어 수정' : '단어 추가'}</h2>
+          <h2 className="font-display text-xl whitespace-nowrap">{editing ? '단어 수정' : '단어 추가'}</h2>
           {!editing && (
-            <button type="button" className="text-sm text-brand font-semibold" onClick={() => { setBulkOpen((o) => !o); setMsg(null); }}>
+            <button type="button" className="text-sm text-brand font-semibold whitespace-nowrap" onClick={() => { setBulkOpen((o) => !o); setMsg(null); }}>
               {bulkOpen ? '하나씩 추가' : '여러 개 한 번에'}
             </button>
           )}
@@ -159,7 +158,7 @@ export default function MyWords() {
               value={bulk}
               onChange={(e) => setBulk(e.target.value)}
             />
-            <p className="text-xs text-ink-mute">구분은 하이픈(-), 콜론(:), 세로줄(|), 탭 중 아무거나 쓰면 돼요. 엑셀에서 두 칸 복사해 붙여넣어도 돼요.</p>
+            <p className="text-xs text-ink-mute whitespace-nowrap">구분은 - : | 탭 아무거나 (엑셀 복사도 OK)</p>
             {bulk.trim() && <p className="text-xs text-ink-soft">{parseBulk(bulk).length}개 인식됨</p>}
             <button type="button" className="btn-primary w-full" disabled={busy} onClick={submitBulk}>한 번에 추가</button>
           </>
@@ -172,7 +171,7 @@ export default function MyWords() {
               </select>
             </div>
             <input className="input" placeholder="뜻" value={form.meaning} onChange={set('meaning')} required maxLength={200} />
-            <input className="input" placeholder="예문 (선택) — 있으면 철자 퀴즈에서 빈칸 문제로 나와요" value={form.example} onChange={set('example')} maxLength={300} />
+            <input className="input" placeholder="예문 (선택)" value={form.example} onChange={set('example')} maxLength={300} />
             <div className="flex gap-2">
               {editing && (
                 <button type="button" className="btn-ghost flex-1" onClick={() => { setEditing(null); setForm(empty); setMsg(null); }}>취소</button>
@@ -181,11 +180,11 @@ export default function MyWords() {
             </div>
           </>
         )}
-        {msg && <p className={`text-sm ${msg.ok ? 'text-good' : 'text-bad'}`}>{msg.text}</p>}
+        {msg && <p className={`text-[13px] whitespace-nowrap truncate ${msg.ok ? 'text-good' : 'text-bad'}`}>{msg.text}</p>}
       </form>
 
       <div className="flex items-baseline justify-between mt-8 mb-3">
-        <h2 className="font-display text-xl">추가한 단어</h2>
+        <h2 className="font-display text-xl whitespace-nowrap">추가한 단어</h2>
         {customWords.length > 0 && (
           <span className="text-sm text-ink-mute">{customWords.length}개</span>
         )}
@@ -194,18 +193,18 @@ export default function MyWords() {
       {!loaded ? (
         <p className="text-ink-mute">불러오는 중…</p>
       ) : customWords.length === 0 ? (
-        <div className="card p-8 text-center text-ink-soft">아직 없어요. 시험에서 모르던 단어를 하나씩 모아보세요.</div>
+        <div className="card p-8 text-center text-ink-soft text-sm whitespace-nowrap">모르는 단어를 하나씩 모아보세요</div>
       ) : (
         <>
           <div className="card divide-y-2 divide-paper-line overflow-hidden">
             {[...customWords].reverse().map((w) => (
-              <div key={w.id} className={`px-4 py-3 flex items-start gap-3 ${editing === w.id ? 'bg-sunny-soft' : ''}`}>
-                <button onClick={() => speak(w.word)} className="text-ink-mute hover:text-brand mt-1"><Volume2 size={16} /></button>
+              <div key={w.id} className={`px-4 py-3 flex items-center gap-3 ${editing === w.id ? 'bg-sunny-soft' : ''}`}>
+                <button onClick={() => speak(w.word)} className="text-ink-mute hover:text-brand"><Volume2 size={16} /></button>
                 <div className="flex-1 min-w-0">
-                  <div>
-                    <span className="font-display text-lg">{w.word}</span>{' '}
-                    {w.pos && <span className="text-xs text-ink-mute">{w.pos}</span>}{' '}
-                    <span className="text-ink-soft">{w.meaning}</span>
+                  <div className="flex items-baseline gap-1.5 whitespace-nowrap min-w-0">
+                    <span className="font-display text-lg shrink-0">{w.word}</span>
+                    {w.pos && <span className="text-xs text-ink-mute shrink-0">{w.pos}</span>}
+                    <span className="text-ink-soft text-sm truncate">{w.meaning}</span>
                   </div>
                   {w.example && <div className="text-xs text-ink-mute mt-0.5 truncate">{w.example}</div>}
                 </div>
@@ -215,8 +214,8 @@ export default function MyWords() {
             ))}
           </div>
           <div className="grid grid-cols-2 gap-3 mt-4">
-            <Link to="/study" className="btn-ghost" onClick={() => setLevel('mine')}>내 단어 학습하기</Link>
-            <Link to="/quiz" className="btn-primary" onClick={() => setLevel('mine')}>내 단어 퀴즈</Link>
+            <Link to="/study" className="btn-ghost whitespace-nowrap" onClick={() => setLevel('mine')}>학습하기</Link>
+            <Link to="/quiz" className="btn-primary whitespace-nowrap" onClick={() => setLevel('mine')}>퀴즈 풀기</Link>
           </div>
         </>
       )}

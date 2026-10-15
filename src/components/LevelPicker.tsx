@@ -11,7 +11,7 @@ export default function LevelPicker() {
         <button
           key={l}
           onClick={() => setLevel(l)}
-          className={`px-3.5 py-1.5 rounded-full font-display text-[15px] transition ${
+          className={`px-3.5 py-1.5 rounded-full font-display text-[15px] whitespace-nowrap transition ${
             level === l ? 'bg-sunny text-ink' : 'text-ink-mute hover:bg-sunny-soft'
           }`}
         >

@@ -4,6 +4,7 @@ import { ArrowLeft, Check, ChevronLeft, ChevronRight, RotateCcw, Star, Volume2, 
 import { LEVEL_LABEL, type Word } from '../data/words';
 import { useProgress } from '../contexts/ProgressContext';
 import { pickStudyWords, speak } from '../lib/db';
+import { fitPx, useContentWidth } from '../lib/fit';
 
 const SESSION = 20;
 
@@ -13,6 +14,7 @@ export default function Study() {
   const [i, setI] = useState(0);
   // 이미 넘긴 카드를 다시 보는 중이면 그 카드 번호 (보기만 하고 표시는 다시 안 함)
   const [view, setView] = useState<number | null>(null);
+  const cardWidth = useContentWidth(576, 0);
   const [flipped, setFlipped] = useState(false);
   const [marks, setMarks] = useState<boolean[]>([]);
 
@@ -71,7 +73,7 @@ export default function Study() {
   const header = (
     <div className="flex items-center gap-2 mb-6">
       <Link to="/" className="p-2 -ml-2 rounded-full hover:bg-brand-soft"><ArrowLeft size={20} /></Link>
-      <h1 className="font-display text-2xl flex-1">학습하기 <span className="chip bg-sunny-soft text-ink-soft align-middle">{LEVEL_LABEL[level]}</span></h1>
+      <h1 className="font-display text-2xl flex-1 whitespace-nowrap">학습하기 <span className="chip bg-sunny-soft text-ink-soft align-middle">{LEVEL_LABEL[level]}</span></h1>
     </div>
   );
 
@@ -79,9 +81,9 @@ export default function Study() {
     return (
       <div className="max-w-xl mx-auto">
         {header}
-        <div className="card p-10 text-center">
-          <p className="font-display text-xl">
-            {!loaded ? '카드 준비 중…' : wordsOf(level).length === 0 ? '아직 추가한 단어가 없어요' : '여기 있는 단어는 다 외웠어요! 진짜 대단해요'}
+        <div className="card p-6 sm:p-10 text-center">
+          <p className="font-display text-xl whitespace-nowrap">
+            {!loaded ? '카드 준비 중…' : wordsOf(level).length === 0 ? '아직 추가한 단어가 없어요' : '여기 단어는 다 외웠어요!'}
           </p>
           {loaded && wordsOf(level).length === 0 && <Link to="/words" className="btn-primary mt-4">내 단어 추가하러 가기</Link>}
         </div>
@@ -95,28 +97,28 @@ export default function Study() {
       <div className="max-w-xl mx-auto">
         {header}
         <div className="card p-8 text-center animate-pop">
-          <p className="font-display text-2xl mt-2">20장 다 넘겼어요! 수고했어요</p>
-          <p className="mt-1 text-ink-soft">
+          <p className="font-display text-2xl mt-2 whitespace-nowrap">20장 완료! 수고했어요</p>
+          <p className="mt-1 text-ink-soft whitespace-nowrap">
             알아요 <b className="text-good">{known}</b> · 다시 보기 <b className="text-bad">{words.length - known}</b>
           </p>
         </div>
         {unknown.length > 0 && (
           <div className="mt-6">
-            <h2 className="font-display text-xl mb-2">다시 볼 단어</h2>
+            <h2 className="font-display text-xl mb-2 whitespace-nowrap">다시 볼 단어</h2>
             <div className="card divide-y-2 divide-paper-line overflow-hidden">
               {unknown.map((u) => (
                 <div key={u.id} className="px-4 py-3 flex items-center gap-3">
                   <button onClick={() => speak(u.word)} className="text-ink-mute hover:text-brand"><Volume2 size={16} /></button>
-                  <span className="font-semibold">{u.word}</span>
-                  <span className="text-ink-soft text-sm flex-1">{u.meaning}</span>
+                  <span className="font-semibold whitespace-nowrap">{u.word}</span>
+                  <span className="text-ink-soft text-sm flex-1 min-w-0 truncate">{u.meaning}</span>
                 </div>
               ))}
             </div>
           </div>
         )}
         <div className="flex gap-3 mt-6">
-          <button className="btn-ghost flex-1" onClick={newSession}><RotateCcw size={16} /> 다음 20개</button>
-          <Link to="/quiz" className="btn-primary flex-1">퀴즈로 확인</Link>
+          <button className="btn-ghost flex-1 whitespace-nowrap" onClick={newSession}><RotateCcw size={16} /> 다음 20개</button>
+          <Link to="/quiz" className="btn-primary flex-1 whitespace-nowrap">퀴즈로 확인</Link>
         </div>
       </div>
     );
@@ -146,17 +148,20 @@ export default function Study() {
                 {w.level === 'mine' && <span className="chip bg-lilac-soft text-lilac">내 단어</span>}
                 {isNew && <span className="chip bg-brand-soft text-brand-dark">NEW</span>}
               </div>
-              <div className="font-display text-5xl break-words">{w.word}</div>
-              <div className="text-xs text-ink-mute mt-8">탭하거나 스페이스바로 뒤집기</div>
+              <div className="font-display whitespace-nowrap leading-tight" style={{ fontSize: fitPx(w.word, cardWidth - 56, 48, 20) }}>{w.word}</div>
+              <div className="text-xs text-ink-mute mt-8 whitespace-nowrap">
+                <span className="sm:hidden">탭해서 뒤집기</span>
+                <span className="hidden sm:inline">클릭하거나 스페이스바로 뒤집기</span>
+              </div>
             </div>
           </div>
           <div className="flip-face flip-back absolute inset-0 card shadow-pop-lg bg-lilac-soft border-lilac/40 grid place-items-center p-8">
             <div className="text-center">
-              <div className="text-sm text-ink-mute mb-1">{w.word} <span className="text-xs">{w.pos}</span></div>
-              <div className="font-display text-4xl">{w.meaning}</div>
+              <div className="text-sm text-ink-mute mb-1 whitespace-nowrap">{w.word} <span className="text-xs">{w.pos}</span></div>
+              <div className="font-display whitespace-nowrap leading-tight" style={{ fontSize: fitPx(w.meaning, cardWidth - 72, 36, 13) }}>{w.meaning}</div>
               {w.example && (
                 <div className="mt-6 bg-white/70 rounded-2xl px-4 py-3">
-                  <p className="text-ink-soft italic leading-relaxed">“{w.example}”</p>
+                  <p className="text-ink-soft italic leading-relaxed text-[14px] sm:text-base">“{w.example}”</p>
                   <button
                     onClick={(e) => { e.stopPropagation(); speak(w.example); }}
                     className="mt-2 inline-flex items-center gap-1.5 text-xs font-semibold text-lilac hover:text-brand"
@@ -183,11 +188,11 @@ export default function Study() {
       {reviewing ? (
         <div className="flex items-center gap-3 mt-4">
           <button className="btn-ghost py-4 px-4" onClick={goBack} disabled={cur === 0} title="이전 카드"><ChevronLeft size={20} /></button>
-          <div className={`flex-1 text-center text-sm font-semibold ${marks[cur] ? 'text-good' : 'text-bad'}`}>
-            이미 넘긴 카드예요 · {marks[cur] ? '알아요' : '몰라요'}로 표시함
+          <div className={`flex-1 min-w-0 text-center text-[13px] font-semibold whitespace-nowrap ${marks[cur] ? 'text-good' : 'text-bad'}`}>
+            {marks[cur] ? '알아요' : '몰라요'}로 표시함
           </div>
-          <button className="btn-primary py-4 px-5" onClick={goForward}>
-            {cur + 1 >= i ? '이어서 하기' : '다음'} <ChevronRight size={18} />
+          <button className="btn-primary py-4 px-4 whitespace-nowrap" onClick={goForward}>
+            {cur + 1 >= i ? '이어서' : '다음'} <ChevronRight size={18} />
           </button>
         </div>
       ) : (
