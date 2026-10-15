@@ -162,12 +162,6 @@ export default function Study() {
               {w.example && (
                 <div className="mt-6 bg-white/70 rounded-2xl px-4 py-3">
                   <p className="text-ink-soft italic leading-relaxed text-[14px] sm:text-base">“{w.example}”</p>
-                  <button
-                    onClick={(e) => { e.stopPropagation(); speak(w.example); }}
-                    className="mt-2 inline-flex items-center gap-1.5 text-xs font-semibold text-lilac hover:text-brand"
-                  >
-                    <Volume2 size={14} /> 예문 듣기
-                  </button>
                 </div>
               )}
             </div>
