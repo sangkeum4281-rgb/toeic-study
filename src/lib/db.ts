@@ -27,7 +27,8 @@ export interface RankRow {
 export type ProgressMap = Map<string, Progress>;
 
 export const isMastered = (p?: Progress) => !!p && p.correct >= 2 && p.correct >= p.wrong * 2;
-export const needsReview = (p?: Progress) => !!p && (p.starred || (p.wrong > 0 && !isMastered(p)));
+// starred: 내 단어 추가 때 이미 있는 단어를 오답노트로 보낸 경우. 두 번 맞히면 다른 단어처럼 졸업
+export const needsReview = (p?: Progress) => !!p && (p.starred || p.wrong > 0) && !isMastered(p);
 
 async function uid() {
   const { data } = await supabase.auth.getUser();

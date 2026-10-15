@@ -1,10 +1,10 @@
 import { Link } from 'react-router-dom';
-import { Star, Volume2 } from 'lucide-react';
+import { Volume2 } from 'lucide-react';
 import { useProgress } from '../contexts/ProgressContext';
 import { needsReview, speak } from '../lib/db';
 
 export default function Review() {
-  const { progress, loaded, toggleStar, words: allWords } = useProgress();
+  const { progress, loaded, words: allWords } = useProgress();
   const words = allWords
     .filter((w) => needsReview(progress.get(w.id)))
     .sort((a, b) => (progress.get(b.id)!.wrong - progress.get(a.id)!.wrong));
@@ -38,9 +38,6 @@ export default function Review() {
                   <div className="text-xs text-ink-mute mt-0.5 truncate">{w.level === 'advanced' && <span className="chip bg-sunny-soft text-[#c98a00] mr-1 py-0">고급</span>}{w.level === 'mine' && <span className="chip bg-lilac-soft text-lilac mr-1 py-0">내 단어</span>}{w.example}</div>
                 </div>
                 {p.wrong > 0 && <span className="chip bg-[#ffe3e3] text-bad shrink-0 mt-0.5">틀림 {p.wrong}</span>}
-                <button onClick={() => toggleStar(w.id)} title="별표 토글">
-                  <Star size={18} className={p.starred ? 'fill-amber-400 text-amber-400' : 'text-ink-mute'} />
-                </button>
               </div>
             );
           })}

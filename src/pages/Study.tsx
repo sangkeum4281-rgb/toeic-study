@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowLeft, Check, ChevronLeft, ChevronRight, RotateCcw, Star, Volume2, X } from 'lucide-react';
+import { ArrowLeft, Check, ChevronLeft, ChevronRight, RotateCcw, Volume2, X } from 'lucide-react';
 import { LEVEL_LABEL, type Word } from '../data/words';
 import { useProgress } from '../contexts/ProgressContext';
 import { pickStudyWords, speak } from '../lib/db';
@@ -9,7 +9,7 @@ import { fitPx, useContentWidth } from '../lib/fit';
 const SESSION = 20;
 
 export default function Study() {
-  const { progress, loaded, level, record, toggleStar, wordsOf } = useProgress();
+  const { progress, loaded, level, record, wordsOf } = useProgress();
   const [words, setWords] = useState<Word[]>([]);
   const [i, setI] = useState(0);
   // 이미 넘긴 카드를 다시 보는 중이면 그 카드 번호 (보기만 하고 표시는 다시 안 함)
@@ -124,7 +124,6 @@ export default function Study() {
     );
   }
 
-  const starred = !!progress.get(w.id)?.starred;
   const isNew = !progress.has(w.id);
 
   return (
@@ -171,9 +170,6 @@ export default function Study() {
 
       <div className="flex items-center justify-center gap-3 mt-4">
         <button className="btn-ghost px-4 py-2.5 rounded-full text-[15px]" onClick={() => speak(w.word)} title="단어 발음 듣기"><Volume2 size={18} /> 단어</button>
-        <button className="btn-ghost p-3 rounded-full" onClick={() => toggleStar(w.id).catch(console.error)} title="오답노트에 담기">
-          <Star className={starred ? 'fill-amber-400 text-amber-400' : ''} />
-        </button>
       </div>
 
       {reviewing ? (
@@ -187,8 +183,7 @@ export default function Study() {
           </button>
         </div>
       ) : (
-      <div className="grid grid-cols-[auto_1fr_1fr] gap-3 mt-4">
-        <button className="btn-ghost py-4 px-4" onClick={goBack} disabled={cur === 0} title="이전 카드 다시 보기 (Backspace)"><ChevronLeft size={20} /></button>
+      <div className="grid grid-cols-2 gap-3 mt-4">
         <button className="btn py-4 bg-[#ffe3e3] text-bad hover:bg-[#ffd3d3]" onClick={() => mark(false)}>
           <X size={18} /> 몰라요 <span className="text-xs opacity-60 hidden sm:inline">←</span>
         </button>

@@ -40,24 +40,31 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
   const [level, setLevelState] = useState<LevelFilter>(readLevel);
   // 연속으로 빠르게 기록해도 이전 변경을 덮어쓰지 않도록 최신값을 ref로 유지
   const latest = useRef(progress);
+  // 불러오기에 실패한 상태에서 저장하면 서버의 기존 기록을 0부터 다시 덮어쓰게 되므로 막음
+  const canSave = useRef(false);
 
   useEffect(() => {
-    Promise.all([fetchProgress(), fetchCustomWords()])
-      .then(([p, custom]) => {
-        const customIds = new Set(custom.map((w) => w.id));
-        // 단어 목록에서 빠진 예전 id나 지워진 내 단어 기록은 무시
-        const valid = [...p].filter(([id]) => (isCustomId(id) ? customIds.has(id) : builtinById.has(id)));
-        latest.current = new Map([...valid, ...latest.current]);
-        setProgress(latest.current);
-        setCustomWords(custom);
-      })
-      .catch((e) => console.error(e))
-      .finally(() => setLoaded(true));
+    // 학습 기록과 내 단어는 따로 불러옴: 한쪽이 실패해도(예: 내 단어 테이블이 아직 없음) 다른 쪽은 살아 있게
+    Promise.allSettled([fetchProgress(), fetchCustomWords()]).then(([p, c]) => {
+      if (p.status === 'rejected') console.error('학습 기록 불러오기 실패', p.reason);
+      canSave.current = p.status === 'fulfilled';
+      if (c.status === 'rejected') console.error('내 단어 불러오기 실패', c.reason);
+      const custom = c.status === 'fulfilled' ? c.value : [];
+      const customIds = new Set(custom.map((w) => w.id));
+      const rows = p.status === 'fulfilled' ? [...p.value] : [];
+      // 단어 목록에서 빠진 예전 id나 지워진 내 단어 기록은 무시
+      const valid = rows.filter(([id]) => (isCustomId(id) ? customIds.has(id) : builtinById.has(id)));
+      latest.current = new Map([...valid, ...latest.current]);
+      setProgress(latest.current);
+      setCustomWords(custom);
+      setLoaded(true);
+    });
   }, []);
 
   const commit = useCallback(async (next: ProgressMap, ids: string[]) => {
     latest.current = next;
     setProgress(next);
+    if (!canSave.current) return;
     await saveProgress([...new Set(ids)].map((id) => next.get(id)!));
   }, []);
 
