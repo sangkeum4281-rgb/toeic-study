@@ -202,17 +202,17 @@ export default function Quiz() {
         <p className="font-display text-xl mb-4 whitespace-nowrap">어떤 유형으로 풀까요?</p>
         <div className="space-y-3">
           {([
-            ['en2ko', 'A → 가', '영어 보고 뜻 고르기', '제일 무난해요', 'bg-brand-soft'],
-            ['ko2en', '가 → A', '뜻 보고 영어 고르기', '조금 더 헷갈려요', 'bg-lilac-soft'],
-            ['spell', 'Abc', '철자 쓰기', '빈칸에 직접 입력해요', 'bg-sunny-soft'],
-            ['part5', 'P5', '토익 파트 5', part5Pool.length > 0 ? '실전처럼 빈칸 채우기' : '학습하기를 먼저 해주세요', 'bg-mint-soft'],
+            ['en2ko', 'A → 가', '영어 보고 뜻 고르기', '', 'bg-brand-soft'],
+            ['ko2en', '가 → A', '뜻 보고 영어 고르기', '', 'bg-lilac-soft'],
+            ['spell', 'Abc', '철자 쓰기', '', 'bg-sunny-soft'],
+            ['part5', 'P5', '토익 파트 5', part5Pool.length > 0 ? '' : '학습하기를 먼저 해주세요', 'bg-mint-soft'],
           ] as const).map(([m, icon, label, desc, tint]) => (
             <button key={m} onClick={() => start(m)} disabled={m === 'part5' && part5Pool.length === 0}
               className="card w-full p-4 text-left flex items-center gap-4 hover:-translate-y-0.5 hover:border-brand transition disabled:opacity-50 disabled:hover:translate-y-0 disabled:hover:border-paper-line">
               <span className={`w-14 h-14 rounded-2xl grid place-items-center font-display text-[15px] shrink-0 ${tint}`}>{icon}</span>
               <span>
                 <span className="block font-display text-xl whitespace-nowrap">{label}</span>
-                <span className="block text-[13px] sm:text-sm text-ink-mute whitespace-nowrap">{desc}</span>
+                {desc && <span className="block text-[13px] sm:text-sm text-ink-mute whitespace-nowrap">{desc}</span>}
               </span>
             </button>
           ))}
