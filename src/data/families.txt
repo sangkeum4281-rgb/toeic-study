@@ -1,0 +1,336 @@
+v:decide n:decision adj:decisive adv:decisively
+v:apply n:application n:applicant adj:applicable
+v:accommodate n:accommodation adj:accommodating
+v:accomplish n:accomplishment adj:accomplished
+v:accumulate n:accumulation adj:accumulative
+v:achieve n:achievement adj:achievable
+v:acquire n:acquisition adj:acquisitive
+v:adapt n:adaptation adj:adaptable
+v:add n:addition adj:additional adv:additionally
+v:adjust n:adjustment adj:adjustable
+v:administer n:administration n:administrator adj:administrative adv:administratively
+v:admire n:admiration adj:admirable adv:admirably
+v:advertise n:advertisement n:advertiser
+v:advise n:advice n:advisor adj:advisory adj:advisable
+v:afford n:affordability adj:affordable adv:affordably
+v:allocate n:allocation
+v:analyze n:analysis n:analyst adj:analytical adv:analytically
+v:announce n:announcement n:announcer
+v:anticipate n:anticipation adj:anticipated
+v:appreciate n:appreciation adj:appreciative adv:appreciatively
+v:approve n:approval
+v:argue n:argument adj:arguable adv:arguably
+v:assess n:assessment
+v:assist n:assistance n:assistant
+v:assure n:assurance
+v:attend n:attendance n:attendee n:attendant
+v:attract n:attraction adj:attractive adv:attractively
+v:authorize n:authorization n:authority adj:authoritative
+v:automate n:automation adj:automatic adv:automatically
+v:avail n:availability adj:available
+v:benefit adj:beneficial adv:beneficially n:beneficiary
+v:calculate n:calculation n:calculator
+v:cancel n:cancellation
+v:certify n:certification n:certificate
+v:clarify n:clarification n:clarity adj:clear adv:clearly
+v:classify n:classification
+v:collaborate n:collaboration adj:collaborative adv:collaboratively
+v:collect n:collection n:collector adj:collective adv:collectively
+v:commit n:commitment n:committee
+v:communicate n:communication adj:communicative
+v:compare n:comparison adj:comparable adj:comparative adv:comparatively
+v:compensate n:compensation
+v:compete n:competition n:competitor adj:competitive adv:competitively
+v:complete n:completion adv:completely
+v:comply n:compliance adj:compliant
+v:concentrate n:concentration
+v:conclude n:conclusion adj:conclusive adv:conclusively
+v:confide n:confidence adj:confident adj:confidential adv:confidently
+v:confirm n:confirmation
+v:consider n:consideration adj:considerable adv:considerably adj:considerate
+v:consist adj:consistent adv:consistently n:consistency
+v:construct n:construction adj:constructive adv:constructively
+v:consult n:consultation n:consultant
+v:consume n:consumption n:consumer
+v:continue n:continuation adj:continuous adv:continuously adj:continual adv:continually
+v:contribute n:contribution n:contributor
+v:convene n:convention adj:conventional
+v:convince adj:convincing adv:convincingly
+v:cooperate n:cooperation adj:cooperative adv:cooperatively
+v:coordinate n:coordination n:coordinator
+v:correct n:correction adv:correctly
+v:create n:creation n:creativity adj:creative adv:creatively
+v:customize n:customization n:customer
+v:decorate n:decoration adj:decorative
+v:dedicate n:dedication adj:dedicated
+v:defend n:defense adj:defensive
+v:define n:definition adj:definite adv:definitely
+v:delegate n:delegation
+v:deliberate n:deliberation adv:deliberately
+v:deliver n:delivery
+v:demonstrate n:demonstration
+v:depend n:dependence adj:dependent adj:dependable
+v:describe n:description adj:descriptive
+v:designate n:designation
+v:determine n:determination
+v:develop n:development n:developer
+v:differ n:difference adj:different adv:differently
+v:differentiate n:differentiation
+v:disappoint n:disappointment adj:disappointing
+v:distinguish adj:distinguished adj:distinct adv:distinctly adj:distinctive
+v:distribute n:distribution n:distributor
+v:diversify n:diversification n:diversity adj:diverse
+v:donate n:donation n:donor
+v:economize n:economy adj:economical adv:economically adj:economic
+v:educate n:education adj:educational
+v:elect n:election
+v:eliminate n:elimination
+v:emphasize n:emphasis
+v:employ n:employment n:employee n:employer
+v:enclose n:enclosure
+v:encourage n:encouragement adj:encouraging
+v:endorse n:endorsement
+v:enforce n:enforcement
+v:engage n:engagement
+v:enhance n:enhancement
+v:enroll n:enrollment
+v:enthuse n:enthusiasm adj:enthusiastic adv:enthusiastically
+v:equip n:equipment
+v:establish n:establishment
+v:estimate n:estimation
+v:evaluate n:evaluation
+v:examine n:examination
+v:exceed adj:excessive adv:excessively n:excess
+v:excel n:excellence adj:excellent
+v:exclude n:exclusion adj:exclusive adv:exclusively
+v:execute n:execution n:executive
+v:expand n:expansion adj:expansive
+v:expect n:expectation
+v:experiment n:experimentation adj:experimental
+v:expire n:expiration
+v:explain n:explanation adj:explanatory
+v:explore n:exploration n:explorer
+v:extend n:extension adj:extensive adv:extensively
+v:facilitate n:facility n:facilitator
+v:familiarize n:familiarity adj:familiar
+v:finalize adj:final adv:finally
+v:finance adj:financial adv:financially
+v:flex n:flexibility adj:flexible adv:flexibly
+v:fluctuate n:fluctuation
+v:form n:formation
+v:formalize adj:formal adv:formally
+v:found n:foundation n:founder
+v:frequent n:frequency adv:frequently
+v:fund n:funding
+v:generalize n:generalization adj:general adv:generally
+v:generate n:generation n:generator
+v:grow n:growth
+v:hesitate n:hesitation adj:hesitant
+v:identify n:identification n:identity
+v:imagine n:imagination adj:imaginative
+v:implement n:implementation
+v:impress n:impression adj:impressive adv:impressively
+v:improve n:improvement
+v:include n:inclusion adj:inclusive
+n:inconvenience adj:inconvenient
+v:increase adv:increasingly
+v:indicate n:indication n:indicator adj:indicative
+v:inform n:information adj:informative
+v:innovate n:innovation adj:innovative
+v:inquire n:inquiry
+v:inspect n:inspection n:inspector
+v:inspire n:inspiration adj:inspirational
+v:install n:installation
+v:instruct n:instruction n:instructor adj:instructive
+v:insure n:insurance n:insurer
+v:intend n:intention adj:intentional adv:intentionally
+v:interact n:interaction adj:interactive
+v:interpret n:interpretation n:interpreter
+v:interrupt n:interruption
+v:introduce n:introduction adj:introductory
+v:invent n:invention n:inventor adj:inventive
+v:invest n:investment n:investor
+v:investigate n:investigation n:investigator
+v:involve n:involvement
+v:justify n:justification
+v:locate n:location
+v:maintain n:maintenance
+v:manage n:management n:manager adj:managerial
+v:manufacture n:manufacturer
+v:maximize n:maximum
+v:merge n:merger
+v:minimize n:minimum adj:minimal
+v:modify n:modification
+v:motivate n:motivation adj:motivated
+v:negotiate n:negotiation n:negotiator adj:negotiable
+v:nominate n:nomination n:nominee
+v:notify n:notification
+v:observe n:observation n:observer
+v:obtain adj:obtainable
+v:occupy n:occupancy n:occupant n:occupation
+v:operate n:operation adj:operational n:operator
+v:optimize adj:optimal n:optimization
+v:organize n:organization n:organizer adj:organizational
+v:originate n:origin adj:original adv:originally
+v:participate n:participation n:participant
+v:perform n:performance n:performer
+v:permit n:permission adj:permissible
+v:persist n:persistence adj:persistent adv:persistently
+v:persuade n:persuasion adj:persuasive adv:persuasively
+v:possess n:possession
+v:predict n:prediction adj:predictable adv:predictably
+v:prefer n:preference adj:preferable adv:preferably
+v:prepare n:preparation
+v:prescribe n:prescription
+v:present n:presentation n:presenter
+v:preserve n:preservation
+v:prevent n:prevention adj:preventive
+v:produce n:production n:productivity adj:productive adv:productively n:producer
+v:profit n:profitability adj:profitable adv:profitably
+v:progress n:progression adj:progressive adv:progressively
+v:prohibit n:prohibition adj:prohibitive
+v:promote n:promotion adj:promotional
+v:pronounce n:pronunciation
+v:propose n:proposal
+v:prosper n:prosperity adj:prosperous
+v:protect n:protection adj:protective
+v:prove n:proof
+v:provide n:provision n:provider
+v:publicize n:publicity adj:public adv:publicly
+v:publish n:publication n:publisher
+v:purchase n:purchaser
+v:qualify n:qualification adj:qualified
+v:realize n:realization
+v:recognize n:recognition adj:recognizable
+v:recommend n:recommendation
+v:recruit n:recruitment n:recruiter
+v:reduce n:reduction
+v:refer n:reference n:referral
+v:reflect n:reflection
+v:refund adj:refundable
+v:regulate n:regulation n:regulator adj:regulatory
+v:reimburse n:reimbursement
+v:reinforce n:reinforcement
+v:reject n:rejection
+v:relate n:relation n:relationship adj:relative adv:relatively
+v:relocate n:relocation
+v:rely n:reliance n:reliability adj:reliable adv:reliably
+v:remind n:reminder
+v:renew n:renewal adj:renewable
+v:renovate n:renovation
+v:rent n:rental n:renter
+v:repeat n:repetition adv:repeatedly
+v:replace n:replacement
+v:represent n:representation n:representative
+v:reproduce n:reproduction
+v:require n:requirement
+v:reserve n:reservation
+v:reside n:residence n:resident adj:residential
+v:resign n:resignation
+v:resist n:resistance adj:resistant
+v:resolve n:resolution
+v:respond n:response n:respondent adj:responsive
+v:restrict n:restriction adj:restrictive
+v:retain n:retention
+v:retire n:retirement n:retiree
+v:revise n:revision
+v:satisfy n:satisfaction adj:satisfactory adj:satisfied
+v:secure n:security adv:securely
+v:select n:selection adj:selective adv:selectively
+v:signify n:significance adj:significant adv:significantly
+v:simplify n:simplicity adj:simple adv:simply
+v:specialize n:specialist n:specialty adj:special adv:specially
+v:specify n:specification adj:specific adv:specifically
+v:stabilize n:stability adj:stable
+v:standardize n:standard
+v:strategize n:strategy adj:strategic adv:strategically
+v:strengthen n:strength adj:strong adv:strongly
+v:submit n:submission
+v:subscribe n:subscription n:subscriber
+v:substitute n:substitution
+v:succeed n:success adj:successful adv:successfully n:successor
+v:suggest n:suggestion
+v:supervise n:supervision n:supervisor adj:supervisory
+v:supply n:supplier
+v:sustain n:sustainability adj:sustainable
+v:terminate n:termination
+v:transfer adj:transferable
+v:translate n:translation n:translator
+v:transmit n:transmission
+v:transport n:transportation
+v:utilize n:utilization
+v:validate n:validity adj:valid
+v:value n:valuation adj:valuable
+v:vary n:variety n:variation adj:various adj:variable
+v:verify n:verification
+v:violate n:violation
+v:widen n:width adj:wide adv:widely
+n:accuracy adj:accurate adv:accurately
+n:ambition adj:ambitious adv:ambitiously
+n:anxiety adj:anxious adv:anxiously
+n:caution adj:cautious adv:cautiously
+n:convenience adj:convenient adv:conveniently
+n:courtesy adj:courteous adv:courteously
+n:durability adj:durable
+n:efficiency adj:efficient adv:efficiently
+n:energy adj:energetic adv:energetically
+n:environment adj:environmental adv:environmentally
+n:excitement adj:exciting adv:excitingly
+n:exception adj:exceptional adv:exceptionally
+n:expense adj:expensive adv:expensively
+n:experience adj:experienced
+n:fortune adj:fortunate adv:fortunately
+n:generosity adj:generous adv:generously
+n:globe adj:global adv:globally
+n:history adj:historical adv:historically
+n:honesty adj:honest adv:honestly
+n:importance adj:important adv:importantly
+n:independence adj:independent adv:independently
+adj:individual adv:individually
+n:industry adj:industrial
+n:influence adj:influential
+n:intensity adj:intense adv:intensely adj:intensive
+n:knowledge adj:knowledgeable
+n:legality adj:legal adv:legally
+n:length adj:lengthy v:lengthen
+n:loyalty adj:loyal adv:loyally
+n:nation adj:national adv:nationally
+n:necessity adj:necessary adv:necessarily
+n:occasion adj:occasional adv:occasionally
+n:optimism adj:optimistic adv:optimistically
+n:patience adj:patient adv:patiently
+n:period adj:periodic adv:periodically
+n:person adj:personal adv:personally
+n:popularity adj:popular
+n:possibility adj:possible adv:possibly
+n:precision adj:precise adv:precisely
+n:priority adj:prior v:prioritize
+n:probability adj:probable adv:probably
+n:profession adj:professional adv:professionally
+n:promptness adj:prompt adv:promptly
+n:quality adj:qualitative
+n:quantity adj:quantitative v:quantify
+n:rapidity adj:rapid adv:rapidly
+n:reality adj:real adv:really
+n:reason adj:reasonable adv:reasonably
+n:region adj:regional adv:regionally
+n:responsibility adj:responsible adv:responsibly
+n:safety adj:safe adv:safely
+n:season adj:seasonal adv:seasonally
+n:severity adj:severe adv:severely
+n:sharpness adj:sharp adv:sharply
+n:similarity adj:similar adv:similarly
+n:sincerity adj:sincere adv:sincerely
+n:steadiness adj:steady adv:steadily
+n:strictness adj:strict adv:strictly
+n:substance adj:substantial adv:substantially
+n:sufficiency adj:sufficient adv:sufficiently
+n:technology adj:technological adv:technologically
+n:temporariness adj:temporary adv:temporarily
+n:thoroughness adj:thorough adv:thoroughly
+n:tradition adj:traditional adv:traditionally
+n:urgency adj:urgent adv:urgently
+n:visibility adj:visible adv:visibly
+n:volatility adj:volatile
+n:effect n:effectiveness adj:effective adv:effectively
+n:punctuality adj:punctual adv:punctually

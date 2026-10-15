@@ -1,0 +1,1202 @@
+vacation|n.|휴가|She is on vacation until next Monday.
+client|n.|고객, 의뢰인|We are meeting a new client this afternoon.
+memo|n.|회람, 메모|Please read the memo about the new parking policy.
+reservation|n.|예약|I'd like to make a reservation for four people.
+logical|adj.|논리적인, 타당한|That is the most logical explanation.
+sincerely|adv.|진심으로; (편지) 올림|We sincerely apologize for the delay.
+sometime|adv.|언젠가, 어느 때|Let's have lunch sometime next week.
+supervisor|n.|관리자, 상사|Report any problems to your supervisor.
+refund|n.|환불|You can get a full refund within 14 days.
+goods|n.|상품, 물품|The goods will be delivered on Friday.
+workshop|n.|워크숍, 연수회|All staff must attend the safety workshop.
+deadline|n.|마감 기한|The deadline for the report is next Monday.
+invoice|n.|송장, 청구서|Please pay the invoice within 30 days.
+brochure|n.|안내 책자|Please take a brochure for more information.
+accountant|n.|회계사|The accountant reviewed our tax records.
+clerk|n.|사무원, 점원|Ask the clerk at the front desk.
+lobby|n.|로비|Let's meet in the hotel lobby at nine.
+publish|v.|출판하다, 발표하다|The results will be published next month.
+résumé|n.|이력서|Please attach your résumé to the application.
+enclose|v.|동봉하다|I have enclosed a copy of the contract.
+applicant|n.|지원자|Applicants must have three years of experience.
+seminar|n.|세미나|The seminar will cover new marketing trends.
+technician|n.|기술자|A technician will repair the printer today.
+cloth|n.|천, 옷감|Wipe the screen with a soft cloth.
+fare|n.|(교통) 요금|Bus fares will increase next month.
+receipt|n.|영수증; 수령|Keep your receipt for any returns.
+traveler|n.|여행자|The hotel is popular with business travelers.
+caller|n.|전화 건 사람|The caller left a message for Ms. Park.
+luggage|n.|수하물|Each passenger may bring two pieces of luggage.
+shipment|n.|배송(품), 선적|The shipment will arrive on Thursday.
+infer|v.|추론하다|What can be inferred from the article?
+rental|n.|임대, 대여|Car rentals are available at the airport.
+warranty|n.|품질 보증(서)|The laptop comes with a two-year warranty.
+cafeteria|n.|구내식당|Lunch is served in the cafeteria.
+elevator|n.|엘리베이터|The elevator is out of order today.
+reception|n.|접수처; 환영회|Please sign in at reception.
+correctly|adv.|정확하게, 올바르게|Make sure the form is filled out correctly.
+lease|n.|임대차 계약|We signed a five-year lease on the office.
+notify|v.|통지하다, 알리다|We will notify you when your order ships.
+preview|n.|미리 보기, 시사회|Click here for a preview of the report.
+attendant|n.|안내원, 승무원|A flight attendant helped me with my bag.
+subscription|n.|구독, 가입|Your subscription will be renewed automatically.
+convenient|adj.|편리한|Is Tuesday convenient for you?
+manual|n.|설명서|Refer to the user manual for instructions.
+clue|n.|단서, 실마리|The report gives no clue about the cause.
+obtain|v.|얻다, 획득하다|You must obtain permission first.
+oval|adj.|타원형의|The meeting room has an oval table.
+inventory|n.|재고(목록)|We need to check the inventory before ordering.
+outdoor|adj.|야외의|The outdoor concert was canceled due to rain.
+suitcase|n.|여행 가방|He packed his suitcase the night before.
+destination|n.|목적지|Paris is a popular travel destination.
+occupation|n.|직업|Please state your occupation on the form.
+postpone|v.|연기하다|The meeting has been postponed until Friday.
+contradict|v.|반박하다, 모순되다|The new data contradicts earlier findings.
+inference|n.|추론|The question asks you to make an inference.
+compact|adj.|소형의, 간편한|This compact camera fits in your pocket.
+merchandise|n.|상품|All merchandise is 30% off this weekend.
+receptionist|n.|접수 담당자|The receptionist will give you a visitor pass.
+identification|n.|신분증; 확인|Please show a valid form of identification.
+coupon|n.|쿠폰|Use this coupon to get 20% off.
+depart|v.|출발하다|The train departs at 7:15 A.M.
+reschedule|v.|일정을 변경하다|Can we reschedule the call for tomorrow?
+tactic|n.|전략, 작전|The sales team tried a new tactic.
+renovation|n.|보수, 개조|The lobby is closed for renovation.
+upgrade|v.|개선하다, 업그레이드하다|We plan to upgrade our computer system.
+precede|v.|~에 앞서다|A short speech will precede the dinner.
+replacement|n.|교체(품), 후임자|We are looking for a replacement for Mr. Lee.
+dine|v.|식사하다|Guests can dine on the rooftop terrace.
+passport|n.|여권|Your passport must be valid for six months.
+coworker|n.|동료|She went to lunch with her coworkers.
+upcoming|adj.|다가오는|Please prepare for the upcoming audit.
+cabinet|n.|캐비닛, 수납장|The files are in the cabinet by the door.
+appliance|n.|가전제품|The store sells kitchen appliances.
+explanatory|adj.|설명적인|Read the explanatory notes before you begin.
+instructor|n.|강사|The instructor gave clear directions.
+media|n.|매체, 언론|The product launch attracted media attention.
+valid|adj.|유효한|This ticket is valid for one year.
+admission|n.|입장(료); 입학|Admission to the museum is free on Sundays.
+underline|v.|밑줄을 긋다; 강조하다|Underline the key words in each question.
+electrical|adj.|전기의|An electrical problem caused the outage.
+assignment|n.|과제, 임무|Her first assignment was to update the website.
+exit|n.|출구|Please use the nearest emergency exit.
+attendee|n.|참석자|Each attendee will receive a name tag.
+cruise|n.|유람선 여행|They went on a cruise for their anniversary.
+comprehension|n.|이해(력)|The test measures reading comprehension.
+mall|n.|쇼핑몰|The new mall opens next weekend.
+medication|n.|약, 약물|Take this medication twice a day.
+recycle|v.|재활용하다|Please recycle paper and plastic.
+renew|v.|갱신하다|The lease must be renewed every two years.
+tenant|n.|세입자|All tenants must follow the building rules.
+departure|n.|출발|Check the departure time on your ticket.
+fitness|n.|건강, 체력|The hotel has a fitness center.
+inconvenience|n.|불편|We apologize for any inconvenience.
+banquet|n.|연회, 만찬|The awards banquet will be held on Friday.
+closet|n.|벽장|Extra towels are in the closet.
+unreal|adj.|비현실적인|The sales targets seem unreal.
+expire|v.|만료되다|The contract expires at the end of May.
+folder|n.|폴더, 서류철|Save the file in the shared folder.
+photocopy|n.|복사본|Please make a photocopy of your ID.
+renovate|v.|개조하다, 보수하다|The hotel was renovated last year.
+calendar|n.|달력, 일정표|I'll mark the date on my calendar.
+donation|n.|기부(금)|All donations will go to the local hospital.
+feedback|n.|의견, 피드백|We welcome feedback from our customers.
+shortly|adv.|곧, 얼마 안 있어|The manager will be with you shortly.
+warehouse|n.|창고|The goods are stored in the warehouse.
+copier|n.|복사기|The copier on the third floor is broken.
+provider|n.|제공자, 공급업체|We changed our Internet service provider.
+beverage|n.|음료|Beverages are not allowed in the lab.
+inspection|n.|점검, 검사|The machines passed the safety inspection.
+recipient|n.|수령인|The recipient must sign for the package.
+aisle|n.|통로|Would you prefer a window or an aisle seat?
+inspect|v.|점검하다|Inspectors will inspect the building tomorrow.
+mechanic|n.|정비사|The mechanic fixed the brakes.
+merger|n.|합병|The merger created the largest bank in the region.
+ingredient|n.|재료, 성분|We use only fresh ingredients.
+rewrite|v.|다시 쓰다|Please rewrite the introduction.
+itinerary|n.|여행 일정표|Your itinerary has been sent by e-mail.
+workplace|n.|직장, 일터|Safety in the workplace is important.
+architect|n.|건축가|The architect designed the new library.
+convenience|n.|편의, 편리|Please reply at your earliest convenience.
+eligible|adj.|자격이 있는|Full-time employees are eligible for the bonus.
+indoor|adj.|실내의|The hotel has an indoor pool.
+baggage|n.|수하물|Baggage claim is on the first floor.
+dial|v.|전화를 걸다|Dial 9 to get an outside line.
+container|n.|용기, 컨테이너|Store food in an airtight container.
+drawer|n.|서랍|The keys are in the top drawer.
+lab|n.|실험실|The samples were sent to the lab.
+submission|n.|제출(물)|The deadline for submissions is May 1.
+bulletin|n.|게시, 공고|Check the bulletin board for updates.
+certificate|n.|증명서, 자격증|You will receive a certificate after the course.
+gym|n.|체육관|The office building has a gym.
+highway|n.|고속도로|Traffic on the highway was heavy.
+respondent|n.|응답자|Most respondents were satisfied with the service.
+jewelry|n.|보석류|The store sells handmade jewelry.
+overtime|n.|초과 근무|Employees are paid for overtime.
+battery|n.|배터리|The battery lasts up to ten hours.
+donate|v.|기부하다|The company donated $10,000 to charity.
+outstanding|adj.|뛰어난; 미지불된|She received an award for outstanding service.
+skim|v.|훑어보다|Skim the article for the main idea.
+briefcase|n.|서류 가방|He left his briefcase in the taxi.
+impact|n.|영향|The new policy had a big impact on sales.
+innovative|adj.|혁신적인|The company is known for innovative designs.
+inquire|v.|문의하다|I am writing to inquire about the position.
+overnight|adv.|밤사이에; 하룻밤 동안|The package will be delivered overnight.
+venue|n.|(행사) 장소|The venue for the conference has changed.
+commuter|n.|통근자|The train is crowded with commuters.
+logo|n.|로고|The new logo will appear on all products.
+newsletter|n.|소식지|Sign up for our monthly newsletter.
+advisor|n.|고문, 조언자|She works as a financial advisor.
+cartridge|n.|(잉크) 카트리지|The printer needs a new ink cartridge.
+photographer|n.|사진작가|A photographer will take staff photos.
+shopper|n.|쇼핑객|The store was full of holiday shoppers.
+tag|n.|꼬리표, 가격표|Check the price tag before buying.
+announcer|n.|아나운서, 안내 방송자|The announcer said the flight was delayed.
+aspect|n.|측면, 양상|Price is an important aspect of the decision.
+audit|n.|회계 감사|The annual audit will take place in March.
+contractor|n.|도급업자, 계약자|We hired a contractor to build the extension.
+download|v.|내려받다|You can download the form from our website.
+password|n.|비밀번호|Change your password every three months.
+prohibit|v.|금지하다|Smoking is prohibited in the building.
+stadium|n.|경기장|The concert will be held at the stadium.
+terminal|n.|터미널, 단말기|Flights to Tokyo leave from Terminal 2.
+weekday|n.|평일|The office is open on weekdays only.
+bonus|n.|보너스, 상여금|All staff received a year-end bonus.
+cart|n.|카트, 손수레|Please return your cart after shopping.
+ink|n.|잉크|The printer is out of ink.
+supervise|v.|감독하다|She supervises a team of ten people.
+cleaner|n.|청소부; 세제|The cleaners come in every evening.
+developer|n.|개발자; 개발업자|The software developer fixed the bug.
+headquarters|n.|본사|The company's headquarters is in Seoul.
+shuttle|n.|셔틀버스|A free shuttle runs to the airport.
+stationery|n.|문구류|Order more stationery for the office.
+subscribe|v.|구독하다|Subscribe to our newsletter for updates.
+alike|adv.|비슷하게, 똑같이|The event is popular with adults and children alike.
+flavor|n.|맛, 풍미|The new drink comes in three flavors.
+picnic|n.|야유회, 소풍|The company picnic is on Saturday.
+recipe|n.|조리법|The chef shared his favorite recipe.
+refreshment|n.|다과|Refreshments will be served after the talk.
+administrative|adj.|관리의, 행정의|She handles administrative tasks.
+authorize|v.|권한을 부여하다, 승인하다|Only managers can authorize refunds.
+commonly|adv.|흔히, 일반적으로|This software is commonly used by designers.
+distribution|n.|배포, 유통|He works in the distribution department.
+accommodate|v.|수용하다, 편의를 도모하다|The hall can accommodate 500 guests.
+affordable|adj.|(가격이) 적당한|The hotel offers affordable rates.
+annoy|v.|짜증나게 하다|The noise annoyed the residents.
+commute|v.|통근하다|He commutes to work by subway.
+coordinate|v.|조정하다, 조직화하다|She coordinates the training program.
+paperwork|n.|서류 작업|There is a lot of paperwork to complete.
+quit|v.|그만두다|He quit his job to start a business.
+authority|n.|권한; 당국|Only the manager has the authority to approve it.
+flu|n.|독감|Many employees are out with the flu.
+captain|n.|기장, 선장|The captain announced our arrival time.
+installation|n.|설치|Installation of the new software takes an hour.
+trainer|n.|교육 담당자|The trainer will explain the new system.
+availability|n.|이용 가능성, 시간 여유|Please check room availability for May 3.
+bargain|n.|싼 물건, 흥정|The jacket was a real bargain.
+complimentary|adj.|무료의|Complimentary breakfast is served daily.
+hike|n.|도보 여행; (가격) 인상|A price hike is expected next year.
+midnight|n.|자정|The store is open until midnight.
+productivity|n.|생산성|The new software improved productivity.
+rainy|adj.|비가 오는|Bring an umbrella on rainy days.
+relocate|v.|이전하다|The company will relocate to Busan.
+trainee|n.|수습 직원, 연수생|Trainees will be paired with mentors.
+transaction|n.|거래|All transactions are recorded online.
+unhappy|adj.|불만스러운|The client was unhappy with the design.
+verify|v.|확인하다, 검증하다|Please verify your e-mail address.
+automobile|n.|자동차|The automobile industry is growing.
+courier|n.|택배 회사, 배달원|The documents were sent by courier.
+incomplete|adj.|불완전한|Incomplete applications will not be accepted.
+questionnaire|n.|설문지|Please fill out the questionnaire.
+dock|n.|부두, 하역장|The truck is waiting at the loading dock.
+lately|adv.|최근에|Sales have been slow lately.
+machinery|n.|기계류|The factory bought new machinery.
+presenter|n.|발표자|The presenter answered questions after the talk.
+seldom|adv.|좀처럼 ~않는|He seldom works on weekends.
+signature|n.|서명|Your signature is required on page three.
+worldwide|adj.|전 세계적인|The company has 50 offices worldwide.
+carrier|n.|운송 회사; 통신사|The carrier lost our package.
+designate|v.|지정하다|This area is designated for smoking.
+exclusive|adj.|독점적인, 전용의|Members get exclusive discounts.
+grocery|n.|식료품(점)|I need to stop at the grocery store.
+memorandum|n.|회람, 메모|A memorandum was sent to all staff.
+photocopier|n.|복사기|The photocopier is jammed again.
+suite|n.|스위트룸; (사무실) 한 세트|The conference is in Suite 300.
+thorough|adj.|철저한|The inspector did a thorough review.
+cater|v.|음식을 공급하다|A local restaurant will cater the event.
+dental|adj.|치아의|The plan includes dental insurance.
+duration|n.|지속 기간|Please stay seated for the duration of the flight.
+lounge|n.|라운지, 휴게실|Coffee is available in the staff lounge.
+patron|n.|단골 고객, 후원자|The library thanks its patrons for their support.
+prescription|n.|처방(전)|You need a prescription for this medicine.
+productive|adj.|생산적인|It was a very productive meeting.
+stack|n.|더미|There is a stack of papers on the desk.
+delegate|v.|위임하다|Good leaders know how to delegate tasks.
+salesperson|n.|판매원|The salesperson showed us several models.
+calculator|n.|계산기|You may use a calculator for this task.
+completion|n.|완료|Completion of the project is expected in June.
+defect|n.|결함|Each product is checked for defects.
+garbage|n.|쓰레기|Garbage is collected on Tuesdays.
+omit|v.|생략하다, 빠뜨리다|Some details were omitted from the report.
+spite|n.|(in spite of) ~에도 불구하고|In spite of the rain, the event went ahead.
+cab|n.|택시|Let's take a cab to the airport.
+correspondence|n.|서신, 연락|Keep copies of all correspondence.
+ladder|n.|사다리|The worker is climbing a ladder.
+photography|n.|사진술|Photography is not allowed in the gallery.
+sculpture|n.|조각품|A large sculpture stands in the lobby.
+anniversary|n.|기념일|The company celebrates its 50th anniversary.
+buffet|n.|뷔페|A buffet lunch will be provided.
+defective|adj.|결함이 있는|Defective items will be replaced free of charge.
+leak|n.|누출, 새는 곳|A plumber fixed the leak in the ceiling.
+occupancy|n.|(호텔 등) 점유율, 사용|Hotel occupancy rose this summer.
+proficiency|n.|능숙함|Proficiency in Spanish is required.
+renewal|n.|갱신|Your membership is due for renewal.
+urgent|adj.|긴급한|Please handle this urgent request first.
+annually|adv.|매년|The report is published annually.
+delete|v.|삭제하다|Do not delete any files from the server.
+illogical|adj.|비논리적인|His argument seemed illogical.
+textbook|n.|교과서|The textbook is available at the bookstore.
+accurately|adv.|정확하게|Data must be entered accurately.
+cabin|n.|객실; 오두막|Please remain seated in the cabin.
+conductor|n.|지휘자; 차장|The conductor checked our tickets.
+inspector|n.|검사관|The inspector approved the building.
+intern|n.|인턴|The intern helped prepare the presentation.
+semester|n.|학기|Classes begin next semester.
+confirmation|n.|확인(서)|You will receive a confirmation e-mail.
+congratulation|n.|축하|Congratulations on your promotion!
+expertise|n.|전문 지식|His expertise in finance is highly valued.
+graph|n.|그래프|The graph shows sales by region.
+taker|n.|받는 사람; 응시자|Test takers must arrive by 9 A.M.
+utility|n.|(전기·수도 등) 공공 서비스|Rent includes utilities.
+voucher|n.|상품권, 할인권|Each guest will receive a meal voucher.
+banker|n.|은행원|The banker explained the loan options.
+behalf|n.|(on behalf of) ~을 대표하여|I'm writing on behalf of my manager.
+minimize|v.|최소화하다|We need to minimize costs.
+optional|adj.|선택적인|Attendance at the dinner is optional.
+paycheck|n.|급료|Paychecks are issued every two weeks.
+polite|adj.|공손한|The staff were polite and helpful.
+protective|adj.|보호하는|Wear protective gloves when handling chemicals.
+seller|n.|판매자|The seller agreed to lower the price.
+sidewalk|n.|보도, 인도|People are walking along the sidewalk.
+sightsee|v.|관광하다|We will sightsee in the afternoon.
+transit|n.|대중교통; 운송|Use public transit to get to the venue.
+wallet|n.|지갑|He found a wallet on the train.
+cashier|n.|계산원|Please pay the cashier at the front.
+casual|adj.|평상시의, 격식 없는|Casual dress is allowed on Fridays.
+drill|n.|훈련; 드릴|A fire drill will be held this afternoon.
+fountain|n.|분수|There is a fountain in the courtyard.
+lane|n.|차선, 좁은 길|One lane of the road is closed.
+popularity|n.|인기|The product's popularity has grown.
+poster|n.|포스터|Posters for the event are on the wall.
+promptly|adv.|즉시, 정각에|The meeting will start promptly at 10.
+retailer|n.|소매업자|The product is available at major retailers.
+vacancy|n.|공석; 빈 객실|There is a vacancy in the marketing team.
+bench|n.|벤치|A man is sitting on a bench.
+cumulative|adj.|누적의|The cumulative effect was significant.
+directory|n.|안내 책자, 명부|Check the staff directory for her number.
+disposal|n.|처리, 처분|Proper disposal of waste is required.
+housekeeper|n.|객실 청소원, 가정부|The housekeeper cleaned the room.
+internship|n.|인턴 근무|She completed an internship at a bank.
+knowledgeable|adj.|잘 아는, 박식한|Our staff are friendly and knowledgeable.
+organizer|n.|주최자|The organizers expect 2,000 visitors.
+overdue|adj.|기한이 지난|Your payment is two weeks overdue.
+prediction|n.|예측|The sales predictions were accurate.
+subscriber|n.|구독자, 가입자|The magazine has 10,000 subscribers.
+booklet|n.|소책자|A booklet with details is enclosed.
+conditioner|n.|(air conditioner) 에어컨|The air conditioner isn't working.
+enroll|v.|등록하다|You can enroll in the course online.
+frustrate|v.|좌절시키다, 불만스럽게 하다|The delays frustrated many passengers.
+garment|n.|의류|The factory produces garments for export.
+orientation|n.|예비 교육|Orientation for new staff begins at 9 A.M.
+outlet|n.|매장; 콘센트|The brand opened a new outlet downtown.
+packet|n.|꾸러미, 소포|Each attendee gets an information packet.
+plumber|n.|배관공|Call a plumber to fix the pipe.
+specification|n.|사양, 명세|The product meets all specifications.
+decorate|v.|장식하다|The office was decorated for the holidays.
+deduction|n.|공제(액)|Tax deductions are shown on your pay slip.
+definite|adj.|확실한, 분명한|We need a definite answer by Friday.
+economical|adj.|경제적인, 절약하는|This car is economical to run.
+efficiently|adv.|효율적으로|The team works efficiently.
+flyer|n.|전단지|Flyers were handed out at the station.
+franchise|n.|가맹점, 프랜차이즈|He owns three restaurant franchises.
+generous|adj.|후한, 관대한|Thank you for your generous donation.
+interrupt|v.|방해하다, 중단시키다|Sorry to interrupt your meeting.
+profitable|adj.|수익성 있는|The business became profitable in its second year.
+refrigerator|n.|냉장고|Keep the samples in the refrigerator.
+reimburse|v.|환급하다, 변제하다|The company will reimburse your travel costs.
+showroom|n.|전시실|Visit our showroom to see the new models.
+vegetarian|adj.|채식의|Vegetarian meals are available on request.
+administrator|n.|관리자|Contact the system administrator for access.
+broker|n.|중개인|A real estate broker found us the office.
+cancellation|n.|취소|Cancellations must be made 24 hours in advance.
+confidential|adj.|기밀의|This information is strictly confidential.
+realistic|adj.|현실적인|We need to set realistic goals.
+thoroughly|adv.|철저히|Read the contract thoroughly before signing.
+trash|n.|쓰레기|Please put your trash in the bin.
+usage|n.|사용(량)|Electricity usage rose in summer.
+windy|adj.|바람이 부는|It's too windy for the outdoor event.
+automate|v.|자동화하다|The process has been fully automated.
+ferry|n.|여객선|We took the ferry to the island.
+finalize|v.|마무리 짓다|We hope to finalize the deal this week.
+incur|v.|(비용을) 발생시키다|You may incur extra charges.
+instruct|v.|지시하다; 가르치다|Staff were instructed to leave the building.
+loyal|adj.|충성스러운, 단골의|Loyal customers receive special offers.
+luncheon|n.|오찬|A luncheon will be held for retirees.
+microphone|n.|마이크|Please speak into the microphone.
+overview|n.|개요|The manager gave an overview of the plan.
+projector|n.|프로젝터|The projector isn't working.
+shortage|n.|부족|There is a shortage of skilled workers.
+spacious|adj.|넓은|The apartment has a spacious living room.
+accomplishment|n.|업적, 성취|Winning the award was a great accomplishment.
+accustom|v.|익숙하게 하다|It took time to become accustomed to the new system.
+clinic|n.|병원, 진료소|The clinic is open until 6 P.M.
+jog|v.|조깅하다|He jogs in the park every morning.
+leisure|n.|여가|The hotel offers many leisure activities.
+reinforce|v.|강화하다|The training reinforced safety rules.
+sender|n.|발송인|The letter was returned to the sender.
+vacuum|v.|진공청소기로 청소하다|The cleaners vacuum the carpets daily.
+wireless|adj.|무선의|Free wireless Internet is available.
+yearly|adj.|매년의|The yearly budget meeting is in December.
+appreciation|n.|감사; 가치 상승|We gave her a gift in appreciation of her work.
+cargo|n.|화물|The ship was loaded with cargo.
+cooperate|v.|협력하다|The two departments cooperated on the project.
+distract|v.|산만하게 하다|Loud music can distract workers.
+dividend|n.|배당금|Shareholders will receive a dividend.
+exemption|n.|면제|Some items qualify for tax exemption.
+furnish|v.|(가구를) 비치하다; 제공하다|The apartment is fully furnished.
+hourly|adj.|매시간의, 시간당|Staff are paid an hourly wage.
+laundry|n.|세탁(물)|The hotel provides laundry service.
+mandatory|adj.|의무적인|Attendance at the meeting is mandatory.
+mechanical|adj.|기계의|The delay was caused by a mechanical problem.
+pharmacy|n.|약국|The pharmacy is next to the bank.
+promotional|adj.|판촉의|We sent out promotional materials.
+quarterly|adj.|분기별의|The quarterly report is due next week.
+residential|adj.|주거의|The office is in a residential area.
+scholarship|n.|장학금|She received a full scholarship.
+seeker|n.|구하는 사람|The fair attracted many job seekers.
+temporarily|adv.|일시적으로|The store is temporarily closed.
+unattended|adj.|방치된, 지켜보는 사람이 없는|Do not leave bags unattended.
+accessible|adj.|접근 가능한, 이용할 수 있는|The building is accessible by wheelchair.
+afterward|adv.|그 후에|We had dinner and went home afterward.
+apology|n.|사과|Please accept our apologies for the error.
+assemble|v.|조립하다; 모이다|The furniture is easy to assemble.
+automatic|adj.|자동의|The doors are automatic.
+boardroom|n.|회의실, 이사회실|The meeting is in the boardroom.
+carpenter|n.|목수|A carpenter built the shelves.
+caterer|n.|출장 연회업자|The caterer will arrive at noon.
+classify|v.|분류하다|Documents are classified by date.
+consultation|n.|상담, 협의|Book a free consultation with our experts.
+durable|adj.|내구성 있는|These bags are made of durable material.
+glove|n.|장갑|Wear gloves when handling chemicals.
+hardware|n.|하드웨어; 철물|The hardware store sells tools.
+malfunction|n.|오작동|A malfunction caused the system to shut down.
+outdated|adj.|구식의|The equipment is outdated.
+patience|n.|인내|Thank you for your patience.
+postcard|n.|엽서|She sent a postcard from Rome.
+prospective|adj.|잠재적인, 장래의|We sent samples to prospective clients.
+revision|n.|수정, 개정|The report needs some revisions.
+strictly|adv.|엄격하게|Smoking is strictly prohibited.
+tray|n.|쟁반|She is carrying a tray of drinks.
+vendor|n.|판매업체, 노점상|We are looking for a new vendor.
+withdrawal|n.|인출; 철회|You can make withdrawals at any ATM.
+anytime|adv.|언제든지|Feel free to call me anytime.
+badge|n.|명찰, 배지|Wear your ID badge at all times.
+brake|n.|브레이크|The mechanic checked the brakes.
+calculation|n.|계산|Please check my calculations.
+coordinator|n.|진행자, 조정자|She is the event coordinator.
+costly|adj.|비용이 많이 드는|The repairs were costly.
+equip|v.|장비를 갖추다|The rooms are equipped with projectors.
+excursion|n.|짧은 여행, 견학|An excursion to the museum is planned.
+graphic|adj.|그래픽의|He works as a graphic designer.
+inexperience|n.|미숙함, 경험 부족|The mistake was due to inexperience.
+lengthy|adj.|긴, 장황한|The meeting was lengthy.
+librarian|n.|사서|Ask the librarian for help.
+meantime|n.|(in the meantime) 그동안에|In the meantime, please wait in the lobby.
+merge|v.|합병하다|The two companies will merge next year.
+performer|n.|공연자|The performers took a bow.
+pharmacist|n.|약사|Ask the pharmacist about side effects.
+resignation|n.|사직(서)|He handed in his resignation.
+reviewer|n.|검토자, 평론가|Reviewers praised the new book.
+terminate|v.|종료하다, 해지하다|The contract was terminated early.
+translation|n.|번역|The translation was very accurate.
+unfamiliar|adj.|익숙하지 않은|I'm unfamiliar with this software.
+adjacent|adj.|인접한|The parking lot is adjacent to the building.
+alternate|adj.|대체의; 번갈아 하는|Please use the alternate entrance.
+congratulate|v.|축하하다|We congratulate you on your success.
+escort|v.|호위하다, 안내하다|A guard will escort visitors to the office.
+inexpensive|adj.|비싸지 않은|The restaurant is good and inexpensive.
+mask|n.|마스크|Workers must wear masks.
+purchaser|n.|구매자|The purchaser must sign the receipt.
+purse|n.|지갑, 핸드백|She left her purse in the car.
+realtor|n.|부동산 중개인|A realtor showed us the house.
+rearrange|v.|재배치하다|We rearranged the furniture.
+reopen|v.|다시 열다|The store will reopen on Monday.
+spokesperson|n.|대변인|A company spokesperson made a statement.
+superior|adj.|우수한; n. 상사|The product is superior in quality.
+airfare|n.|항공 요금|Airfare is included in the package.
+bake|v.|굽다|The bread is baked fresh every morning.
+businessperson|n.|사업가|The award went to a local businessperson.
+considerably|adv.|상당히|Costs have risen considerably.
+faulty|adj.|결함 있는|The faulty wiring caused a fire.
+informal|adj.|비공식적인, 격식 없는|We had an informal meeting over coffee.
+lawn|n.|잔디밭|A man is mowing the lawn.
+microscope|n.|현미경|The cells were examined under a microscope.
+mislead|v.|오해하게 하다|The ad was misleading.
+misplace|v.|잘못 두다, 분실하다|I misplaced my keys.
+newsstand|n.|신문 가판대|Buy a paper at the newsstand.
+overhead|adj.|머리 위의; n. 간접비|Store your bag in the overhead bin.
+portfolio|n.|포트폴리오, 작품집|Bring your portfolio to the interview.
+rack|n.|선반, 걸이|Hang your coat on the rack.
+remodel|v.|개조하다|The kitchen was remodeled last year.
+statistics|n.|통계|The statistics show a rise in sales.
+tunnel|n.|터널|Traffic is slow in the tunnel.
+unlimited|adj.|무제한의|The plan offers unlimited data.
+alert|v.|알리다, 경고하다|Please alert security if you see anything unusual.
+auditorium|n.|강당|The lecture will be held in the auditorium.
+celebrity|n.|유명인|A celebrity attended the opening.
+deduct|v.|공제하다|Taxes are deducted from your salary.
+disruption|n.|지장, 혼란|The strike caused disruption to services.
+electrician|n.|전기 기사|An electrician will fix the lights.
+enthusiastic|adj.|열정적인|The audience was enthusiastic.
+graduation|n.|졸업|She found a job after graduation.
+icy|adj.|얼음이 언|The roads are icy this morning.
+irregular|adj.|불규칙한|He works irregular hours.
+managerial|adj.|관리의|She has managerial experience.
+mineral|n.|광물; 미네랄|Mineral water is provided.
+necessity|n.|필수품, 필요성|A car is a necessity in this area.
+planner|n.|기획자; 일정표|The event planner booked the venue.
+programmer|n.|프로그래머|We are hiring two programmers.
+proofread|v.|교정을 보다|Please proofread the letter before sending it.
+recruiter|n.|채용 담당자|A recruiter contacted me about the job.
+remainder|n.|나머지|The remainder of the payment is due next month.
+statue|n.|조각상|There is a statue in the square.
+steadily|adv.|꾸준히|Sales have increased steadily.
+stockholder|n.|주주|Stockholders will vote on the merger.
+vacant|adj.|비어 있는|The office has been vacant for months.
+accessory|n.|부대용품, 액세서리|The store sells phone accessories.
+assembly|n.|조립; 집회|The assembly line was shut down.
+basket|n.|바구니|Place the items in the basket.
+certification|n.|인증, 자격증|All staff need safety certification.
+closure|n.|폐쇄|The road closure will last a week.
+dislike|v.|싫어하다|Many customers dislike long waits.
+downstairs|adv.|아래층에서|The cafeteria is downstairs.
+expiration|n.|만료|Check the expiration date.
+nail|n.|못; 손톱|He hammered a nail into the wall.
+optimistic|adj.|낙관적인|The CEO is optimistic about next year.
+pedestrian|n.|보행자|The street is closed to pedestrians.
+projection|n.|예상, 추정; 투사|Sales projections look promising.
+sleeve|n.|소매|She rolled up her sleeves.
+suburb|n.|교외|They moved to the suburbs.
+takeover|n.|인수|The takeover was approved by the board.
+unsure|adj.|확신하지 못하는|I'm unsure about the date.
+upstairs|adv.|위층에서|The meeting room is upstairs.
+verbal|adj.|구두의, 말의|We have a verbal agreement.
+visa|n.|비자|You need a visa to enter the country.
+wildlife|n.|야생 동물|The park protects local wildlife.
+workforce|n.|인력, 노동력|The company plans to expand its workforce.
+absent|adj.|결석한, 부재한|He was absent from the meeting.
+accumulate|v.|축적하다, 모으다|You can accumulate points with every purchase.
+appraisal|n.|평가, 감정|Annual performance appraisals start next week.
+apprentice|n.|견습생|He worked as an apprentice electrician.
+businessman|n.|사업가|The businessman flew to London.
+ceiling|n.|천장|The ceiling needs to be painted.
+colorful|adj.|다채로운|The brochure has colorful pictures.
+compensate|v.|보상하다|We will compensate you for the loss.
+costume|n.|의상|The actors wore colorful costumes.
+editorial|adj.|편집의; n. 사설|She works on the editorial team.
+effectiveness|n.|효과(성)|We measured the effectiveness of the ads.
+facilitate|v.|용이하게 하다|The software facilitates communication.
+firefighter|n.|소방관|Firefighters arrived quickly.
+gasoline|n.|휘발유|Gasoline prices rose again.
+inappropriate|adj.|부적절한|Such behavior is inappropriate at work.
+landlord|n.|집주인, 임대인|The landlord raised the rent.
+layout|n.|배치, 레이아웃|We changed the layout of the office.
+lunchtime|n.|점심시간|The cafe is busy at lunchtime.
+payroll|n.|급여 대상자 명단; 급여 업무|She works in the payroll department.
+pharmaceutical|adj.|제약의|He works for a pharmaceutical company.
+plausible|adj.|그럴듯한|That is a plausible explanation.
+premium|n.|보험료; 할증금|Insurance premiums have increased.
+safely|adv.|안전하게|All passengers arrived safely.
+simplify|v.|단순화하다|We simplified the application process.
+specialty|n.|전문, 특산품|Seafood is the restaurant's specialty.
+tech|adj.|기술의|She works at a tech company.
+unexpected|adj.|예기치 않은|There was an unexpected delay.
+unspecified|adj.|명시되지 않은|The event was delayed for an unspecified time.
+adhere|v.|(규칙을) 준수하다|All staff must adhere to the dress code.
+bankrupt|adj.|파산한|The company went bankrupt last year.
+caution|n.|주의, 경고|Use caution when the floor is wet.
+clip|n.|클립; 짧은 영상|Use a clip to hold the papers.
+comply|v.|(규정을) 준수하다|All staff must comply with safety regulations.
+diner|n.|식사하는 사람; 작은 식당|Diners enjoyed the new menu.
+duplicate|n.|사본; v. 복사하다|Please keep a duplicate of the receipt.
+eager|adj.|열망하는|We are eager to start the project.
+economist|n.|경제학자|Economists predict slow growth.
+embassy|n.|대사관|Contact the embassy for a visa.
+fasten|v.|매다, 고정하다|Please fasten your seat belts.
+harmful|adj.|해로운|Smoking is harmful to health.
+informative|adj.|유익한|The seminar was very informative.
+institute|n.|연구소, 협회|She works at a research institute.
+kit|n.|도구 세트|Each room has a first-aid kit.
+locally|adv.|지역에서|All produce is grown locally.
+mentor|n.|멘토, 조언자|Each new hire is assigned a mentor.
+nominate|v.|지명하다, 후보로 추천하다|She was nominated for the award.
+opt|v.|선택하다|Many employees opted to work from home.
+parade|n.|퍼레이드|The parade will block Main Street.
+physician|n.|내과 의사|Consult your physician before exercising.
+polish|v.|다듬다, 광내다|She polished her presentation skills.
+postage|n.|우편 요금|Postage is included in the price.
+recreational|adj.|레크리에이션의, 오락의|The park offers recreational activities.
+rehearse|v.|리허설하다|We rehearsed the presentation twice.
+removal|n.|제거|Snow removal begins at 6 A.M.
+satisfactory|adj.|만족스러운|The results were satisfactory.
+seasonal|adj.|계절적인|We hire seasonal workers in summer.
+separately|adv.|따로따로|The items will be shipped separately.
+turnover|n.|이직률; 매출액|The company has a low staff turnover.
+unnecessary|adj.|불필요한|Avoid unnecessary expenses.
+accordingly|adv.|그에 따라|Plans have changed, so act accordingly.
+applicable|adj.|적용되는, 해당되는|Fill in all applicable sections.
+auction|n.|경매|The painting was sold at auction.
+balcony|n.|발코니|Each room has a balcony.
+basement|n.|지하실|The storage room is in the basement.
+beforehand|adv.|사전에|Please call beforehand to book a table.
+culinary|adj.|요리의|She attended a culinary school.
+documentary|n.|다큐멘터리|The documentary won several awards.
+downturn|n.|(경기) 침체|Sales fell during the economic downturn.
+earthquake|n.|지진|The building is designed to withstand earthquakes.
+elegant|adj.|우아한|The hotel has an elegant ballroom.
+excessive|adj.|과도한|Avoid excessive use of paper.
+generic|adj.|일반적인; 상표 없는|Generic drugs are cheaper.
+lifetime|n.|일생, 평생|The warranty is valid for a lifetime.
+massage|n.|마사지|The spa offers massages.
+maximize|v.|극대화하다|We want to maximize profits.
+mild|adj.|온화한, 순한|The weather will be mild this week.
+ongoing|adj.|진행 중인|Negotiations are ongoing.
+periodically|adv.|주기적으로|The system is updated periodically.
+plug|v.|플러그를 꽂다|Plug the cable into the computer.
+recruitment|n.|채용|Recruitment for the position begins next week.
+referee|n.|심판; 추천인|Please provide the names of two referees.
+referral|n.|추천, 소개|We got many new clients through referrals.
+renowned|adj.|유명한|The hotel is renowned for its service.
+runner|n.|주자|The marathon attracted 5,000 runners.
+timetable|n.|시간표|Check the train timetable.
+vase|n.|꽃병|There is a vase of flowers on the table.
+aboard|adv.|탑승하여|Welcome aboard Flight 205.
+advancement|n.|발전; 승진|The job offers chances for advancement.
+advertiser|n.|광고주|Advertisers pay for space in the magazine.
+alternatively|adv.|그 대신에|Alternatively, you can apply online.
+amuse|v.|즐겁게 하다|The show amused the children.
+attorney|n.|변호사|Our attorney reviewed the contract.
+authorization|n.|승인, 허가|You need authorization to enter.
+campus|n.|캠퍼스, 구내|The company has a large campus.
+certify|v.|증명하다, 자격을 인증하다|She is certified as an accountant.
+checkout|n.|계산대; 체크아웃|Checkout time is 11 A.M.
+chemistry|n.|화학|He has a degree in chemistry.
+circulation|n.|발행 부수; 순환|The newspaper has a large circulation.
+concierge|n.|(호텔) 안내원|Ask the concierge for restaurant tips.
+consent|n.|동의|Written consent is required.
+consistently|adv.|일관되게|She has consistently met her targets.
+deck|n.|갑판; 테라스|Passengers are on the deck.
+descriptive|adj.|설명적인|Write a descriptive title for the product.
+detach|v.|떼어내다|Detach and return the bottom section.
+documentation|n.|문서, 증빙 서류|Please submit all required documentation.
+entrepreneur|n.|기업가|The entrepreneur started three companies.
+exceptional|adj.|특출한, 예외적인|She showed exceptional skill.
+familiarize|v.|익숙하게 하다|Familiarize yourself with the safety rules.
+hotline|n.|직통 전화|Call our customer hotline for help.
+invention|n.|발명(품)|The invention changed the industry.
+irritate|v.|짜증나게 하다|The noise irritated the staff.
+locker|n.|사물함|Store your belongings in a locker.
+overlook|v.|간과하다; 내려다보다|The room overlooks the sea.
+patent|n.|특허|The company holds a patent on the design.
+payable|adj.|지불해야 하는|The invoice is payable within 30 days.
+preliminary|adj.|예비의|The preliminary results look good.
+salesman|n.|판매원|The salesman offered a discount.
+smoothly|adv.|순조롭게|The event went smoothly.
+tow|v.|견인하다|Illegally parked cars will be towed.
+translator|n.|번역가|We hired a translator for the meeting.
+tuition|n.|수업료|The company pays tuition for staff courses.
+unavailable|adj.|이용할 수 없는|The manager is unavailable today.
+violation|n.|위반|Parking here is a violation of the rules.
+acceptance|n.|수락|We received your letter of acceptance.
+allocate|v.|할당하다|Funds were allocated to the research department.
+ambitious|adj.|야심 찬|The company has ambitious plans.
+appendix|n.|부록|See the appendix for details.
+booth|n.|부스, 칸막이 공간|Visit our booth at the trade fair.
+clarify|v.|명확히 하다|Could you clarify your question?
+classmate|n.|급우|She met her classmates for dinner.
+compile|v.|편집하다, 수집하다|We compiled a list of suppliers.
+correction|n.|수정|Please make corrections in red ink.
+customize|v.|맞춤 제작하다|You can customize your order online.
+dedication|n.|헌신|We thank her for her dedication.
+diagnose|v.|진단하다|The technician diagnosed the problem.
+discontinue|v.|중단하다, 단종하다|This model has been discontinued.
+dishwasher|n.|식기세척기|Load the dishwasher after lunch.
+drought|n.|가뭄|The drought hurt crop production.
+economize|v.|절약하다|We must economize on energy.
+entrée|n.|주요리|The entrée comes with a salad.
+firework|n.|불꽃놀이|Fireworks will end the festival.
+freight|n.|화물(운송)|The freight will arrive by train.
+fry|v.|튀기다|Fry the onions until golden.
+gardener|n.|정원사|The gardener trimmed the hedges.
+ideally|adv.|이상적으로|Ideally, we should finish by Friday.
+inclusive|adj.|포함된|The price is inclusive of tax.
+insufficient|adj.|불충분한|There were insufficient funds in the account.
+introductory|adj.|입문의; 출시 기념의|New members get an introductory discount.
+junk|n.|쓸모없는 물건|Junk mail goes straight in the trash.
+mileage|n.|주행 거리; 마일리지|The car has low mileage.
+noisy|adj.|시끄러운|The street outside is noisy.
+parcel|n.|소포|The parcel arrived this morning.
+periodical|n.|정기 간행물|The library subscribes to many periodicals.
+pill|n.|알약|Take one pill after each meal.
+portable|adj.|휴대용의|The portable speaker is very popular.
+punctual|adj.|시간을 엄수하는|Employees are expected to be punctual.
+recreation|n.|휴양, 오락|The park is used for recreation.
+relieve|v.|완화하다; 교대하다|The new road will relieve traffic.
+reminder|n.|알림, 상기시키는 것|This is a reminder about tomorrow's meeting.
+rumor|n.|소문|There are rumors of a merger.
+seaside|n.|해변|The hotel is by the seaside.
+shorten|v.|줄이다, 단축하다|We shortened the meeting to one hour.
+specially|adv.|특별히|The dish was specially prepared for you.
+spill|v.|엎지르다|He spilled coffee on the report.
+spouse|n.|배우자|Employees may bring their spouses.
+subtract|v.|빼다|Subtract the discount from the total.
+tablet|n.|태블릿; 알약|Orders can be placed on a tablet.
+vend|v.|팔다|Snacks are sold from vending machines.
+accent|n.|억양|She speaks with a British accent.
+advisory|adj.|자문의|He sits on the advisory board.
+asleep|adj.|잠든|The passengers were asleep.
+authentic|adj.|진짜의, 정통의|The restaurant serves authentic Thai food.
+bakery|n.|제과점|The bakery opens at 7 A.M.
+carton|n.|(판지) 상자|The carton was damaged in shipping.
+compartment|n.|칸, 수납공간|Put your bag in the overhead compartment.
+compatible|adj.|호환되는|The software is compatible with most computers.
+consumption|n.|소비|Energy consumption fell by 10%.
+conveniently|adv.|편리하게|The hotel is conveniently located.
+cosmetic|adj.|화장용의; 겉치레의|The company sells cosmetic products.
+courtesy|n.|예의; 무료 제공|A courtesy bus runs to the airport.
+creativity|n.|창의성|We value creativity and teamwork.
+disagreement|n.|의견 차이|There was a disagreement over the budget.
+disappointment|n.|실망|The results were a disappointment.
+dissatisfy|v.|불만을 느끼게 하다|Many customers were dissatisfied with the service.
+enjoyable|adj.|즐거운|We had an enjoyable evening.
+faculty|n.|교수진; 능력|The faculty meeting is on Monday.
+favorable|adj.|호의적인, 유리한|The product received favorable reviews.
+foreman|n.|현장 감독|The foreman checked the work.
+forum|n.|토론회, 포럼|The forum will discuss urban planning.
+founder|n.|설립자|The founder started the company in 1990.
+fundraise|v.|모금하다|We are fundraising for a new library.
+graphics|n.|그래픽|The graphics in the report are clear.
+handy|adj.|편리한, 유용한|This tool is very handy.
+hazardous|adj.|위험한|Hazardous materials must be labeled.
+healthcare|n.|의료 서비스|He works in healthcare.
+humidity|n.|습도|High humidity is expected today.
+influential|adj.|영향력 있는|She is an influential writer.
+nationwide|adj.|전국적인|The company has 200 stores nationwide.
+pad|n.|메모장; 패드|Write notes on the pad.
+paraphrase|v.|다른 말로 바꾸어 표현하다|Can you paraphrase the main idea?
+placement|n.|배치, 취업 알선|The agency provides job placement services.
+postal|adj.|우편의|Enter your postal code.
+publicity|n.|홍보, 관심|The event got a lot of publicity.
+renter|n.|임차인|Renters must pay a deposit.
+repairperson|n.|수리공|A repairperson will come tomorrow.
+repeatedly|adv.|반복적으로|He called repeatedly.
+restroom|n.|화장실|The restrooms are down the hall.
+silently|adv.|조용히|The audience waited silently.
+spa|n.|스파|The resort has a full-service spa.
+spreadsheet|n.|스프레드시트|Enter the data into the spreadsheet.
+stapler|n.|스테이플러|Can I borrow your stapler?
+streamline|v.|간소화하다, 능률화하다|We streamlined the ordering process.
+substantially|adv.|상당히|Costs have increased substantially.
+teller|n.|(은행) 창구 직원|The bank teller cashed my check.
+tidy|adj.|깔끔한|Keep your desk tidy.
+toll|n.|통행료|There is a toll on this bridge.
+toner|n.|토너|The printer needs new toner.
+urgently|adv.|긴급하게|We urgently need more staff.
+walkway|n.|통로, 보도|A covered walkway connects the buildings.
+absorb|v.|흡수하다|The company will absorb the extra costs.
+administer|v.|관리하다; 실시하다|The test will be administered by Ms. Cho.
+ample|adj.|충분한|There is ample parking near the venue.
+antique|n.|골동품|The shop sells antiques.
+browse|v.|둘러보다, 검색하다|Feel free to browse our catalog.
+careless|adj.|부주의한|The error was caused by a careless mistake.
+collector|n.|수집가|The painting was bought by a collector.
+conform|v.|따르다, 일치하다|All products conform to safety standards.
+congestion|n.|혼잡|Traffic congestion is worse on Fridays.
+contradiction|n.|모순|There is a contradiction in the report.
+contrary|adj.|반대의|Contrary to expectations, sales rose.
+diploma|n.|졸업장, 수료증|A high school diploma is required.
+distributor|n.|유통업자|We are the sole distributor in Korea.
+dive|v.|다이빙하다; 급락하다|Share prices dived after the news.
+energetic|adj.|활동적인|We need an energetic sales manager.
+environmentally|adv.|환경적으로|Use environmentally friendly products.
+escalator|n.|에스컬레이터|Take the escalator to the second floor.
+exotic|adj.|이국적인|The menu features exotic dishes.
+fabric|n.|직물, 천|The sofa is covered in a soft fabric.
+generalization|n.|일반화|Avoid making broad generalizations.
+guidance|n.|지도, 안내|Ask your supervisor for guidance.
+hesitant|adj.|주저하는|Customers are hesitant to spend.
+indicator|n.|지표|Sales are a key indicator of growth.
+individually|adv.|개별적으로|Each item is wrapped individually.
+junior|adj.|하급의, 후배의|She is a junior accountant.
+lifestyle|n.|생활 방식|The magazine covers health and lifestyle.
+likewise|adv.|마찬가지로|Likewise, the costs will rise.
+morale|n.|사기|Staff morale is high.
+orchestra|n.|오케스트라|The orchestra will perform on Friday.
+organizational|adj.|조직의|She has strong organizational skills.
+outlook|n.|전망|The economic outlook is positive.
+pole|n.|기둥, 막대|A sign is attached to the pole.
+sticker|n.|스티커|Put a sticker on each box.
+telecommunication|n.|원격 통신|He works in telecommunications.
+timely|adj.|시기적절한|Thank you for your timely response.
+uncomfortable|adj.|불편한|The chairs are uncomfortable.
+amenity|n.|편의 시설|The hotel offers amenities such as a gym and pool.
+approximate|adj.|대략의|The approximate cost is $500.
+await|v.|기다리다|We await your reply.
+beginner|n.|초보자|The class is for beginners.
+chairperson|n.|의장|The chairperson opened the meeting.
+charitable|adj.|자선의|The firm supports charitable causes.
+checkup|n.|건강 검진; 점검|Employees get a free annual checkup.
+crane|n.|크레인|A crane is lifting steel beams.
+dealership|n.|대리점|He bought a car from the dealership.
+dependable|adj.|믿을 수 있는|We need a dependable supplier.
+disconnect|v.|연결을 끊다|Disconnect the power before cleaning.
+dispose|v.|(of) 처리하다, 버리다|Dispose of batteries properly.
+disrupt|v.|방해하다, 지장을 주다|The storm disrupted flights.
+dynamic|adj.|역동적인|We work in a dynamic environment.
+enthusiastically|adv.|열광적으로|The plan was received enthusiastically.
+freelance|adj.|프리랜서의|She works as a freelance writer.
+grill|n.|그릴; v. 굽다|The chef grilled the fish.
+habitual|adj.|습관적인|He is a habitual latecomer.
+internationally|adv.|국제적으로|The brand is known internationally.
+invaluable|adj.|매우 귀중한|Her advice was invaluable.
+messenger|n.|배달원, 전달자|A messenger delivered the documents.
+paperback|n.|문고판|The novel is now in paperback.
+rebate|n.|환불금, 할인|Customers get a $50 rebate.
+recur|v.|재발하다|Contact us if the problem recurs.
+reproduce|v.|복제하다|No part may be reproduced without permission.
+spray|v.|뿌리다|A worker is spraying the plants.
+staple|v.|스테이플러로 고정하다|Staple the pages together.
+strategic|adj.|전략적인|We made a strategic decision.
+stripe|n.|줄무늬|The shirt has blue stripes.
+tempt|v.|유혹하다|The sale tempted many shoppers.
+timer|n.|타이머|Set the timer for ten minutes.
+unload|v.|(짐을) 내리다|Workers are unloading the truck.
+unusually|adv.|평소와 달리|It's unusually cold today.
+vacate|v.|비우다|Guests must vacate the room by noon.
+wisely|adv.|현명하게|Spend your budget wisely.
+amateur|adj.|아마추어의|The contest is open to amateur photographers.
+ambassador|n.|대사; 홍보대사|The ambassador visited the factory.
+anew|adv.|새로|We will start anew next year.
+architectural|adj.|건축의|The building has architectural value.
+attain|v.|달성하다|We attained our sales goal.
+blueprint|n.|청사진, 설계도|The architect showed us the blueprint.
+bug|n.|(프로그램) 오류|The update fixed several bugs.
+cautious|adj.|조심스러운|Investors are cautious.
+circuit|n.|회로|The circuit was overloaded.
+clap|v.|박수 치다|The audience clapped loudly.
+commerce|n.|상업, 무역|The chamber of commerce held a meeting.
+convey|v.|전달하다|Please convey my thanks to your team.
+cord|n.|전선, 줄|The power cord is too short.
+counselor|n.|상담사|A career counselor can help you.
+debit|n.|인출, 차변|You can pay by debit card.
+delicate|adj.|섬세한, 깨지기 쉬운|Handle the delicate items with care.
+dependence|n.|의존|We must reduce our dependence on oil.
+distraction|n.|주의 산만, 방해 요소|Phones are a distraction at work.
+downsize|v.|(인원을) 축소하다|The company downsized its staff.
+enthusiasm|n.|열정|She showed great enthusiasm for the job.
+enthusiast|n.|열광적인 팬|The show attracts car enthusiasts.
+evident|adj.|분명한|It was evident that he was tired.
+flexibility|n.|유연성|The job offers flexibility.
+flextime|n.|자율 출퇴근제|Employees can use flextime.
+fortunately|adv.|다행히|Fortunately, no one was hurt.
+freighter|n.|화물선|The freighter arrived at the port.
+generator|n.|발전기|The hospital has a backup generator.
+hallway|n.|복도|The restrooms are down the hallway.
+hazard|n.|위험 요소|Wet floors are a safety hazard.
+homeowner|n.|주택 소유자|Homeowners must pay property tax.
+imperative|adj.|필수적인|It is imperative that we act now.
+inflate|v.|부풀리다|Prices were inflated during the holiday.
+insert|v.|삽입하다|Insert your card into the machine.
+lecturer|n.|강사|The lecturer spoke about economics.
+meaningful|adj.|의미 있는|We had a meaningful discussion.
+memorize|v.|암기하다|Memorize your password.
+merchant|n.|상인|Local merchants support the festival.
+modification|n.|수정, 변경|Some modifications were made to the plan.
+occupant|n.|거주자, 사용자|All occupants must leave the building.
+overcharge|v.|과다 청구하다|I was overcharged for my meal.
+oversee|v.|감독하다|She oversees the marketing team.
+petition|n.|청원(서)|Residents signed a petition.
+pillow|n.|베개|Extra pillows are in the closet.
+pottery|n.|도자기|She sells handmade pottery.
+professionally|adv.|전문적으로|The photos were taken professionally.
+publicize|v.|홍보하다|We need to publicize the event.
+ray|n.|광선|The ray of light came through the window.
+redecorate|v.|다시 꾸미다|We redecorated the lobby.
+refinery|n.|정제소|The oil refinery employs 500 people.
+refresh|v.|새롭게 하다|Refresh the page to see updates.
+refundable|adj.|환불 가능한|The ticket is not refundable.
+reimbursement|n.|환급, 변제|Submit receipts for reimbursement.
+reliability|n.|신뢰성|The car is known for its reliability.
+reluctant|adj.|꺼리는|He was reluctant to change.
+sewer|n.|하수도|The city is repairing the sewer.
+tailor|v.|맞추다; n. 재단사|We tailor our services to each client.
+termination|n.|종료, 해고|The contract allows termination with notice.
+theft|n.|절도|Report any theft to security.
+thunderstorm|n.|뇌우|A thunderstorm delayed the flight.
+transmission|n.|전송; 변속기|The data transmission failed.
+transmit|v.|전송하다|The data is transmitted securely.
+unused|adj.|사용하지 않은|Return unused items for a refund.
+waive|v.|면제하다, 포기하다|The fee will be waived for members.
+activate|v.|활성화하다|Activate your card before use.
+additionally|adv.|게다가|Additionally, we offer free delivery.
+affirmative|adj.|긍정의|She gave an affirmative answer.
+baker|n.|제빵사|The baker starts work at 4 A.M.
+brainstorm|v.|아이디어를 짜내다|Let's brainstorm ideas for the campaign.
+cage|n.|우리, 새장|The bird is in a cage.
+collaboration|n.|협력|The project was a collaboration between two firms.
+condominium|n.|아파트, 콘도|They bought a condominium downtown.
+consecutive|adj.|연속적인|Sales rose for three consecutive months.
+cordless|adj.|무선의|The office uses cordless phones.
+deluxe|adj.|고급의|We booked a deluxe room.
+desirable|adj.|바람직한|Experience is desirable but not required.
+discrepancy|n.|불일치|There is a discrepancy in the figures.
+dispatch|v.|발송하다|Orders are dispatched within 24 hours.
+drawback|n.|단점|The only drawback is the price.
+dull|adj.|지루한; 무딘|The lecture was dull.
+economically|adv.|경제적으로|The region is economically strong.
+evenly|adv.|고르게|Spread the paint evenly.
+excellence|n.|탁월함|The award recognizes excellence in service.
+exclusively|adv.|독점적으로, 오로지|The product is sold exclusively online.
+farewell|n.|작별|We held a farewell party for Mr. Han.
+fatigue|n.|피로|Driver fatigue causes accidents.
+fiscal|adj.|회계의, 재정의|The fiscal year ends in June.
+fleet|n.|(차량·선박) 무리|The company has a fleet of 50 trucks.
+fog|n.|안개|Flights were delayed by fog.
+formally|adv.|공식적으로|The plan was formally approved.
+handbook|n.|안내서|Read the employee handbook.
+headphone|n.|헤드폰|Use headphones when listening to music.
+heater|n.|난방기|Turn on the heater.
+helmet|n.|헬멧|Workers must wear helmets.
+hiker|n.|도보 여행자|Hikers should stay on the trail.
+homeless|adj.|노숙자의|The charity helps homeless people.
+lighter|adj.|더 가벼운|The new model is lighter.
+loudly|adv.|큰 소리로|Please don't talk loudly in the library.
+loyalty|n.|충성; 단골|Join our loyalty program.
+microwave|n.|전자레인지|There is a microwave in the kitchen.
+misidentify|v.|잘못 확인하다|The item was misidentified.
+neat|adj.|깔끔한|Keep the workplace neat.
+nomination|n.|지명, 추천|Nominations for the award are open.
+officially|adv.|공식적으로|The store officially opens tomorrow.
+outfit|n.|옷 한 벌|She wore a formal outfit.
+pastry|n.|페이스트리|The cafe sells fresh pastries.
+personalize|v.|개인 맞춤화하다|You can personalize your mugs.
+poorly|adv.|형편없이|The product sold poorly.
+prestigious|adj.|명망 있는|She won a prestigious award.
+purser|n.|(선박·항공기) 사무장|The purser checked the tickets.
+reassure|v.|안심시키다|The manager reassured the staff.
+resume|v.|재개하다|Work will resume after lunch.
+reunion|n.|재회 모임|The class reunion is next month.
+revolutionize|v.|혁신을 일으키다|The device revolutionized the industry.
+seafood|n.|해산물|The restaurant is known for seafood.
+signify|v.|의미하다|A red light signifies danger.
+slot|n.|자리, 시간대|There are a few slots left.
+steer|v.|조종하다, 이끌다|She steered the company through hard times.
+sue|v.|고소하다|The customer sued the company.
+superb|adj.|최고의, 훌륭한|The food was superb.
+traditionally|adv.|전통적으로|Traditionally, the event is held in May.
+tremendous|adj.|엄청난|The campaign was a tremendous success.
+underway|adj.|진행 중인|Construction is underway.
+unpleasant|adj.|불쾌한|The smell was unpleasant.
+ward|n.|병동|She works in the children's ward.
+worthwhile|adj.|가치 있는|The training was worthwhile.
+adapter|n.|어댑터|You need an adapter for this plug.
+advisable|adj.|권할 만한|It is advisable to book early.
+archive|n.|기록 보관소|Old files are kept in the archive.
+artistic|adj.|예술적인|She has artistic talent.
+assurance|n.|보장, 확신|We have assurances from the supplier.
+athletic|adj.|운동의|The store sells athletic shoes.
+attire|n.|복장|Business attire is required.
+auditor|n.|회계 감사관|The auditors found no problems.
+bankruptcy|n.|파산|The company filed for bankruptcy.
+bulk|n.|대량|Buying in bulk saves money.
+circulate|v.|배포하다, 순환하다|Please circulate this memo.
+comfortably|adv.|편안하게|The room seats 20 people comfortably.
+compliance|n.|준수|We are in compliance with all laws.
+contraction|n.|수축, 축소|There was a contraction in demand.
+cookbook|n.|요리책|The chef published a cookbook.
+cushion|n.|쿠션|The chairs have soft cushions.
+dose|n.|(약의) 복용량|Take one dose every six hours.
+embed|v.|끼워 넣다|The chip is embedded in the card.
+evacuate|v.|대피시키다|Staff were evacuated from the building.
+expedite|v.|신속히 처리하다|We paid extra to expedite the delivery.
+extinguisher|n.|소화기|Every floor has a fire extinguisher.
+familiarity|n.|친숙함, 잘 앎|Familiarity with Excel is required.
+flaw|n.|결함|The design has a serious flaw.
+fluctuate|v.|변동하다|Prices fluctuate daily.
+fluent|adj.|유창한|She is fluent in Japanese.
+honestly|adv.|솔직히|Please answer honestly.
+housekeep|v.|(housekeeping) 객실 관리|Call housekeeping for more towels.
+hurricane|n.|허리케인|The hurricane closed the airport.
+hygiene|n.|위생|Good hygiene is essential in the kitchen.
+integral|adj.|필수적인|She is an integral part of the team.
+interactive|adj.|상호작용하는|The museum has interactive displays.
+interfere|v.|방해하다, 간섭하다|Noise can interfere with work.
+layoff|n.|해고, 정리해고|The company announced layoffs.
+lightweight|adj.|가벼운|The laptop is lightweight.
+merit|n.|장점, 가치|The proposal has some merit.
+needy|adj.|어려운, 가난한|Donations go to needy families.
+overpay|v.|초과 지불하다|You were overpaid last month.
+pamphlet|n.|팸플릿, 소책자|Pick up a pamphlet at the desk.
+partial|adj.|부분적인|We received a partial refund.
+penalize|v.|벌칙을 주다|Late payments will be penalized.
+pollute|v.|오염시키다|Factories pollute the river.
+prescribe|v.|처방하다|The doctor prescribed some medicine.
+probable|adj.|있을 법한|The probable cause was human error.
+prominent|adj.|저명한; 눈에 띄는|She is a prominent lawyer.
+rainfall|n.|강우량|Rainfall was low this year.
+relocation|n.|이전|The relocation of the office took a month.
+residence|n.|거주지|The mayor's residence is nearby.
+retrieve|v.|되찾다, 회수하다|You can retrieve your files from the server.
+rider|n.|탑승자|Bus riders complained about delays.
+rubber|n.|고무|The soles are made of rubber.
+rug|n.|깔개|There is a rug on the floor.
+salespeople|n.|판매원들|Our salespeople are well trained.
+sharply|adv.|급격히|Prices rose sharply.
+similarity|n.|유사성|There are similarities between the plans.
+someday|adv.|언젠가|I hope to visit Paris someday.
+spectator|n.|관중|Thousands of spectators watched the game.
+stereo|n.|스테레오|The car has a new stereo.
+storeroom|n.|창고|The supplies are in the storeroom.
+subsidize|v.|보조금을 지급하다|The company subsidizes lunch.
+suspicious|adj.|의심스러운|Report any suspicious packages.
+tasty|adj.|맛있는|The soup was tasty.
+terrific|adj.|훌륭한|You did a terrific job.
+underground|adj.|지하의|There is an underground parking lot.
+unpaid|adj.|미지불의; 무급의|The bill is still unpaid.
+wheelchair|n.|휠체어|The building is wheelchair accessible.
+whoever|pron.|누구든지|Whoever finishes first may leave.
+wrinkle|n.|주름|The fabric doesn't wrinkle.
+accuracy|n.|정확성|Check the accuracy of the data.
+appetizer|n.|전채 요리|We ordered two appetizers.
+arc|n.|호, 활 모양|The bridge forms an arc.
+audition|n.|오디션|The audition is on Monday.
+backpack|n.|배낭|He's carrying a backpack.
+ballroom|n.|연회장|The dinner is in the ballroom.
+beneficial|adj.|유익한|The program is beneficial to staff.
+biography|n.|전기|She wrote a biography of the founder.
+bound|adj.|~행의; ~할 것 같은|The train is bound for Busan.
+broom|n.|빗자루|A man is sweeping with a broom.
+chilly|adj.|쌀쌀한|It's chilly this morning.
+compliment|n.|칭찬|She received many compliments on her speech.
+consignment|n.|탁송(물)|The consignment arrived damaged.
+continental|adj.|대륙의|A continental breakfast is included.
+copyright|n.|저작권|The book is protected by copyright.
+countryside|n.|시골|We drove through the countryside.
+demolish|v.|철거하다|The old building will be demolished.
+departmental|adj.|부서의|The departmental budget was cut.
+desperate|adj.|절박한|They are desperate for help.
+devastate|v.|황폐화하다|The storm devastated the town.
+diagnostic|adj.|진단의|Run a diagnostic test on the computer.
+diagram|n.|도표, 도해|The diagram shows the process.
+disable|v.|작동하지 않게 하다|Disable the alarm before entering.
+disgust|n.|혐오|He left in disgust.
+doorman|n.|도어맨|The doorman opened the door.
+electronically|adv.|전자적으로|Submit the form electronically.
+elevate|v.|높이다|Elevate your legs to reduce swelling.
+engagement|n.|약속; 참여; 약혼|I have a prior engagement.
+enrollment|n.|등록|Enrollment begins next week.
+forbid|v.|금지하다|The rules forbid smoking.
+foster|v.|촉진하다, 기르다|We foster a culture of teamwork.
+getaway|n.|짧은 휴가|The hotel offers weekend getaways.
+gossip|n.|소문, 험담|Avoid office gossip.
+hardworking|adj.|근면한|She is a hardworking employee.
+impatient|adj.|참을성 없는|Customers grew impatient.
+indirect|adj.|간접적인|There are indirect costs.
+interpreter|n.|통역사|An interpreter was provided.
+intersection|n.|교차로|Turn left at the next intersection.
+irrelevant|adj.|무관한|That point is irrelevant.
+journalism|n.|저널리즘|She studied journalism.
+letterhead|n.|편지지 상단의 인쇄 문구|Print the letter on company letterhead.
+lifeguard|n.|인명 구조원|A lifeguard is on duty.
+monument|n.|기념비|The monument attracts tourists.
+obligate|v.|의무를 지우다|You are obligated to pay the fee.
+oblige|v.|의무적으로 ~하게 하다|We are obliged to follow the rules.
+occurrence|n.|발생|Delays are a common occurrence.
+operational|adj.|운영의; 가동 중인|The factory is fully operational.
+outage|n.|정전, 중단|A power outage hit the area.
+overcrowd|v.|너무 붐비게 하다|The train was overcrowded.
+paralegal|n.|법률 보조원|The paralegal prepared the documents.
+partially|adv.|부분적으로|The road is partially closed.
+permanently|adv.|영구적으로|The store has closed permanently.
+plow|v.|(눈을) 치우다, 갈다|The roads were plowed overnight.
+query|n.|질문, 문의|Send your queries to our help desk.
+railway|n.|철도|The railway station is nearby.
+reconsider|v.|재고하다|Please reconsider your decision.
+redesign|v.|다시 디자인하다|We redesigned the website.
+rehearsal|n.|리허설|The rehearsal starts at 2 P.M.
+relaxation|n.|휴식|The spa is a place for relaxation.
+repetition|n.|반복|Learning requires repetition.
+retreat|n.|수련회|The company retreat is in June.
+salon|n.|미용실|She works at a hair salon.
+satellite|n.|위성|The signal comes via satellite.
+scenery|n.|경치|The scenery was beautiful.
+serial|adj.|일련의|Write down the serial number.
+sew|v.|바느질하다|She sewed a button on the shirt.
+sketch|n.|스케치|The designer drew a quick sketch.
+soar|v.|급증하다, 치솟다|Profits soared last year.
+stimulus|n.|자극, 촉진제|The tax cut was a stimulus to the economy.
+stockbroker|n.|주식 중개인|He works as a stockbroker.
+tablecloth|n.|식탁보|A white tablecloth covers the table.
+thrill|v.|열광시키다|We are thrilled with the results.
+tile|n.|타일|The floor is covered with tiles.
+toiletry|n.|세면도구|Toiletries are provided in each room.
+trademark|n.|상표|The logo is a registered trademark.
+tropical|adj.|열대의|We stayed at a tropical resort.
+unemployed|adj.|실직한|He has been unemployed for months.
+validate|v.|입증하다; 승인하다|Please validate your parking ticket.
+willingness|n.|기꺼이 하는 마음|We appreciate your willingness to help.
+abide|v.|(by) 따르다|All members must abide by the rules.
+actively|adv.|적극적으로|We are actively seeking investors.
+allergy|n.|알레르기|Please tell us about any food allergies.
+apprehensive|adj.|걱정하는|She was apprehensive about the interview.
+automotive|adj.|자동차의|He works in the automotive industry.
+bacteria|n.|박테리아|Wash your hands to remove bacteria.
+broaden|v.|넓히다|We want to broaden our customer base.
+bulb|n.|전구|Replace the light bulb.
+by-law|n.|내규, 조례|The by-laws were updated.
+cheer|v.|응원하다|Fans cheered for the team.
+complication|n.|문제, 복잡한 사정|There were some complications with the order.
+considerate|adj.|사려 깊은|Please be considerate of others.
+daytime|n.|낮|The office is busy in the daytime.
+decoration|n.|장식|Holiday decorations are up.
+discard|v.|버리다|Discard any old files.
+drastically|adv.|대폭, 급격히|Costs were cut drastically.
+erase|v.|지우다|Erase the board after the meeting.
+explorer|n.|탐험가|The museum features famous explorers.
+factual|adj.|사실의|The report is factual.
+fixture|n.|(붙박이) 설비|Light fixtures will be replaced.
+footwear|n.|신발류|The store sells footwear.
+genre|n.|장르|What genre of music do you like?
+gymnasium|n.|체육관|The event is in the gymnasium.
+hereby|adv.|이로써|You are hereby notified of the change.
+hesitation|n.|주저함|Call us without hesitation.
+homemade|adj.|집에서 만든|The cafe serves homemade pies.
+hospitality|n.|환대; 접객업|Thank you for your hospitality.
+incoming|adj.|들어오는|Incoming calls are forwarded to my phone.
+induction|n.|(신입) 교육; 취임|New staff attend an induction session.
+inspiration|n.|영감|Nature is her inspiration.
+intently|adv.|열중하여|He listened intently.
+mower|n.|잔디 깎는 기계|The mower is in the garage.
+nutrition|n.|영양|Good nutrition is important.
+sedan|n.|세단형 자동차|He drives a black sedan.
+sunscreen|n.|자외선 차단제|Wear sunscreen outdoors.
+wellness|n.|건강|The company runs a wellness program.
+workbook|n.|연습장|Complete the exercises in the workbook.
+bookcase|n.|책장|The bookcase is full.
+cleanliness|n.|청결|The hotel is known for its cleanliness.
+contestant|n.|참가자|Each contestant has five minutes.
+ethics|n.|윤리|The company has a code of ethics.
+healthful|adj.|건강에 좋은|The cafe serves healthful meals.
+inefficient|adj.|비효율적인|The old system is inefficient.
+recession|n.|경기 침체|Many firms closed during the recession.
+timeline|n.|일정표, 시간표|The project timeline is tight.
+unreliable|adj.|믿을 수 없는|The old printer is unreliable.
+acclaim|n.|찬사, 호평|The film received critical acclaim.
+chronic|adj.|만성적인|The city has a chronic housing shortage.
+deteriorate|v.|악화되다|Road conditions deteriorated.
+resemble|v.|닮다|The new logo resembles the old one.
+unauthorized|adj.|무단의, 허가받지 않은|Unauthorized access is prohibited.
+violate|v.|위반하다|The company violated safety rules.
+unplug|v.|플러그를 뽑다|Unplug the machine before cleaning.
+videoconference|n.|화상 회의|We held a videoconference with the team.
+agenda|n.|안건, 의제|The first item on the agenda is the budget review.
+attend|v.|참석하다|All managers are required to attend the workshop.
+colleague|n.|동료|She discussed the proposal with her colleagues.
+assign|v.|배정하다, 맡기다|Mr. Kim was assigned to the new project.
+submit|v.|제출하다|Please submit your expense reports by noon.
+minutes|n.|회의록|The secretary will distribute the minutes.
+conference|n.|회의, 학회|The annual conference will be held in Seoul.
+handout|n.|유인물|Handouts will be provided at the entrance.
+convene|v.|소집하다, 모이다|The board will convene next week.
+brief|v.|간단히 보고하다|She briefed the team on the latest sales figures.
+implement|v.|시행하다|The company will implement the new system in May.
+qualified|adj.|자격을 갖춘|We are looking for a qualified accountant.
+recruit|v.|모집하다, 채용하다|The firm plans to recruit 50 new engineers.
+promote|v.|승진시키다; 홍보하다|He was promoted to regional manager.
+retire|v.|은퇴하다|Ms. Lee will retire at the end of the year.
+candidate|n.|후보자|Three candidates were invited for a second interview.
+reference|n.|추천서, 추천인|Please provide two professional references.
+probation|n.|수습 기간|New hires are on probation for three months.
+benefits|n.|복리후생|The position offers competitive salary and benefits.
+personnel|n.|인사과; 직원들|Contact the personnel department for details.
+evaluation|n.|평가|Performance evaluations are conducted annually.
+resign|v.|사임하다|The director resigned for personal reasons.
+compensation|n.|보상, 급여|Compensation will depend on experience.
+transfer|v.|전근시키다, 옮기다|She requested a transfer to the London office.
+launch|v.|출시하다|The new smartphone will be launched next month.
+survey|n.|설문 조사|According to the survey, customers prefer online ordering.
+campaign|n.|캠페인, 광고 활동|The advertising campaign increased sales by 20%.
+competitor|n.|경쟁자, 경쟁사|Our prices are lower than those of our competitors.
+discount|n.|할인|Members receive a 10% discount on all items.
+promotion|n.|판촉; 승진|The summer promotion ends on August 31.
+target|v.|겨냥하다, 목표로 하다|The product is targeted at young professionals.
+demand|n.|수요|Demand for electric cars has risen sharply.
+revenue|n.|수익, 매출|Annual revenue exceeded $5 million.
+market share|n.|시장 점유율|The company aims to increase its market share.
+boost|v.|증가시키다, 북돋우다|The holiday season boosted sales.
+budget|n.|예산|The project was completed under budget.
+expense|n.|비용, 경비|Travel expenses will be reimbursed.
+profit|n.|이익|Profits rose by 15% last quarter.
+quarter|n.|분기|Sales in the third quarter were strong.
+estimate|n.|견적, 추정|We received an estimate for the repairs.
+deficit|n.|적자|The company reported a deficit this year.
+invest|v.|투자하다|The firm plans to invest in new technology.
+account|n.|계좌; 거래처|The payment was deposited into your account.
+withdraw|v.|인출하다; 철회하다|You can withdraw cash at any branch.
+statement|n.|명세서; 성명|Monthly statements are sent by e-mail.
+asset|n.|자산|Our employees are our greatest asset.
+shareholder|n.|주주|The shareholders approved the merger.
+boarding pass|n.|탑승권|Please have your boarding pass ready.
+accommodation|n.|숙박 시설|Accommodation is included in the package.
+delay|n.|지연|The flight was delayed due to bad weather.
+check in|v.|탑승/투숙 수속하다|Guests can check in after 3 P.M.
+customs|n.|세관|You must declare these items at customs.
+amenities|n.|편의 시설|The hotel offers amenities such as a gym and pool.
+round-trip|adj.|왕복의|A round-trip ticket costs $250.
+layover|n.|(비행기) 경유 체류|We had a three-hour layover in Tokyo.
+manufacture|v.|제조하다|The factory manufactures auto parts.
+supplier|n.|공급업체|We are looking for a new supplier.
+facility|n.|시설|The new facility will open next year.
+capacity|n.|수용력, 생산 능력|The plant is operating at full capacity.
+in stock|phr.|재고가 있는|The item is currently in stock.
+out of stock|phr.|품절인|That model is out of stock.
+equipment|n.|장비|Safety equipment must be worn at all times.
+output|n.|생산량|Output increased by 10% this month.
+procedure|n.|절차|Follow the standard procedure for returns.
+maintenance|n.|유지 보수|The elevator is closed for maintenance.
+component|n.|부품, 구성 요소|Each component is tested carefully.
+track|v.|추적하다|You can track your package online.
+complaint|n.|불만, 항의|We received several complaints about the noise.
+inquiry|n.|문의|Thank you for your inquiry about our services.
+replace|v.|교체하다|We will replace the damaged item.
+apologize|v.|사과하다|We apologize for any inconvenience.
+satisfaction|n.|만족|Customer satisfaction is our top priority.
+representative|n.|담당자, 직원|A customer service representative will help you.
+resolve|v.|해결하다|The issue was resolved quickly.
+exchange|v.|교환하다|You may exchange the item for a different size.
+courteous|adj.|예의 바른, 정중한|The staff were courteous and helpful.
+cancel|v.|취소하다|You can cancel your order at any time.
+policy|n.|정책, 방침|Please review our return policy.
+prompt|adj.|신속한|Thank you for your prompt reply.
+contract|n.|계약(서)|Both parties signed the contract yesterday.
+negotiate|v.|협상하다|They are negotiating a new agreement.
+terms|n.|(계약) 조건|Please read the terms and conditions carefully.
+clause|n.|조항|A new clause was added to the agreement.
+acquire|v.|인수하다, 획득하다|The company acquired a local startup.
+proposal|n.|제안(서)|The client accepted our proposal.
+regulation|n.|규정, 규제|New regulations take effect next month.
+binding|adj.|구속력 있는|The agreement is legally binding.
+party|n.|(계약) 당사자|Both parties agreed to the changes.
+obligation|n.|의무|We have an obligation to protect customer data.
+partnership|n.|제휴, 동업|The two firms formed a partnership.
+effective|adj.|시행되는; 효과적인|The new policy is effective immediately.
