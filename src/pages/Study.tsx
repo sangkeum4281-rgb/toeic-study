@@ -63,6 +63,7 @@ export default function Study() {
       else if (reviewing && e.key === 'ArrowLeft') goBack();
       else if (e.key === 'ArrowRight' || e.key === 'o') mark(true);
       else if (e.key === 'ArrowLeft' || e.key === 'x') mark(false);
+      else if (e.key === 's') speak(flipped ? w.example || w.word : w.word);
       else if (e.key === 'p') speak(w.word);
       else if (e.key === 'e' && w.example) speak(w.example);
     };
@@ -140,6 +141,7 @@ export default function Study() {
       <div className="flip-card h-80 cursor-pointer select-none" onClick={() => setFlipped((f) => !f)}>
         <div className={`flip-inner relative h-full ${flipped ? 'flipped' : ''}`}>
           <div className="flip-face absolute inset-0 card shadow-pop-lg grid place-items-center p-6">
+            <SpeakButton onClick={() => speak(w.word)} title="단어 발음 듣기" />
             <div className="text-center">
               <div className="flex justify-center gap-1.5 mb-3">
                 <span className="chip bg-paper text-ink-mute">{w.pos}</span>
@@ -155,6 +157,7 @@ export default function Study() {
             </div>
           </div>
           <div className="flip-face flip-back absolute inset-0 card shadow-pop-lg bg-lilac-soft border-lilac/40 grid place-items-center p-8">
+            <SpeakButton onClick={() => speak(w.example || w.word)} title="예문 듣기" />
             <div className="text-center">
               <div className="text-sm text-ink-mute mb-1 whitespace-nowrap">{w.word}</div>
               <div className="font-display whitespace-nowrap leading-tight" style={{ fontSize: fitPx(w.meaning, cardWidth - 72, 36, 13) }}>{w.meaning}</div>
@@ -169,9 +172,6 @@ export default function Study() {
         </div>
       </div>
 
-      <div className="flex items-center justify-center gap-3 mt-4">
-        <button className="btn-ghost px-4 py-2.5 rounded-full text-[15px]" onClick={() => speak(w.word)} title="단어 발음 듣기"><Volume2 size={18} /> 단어</button>
-      </div>
 
       {reviewing ? (
         <div className="flex items-center gap-3 mt-4">
@@ -194,5 +194,18 @@ export default function Study() {
       </div>
       )}
     </div>
+  );
+}
+
+/** 카드 오른쪽 위 소리 버튼. 누를 때 카드가 뒤집히지 않게 클릭 전파를 막음 */
+function SpeakButton({ onClick, title }: { onClick: () => void; title: string }) {
+  return (
+    <button
+      onClick={(e) => { e.stopPropagation(); onClick(); }}
+      title={title}
+      className="absolute top-3 right-3 w-10 h-10 rounded-full grid place-items-center text-ink-mute hover:text-brand hover:bg-white/70 transition"
+    >
+      <Volume2 size={20} />
+    </button>
   );
 }
