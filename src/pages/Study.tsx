@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowLeft, Check, RotateCcw, Star, Volume2, X } from 'lucide-react';
+import { ArrowLeft, Check, ChevronLeft, ChevronRight, RotateCcw, Star, Volume2, X } from 'lucide-react';
 import { LEVEL_LABEL, type Word } from '../data/words';
 import { useProgress } from '../contexts/ProgressContext';
 import { pickStudyWords, speak } from '../lib/db';
@@ -11,12 +11,15 @@ export default function Study() {
   const { progress, loaded, level, record, toggleStar, wordsOf } = useProgress();
   const [words, setWords] = useState<Word[]>([]);
   const [i, setI] = useState(0);
+  // 이미 넘긴 카드를 다시 보는 중이면 그 카드 번호 (보기만 하고 표시는 다시 안 함)
+  const [view, setView] = useState<number | null>(null);
   const [flipped, setFlipped] = useState(false);
   const [marks, setMarks] = useState<boolean[]>([]);
 
   const newSession = () => {
     setWords(pickStudyWords(wordsOf(level), progress, SESSION));
     setI(0);
+    setView(null);
     setFlipped(false);
     setMarks([]);
   };
@@ -25,10 +28,24 @@ export default function Study() {
   useEffect(() => { if (loaded) newSession(); }, [loaded, level, wordsOf]);
 
   const done = words.length > 0 && i >= words.length;
-  const w = words[i];
+  const cur = view ?? i;
+  const w = words[cur];
+  const reviewing = view !== null;
+
+  function goBack() {
+    if (cur === 0) return;
+    setFlipped(false);
+    setView(cur - 1);
+  }
+
+  function goForward() {
+    if (!reviewing) return;
+    setFlipped(false);
+    setView(cur + 1 >= i ? null : cur + 1);
+  }
 
   function mark(known: boolean) {
-    if (!w) return;
+    if (!w || reviewing) return;
     record([{ wordId: w.id, correct: known }]).catch(console.error);
     setMarks((m) => [...m, known]);
     setFlipped(false);
@@ -39,6 +56,9 @@ export default function Study() {
     const onKey = (e: KeyboardEvent) => {
       if (done || !w) return;
       if (e.key === ' ') { e.preventDefault(); setFlipped((f) => !f); }
+      else if (e.key === 'Backspace' || e.key === 'b') goBack();
+      else if (reviewing && e.key === 'ArrowRight') goForward();
+      else if (reviewing && e.key === 'ArrowLeft') goBack();
       else if (e.key === 'ArrowRight' || e.key === 'o') mark(true);
       else if (e.key === 'ArrowLeft' || e.key === 'x') mark(false);
       else if (e.key === 'p') speak(w.word);
@@ -111,7 +131,7 @@ export default function Study() {
       <div className="flex gap-1 mb-6">
         {words.map((_, k) => (
           <div key={k} className={`h-2.5 flex-1 rounded-full ${
-            k < marks.length ? (marks[k] ? 'bg-good' : 'bg-bad') : k === i ? 'bg-sunny' : 'bg-paper-line'
+            `${k < marks.length ? (marks[k] ? 'bg-good' : 'bg-bad') : k === i ? 'bg-sunny' : 'bg-paper-line'} ${k === cur && reviewing ? 'ring-2 ring-ink/30' : ''}`
           }`} />
         ))}
       </div>
@@ -160,7 +180,19 @@ export default function Study() {
         </button>
       </div>
 
-      <div className="grid grid-cols-2 gap-3 mt-4">
+      {reviewing ? (
+        <div className="flex items-center gap-3 mt-4">
+          <button className="btn-ghost py-4 px-4" onClick={goBack} disabled={cur === 0} title="이전 카드"><ChevronLeft size={20} /></button>
+          <div className={`flex-1 text-center text-sm font-semibold ${marks[cur] ? 'text-good' : 'text-bad'}`}>
+            이미 넘긴 카드예요 · {marks[cur] ? '알아요' : '몰라요'}로 표시함
+          </div>
+          <button className="btn-primary py-4 px-5" onClick={goForward}>
+            {cur + 1 >= i ? '이어서 하기' : '다음'} <ChevronRight size={18} />
+          </button>
+        </div>
+      ) : (
+      <div className="grid grid-cols-[auto_1fr_1fr] gap-3 mt-4">
+        <button className="btn-ghost py-4 px-4" onClick={goBack} disabled={cur === 0} title="이전 카드 다시 보기 (Backspace)"><ChevronLeft size={20} /></button>
         <button className="btn py-4 bg-[#ffe3e3] text-bad hover:bg-[#ffd3d3]" onClick={() => mark(false)}>
           <X size={18} /> 몰라요 <span className="text-xs opacity-60 hidden sm:inline">←</span>
         </button>
@@ -168,6 +200,7 @@ export default function Study() {
           <Check size={18} /> 알아요 <span className="text-xs opacity-60 hidden sm:inline">→</span>
         </button>
       </div>
+      )}
     </div>
   );
 }
