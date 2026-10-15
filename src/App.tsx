@@ -9,6 +9,7 @@ import Study from './pages/Study';
 import Quiz from './pages/Quiz';
 import Review from './pages/Review';
 import MyWords from './pages/MyWords';
+import ResetPassword from './pages/ResetPassword';
 
 export default function App() {
   const { session, loading } = useAuth();
@@ -45,6 +46,7 @@ export default function App() {
           <Route path="/quiz" element={<Quiz />} />
           <Route path="/review" element={<Review />} />
           <Route path="/words" element={<MyWords />} />
+          <Route path="/reset-password" element={<ResetPassword />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </Layout>

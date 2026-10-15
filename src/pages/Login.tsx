@@ -9,19 +9,32 @@ function signUpError(message: string) {
   return message;
 }
 
+/** 비밀번호 재설정 메일 링크가 돌아올 주소 (GitHub Pages 하위 경로 포함) */
+export const RESET_PATH = 'reset-password';
+const resetRedirect = () => `${window.location.origin}${import.meta.env.BASE_URL}${RESET_PATH}`;
+
 export default function Login() {
-  const [mode, setMode] = useState<'login' | 'signup'>('login');
+  // 재설정 링크가 만료됐거나 잘못돼서 로그인 없이 돌아온 경우
+  const expired = window.location.pathname.endsWith(`/${RESET_PATH}`);
+  const [mode, setMode] = useState<'login' | 'signup' | 'reset'>(expired ? 'reset' : 'login');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [nickname, setNickname] = useState('');
-  const [msg, setMsg] = useState<{ ok: boolean; text: string } | null>(null);
+  const [msg, setMsg] = useState<{ ok: boolean; text: string } | null>(
+    expired ? { ok: false, text: '재설정 링크가 만료됐어요. 이메일을 넣고 다시 요청해주세요.' } : null,
+  );
   const [busy, setBusy] = useState(false);
 
   async function submit(e: FormEvent) {
     e.preventDefault();
     setBusy(true);
     setMsg(null);
-    if (mode === 'login') {
+    if (mode === 'reset') {
+      const { error } = await supabase.auth.resetPasswordForEmail(email, { redirectTo: resetRedirect() });
+      // 가입 여부를 알려주지 않도록 성공/실패와 관계없이 같은 안내 (요청 제한만 따로)
+      if (error && /rate limit|too many|seconds/i.test(error.message)) setMsg({ ok: false, text: '잠시 후 다시 시도해주세요. (요청이 너무 많아요)' });
+      else setMsg({ ok: true, text: '가입된 이메일이면 재설정 링크를 보냈어요. 메일함(스팸함도)을 확인해주세요.' });
+    } else if (mode === 'login') {
       const { error } = await supabase.auth.signInWithPassword({ email, password });
       if (error) setMsg({ ok: false, text: '이메일이나 비밀번호가 달라요' });
     } else {
@@ -49,6 +62,12 @@ export default function Login() {
         </div>
 
         <form onSubmit={submit} className="card p-6 space-y-3">
+          {mode === 'reset' ? (
+            <div className="mb-2">
+              <h2 className="font-display text-xl">비밀번호 재설정</h2>
+              <p className="text-sm text-ink-mute mt-1">가입한 이메일을 넣으면 새 비밀번호를 정할 수 있는 링크를 보내드려요.</p>
+            </div>
+          ) : (
           <div className="grid grid-cols-2 bg-paper rounded-full p-1 mb-2">
             {(['login', 'signup'] as const).map((m) => (
               <button
@@ -61,15 +80,28 @@ export default function Login() {
               </button>
             ))}
           </div>
+          )}
           {mode === 'signup' && (
             <input className="input" placeholder="닉네임 (랭킹에 보여요)" value={nickname} onChange={(e) => setNickname(e.target.value)} required maxLength={20} />
           )}
           <input className="input" type="email" placeholder="이메일" value={email} onChange={(e) => setEmail(e.target.value)} required />
-          <input className="input" type="password" placeholder="비밀번호 (6자 이상)" value={password} onChange={(e) => setPassword(e.target.value)} required minLength={6} />
+          {mode !== 'reset' && (
+            <input className="input" type="password" placeholder="비밀번호 (6자 이상)" value={password} onChange={(e) => setPassword(e.target.value)} required minLength={6} />
+          )}
           {msg && <p className={`text-sm ${msg.ok ? 'text-good' : 'text-bad'}`}>{msg.text}</p>}
           <button className="btn-primary w-full py-3" disabled={busy}>
-            {busy ? '잠깐만요…' : mode === 'login' ? '공부하러 가기 →' : '가입하고 시작하기'}
+            {busy ? '잠깐만요…' : mode === 'login' ? '공부하러 가기 →' : mode === 'signup' ? '가입하고 시작하기' : '재설정 링크 보내기'}
           </button>
+          {mode === 'login' && (
+            <button type="button" className="block mx-auto text-sm text-ink-mute hover:text-brand" onClick={() => { setMode('reset'); setMsg(null); }}>
+              비밀번호를 잊으셨나요?
+            </button>
+          )}
+          {mode === 'reset' && (
+            <button type="button" className="block mx-auto text-sm text-ink-mute hover:text-brand" onClick={() => { setMode('login'); setMsg(null); }}>
+              ← 로그인으로 돌아가기
+            </button>
+          )}
         </form>
       </div>
     </div>
