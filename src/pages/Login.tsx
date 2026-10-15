@@ -41,7 +41,8 @@ export default function Login() {
       const { data, error } = await supabase.auth.signUp({
         email,
         password,
-        options: { data: { nickname: nickname.trim() } },
+        // 지정 안 하면 Supabase Site URL로 돌아가는데, 거기엔 GitHub Pages 하위 경로(/toeic-study/)가 없어 404가 남
+        options: { data: { nickname: nickname.trim() }, emailRedirectTo: `${window.location.origin}${import.meta.env.BASE_URL}` },
       });
       if (error) setMsg({ ok: false, text: signUpError(error.message) });
       // 이메일 확인이 켜져 있으면 Supabase는 이미 가입된 이메일에도 에러 대신 identities가 빈 사용자를 돌려줌
